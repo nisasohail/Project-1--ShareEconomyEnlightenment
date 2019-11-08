@@ -1,0 +1,1853 @@
+,id,WalkScore,description
+1,4,30,Car-Dependent
+2,6,0,Car-Dependent
+3,8,14,Car-Dependent
+4,9,7,Car-Dependent
+5,11,39,Car-Dependent
+6,13,0,Car-Dependent
+7,15,15,Car-Dependent
+8,17,81,Very Walkable
+9,18,21,Car-Dependent
+10,19,6,Car-Dependent
+11,20,6,Car-Dependent
+12,24,10,Car-Dependent
+13,25,85,Very Walkable
+14,27,22,Car-Dependent
+15,29,71,Very Walkable
+16,31,18,Car-Dependent
+17,32,53,Somewhat Walkable
+18,33,49,Car-Dependent
+19,34,30,Car-Dependent
+20,36,7,Car-Dependent
+21,37,5,Car-Dependent
+22,38,80,Very Walkable
+23,39,27,Car-Dependent
+24,40,42,Car-Dependent
+25,41,40,Car-Dependent
+26,42,64,Somewhat Walkable
+27,43,27,Car-Dependent
+28,44,21,Car-Dependent
+29,45,33,Car-Dependent
+30,46,2,Car-Dependent
+31,47,29,Car-Dependent
+32,48,2,Car-Dependent
+33,49,38,Car-Dependent
+34,50,29,Car-Dependent
+35,51,46,Car-Dependent
+36,52,51,Somewhat Walkable
+37,53,7,Car-Dependent
+38,54,2,Car-Dependent
+39,55,55,Somewhat Walkable
+40,56,68,Somewhat Walkable
+41,57,2,Car-Dependent
+42,58,39,Car-Dependent
+43,59,11,Car-Dependent
+44,61,1,Car-Dependent
+45,62,12,Car-Dependent
+46,66,2,Car-Dependent
+47,67,44,Car-Dependent
+48,69,0,Car-Dependent
+49,71,68,Somewhat Walkable
+50,72,65,Somewhat Walkable
+51,75,26,Car-Dependent
+52,79,33,Car-Dependent
+53,81,43,Car-Dependent
+54,82,6,Car-Dependent
+55,83,36,Car-Dependent
+56,85,64,Somewhat Walkable
+57,86,7,Car-Dependent
+58,87,0,Car-Dependent
+59,88,39,Car-Dependent
+60,89,44,Car-Dependent
+61,90,58,Somewhat Walkable
+62,91,4,Car-Dependent
+63,92,28,Car-Dependent
+64,93,57,Somewhat Walkable
+65,95,51,Somewhat Walkable
+66,96,15,Car-Dependent
+67,97,61,Somewhat Walkable
+68,98,0,Car-Dependent
+69,99,2,Car-Dependent
+70,100,7,Car-Dependent
+71,102,4,Car-Dependent
+72,103,14,Car-Dependent
+73,107,30,Car-Dependent
+74,108,0,Car-Dependent
+75,109,24,Car-Dependent
+76,110,53,Somewhat Walkable
+77,111,72,Very Walkable
+78,112,40,Car-Dependent
+79,113,11,Car-Dependent
+80,115,88,Very Walkable
+81,116,14,Car-Dependent
+82,117,43,Car-Dependent
+83,118,21,Car-Dependent
+84,119,39,Car-Dependent
+85,120,47,Car-Dependent
+86,121,64,Somewhat Walkable
+87,122,68,Somewhat Walkable
+88,123,36,Car-Dependent
+89,124,0,Car-Dependent
+90,125,53,Somewhat Walkable
+91,126,36,Car-Dependent
+92,127,51,Somewhat Walkable
+93,128,91,Walker's Paradise
+94,129,17,Car-Dependent
+95,130,12,Car-Dependent
+96,131,7,Car-Dependent
+97,132,22,Car-Dependent
+98,133,19,Car-Dependent
+99,134,0,Car-Dependent
+100,135,2,Car-Dependent
+101,136,20,Car-Dependent
+102,137,6,Car-Dependent
+103,138,0,Car-Dependent
+104,139,9,Car-Dependent
+105,140,64,Somewhat Walkable
+106,141,8,Car-Dependent
+107,142,6,Car-Dependent
+108,143,45,Car-Dependent
+109,146,2,Car-Dependent
+110,147,50,Somewhat Walkable
+111,148,28,Car-Dependent
+112,149,25,Car-Dependent
+113,150,1,Car-Dependent
+114,151,0,Car-Dependent
+115,153,65,Somewhat Walkable
+116,154,6,Car-Dependent
+117,156,17,Car-Dependent
+118,157,1,Car-Dependent
+119,158,62,Somewhat Walkable
+120,159,36,Car-Dependent
+121,160,56,Somewhat Walkable
+122,161,58,Somewhat Walkable
+123,163,97,Walker's Paradise
+124,165,10,Car-Dependent
+125,166,57,Somewhat Walkable
+126,167,0,Car-Dependent
+127,177,20,Car-Dependent
+128,179,85,Very Walkable
+129,184,18,Car-Dependent
+130,185,54,Somewhat Walkable
+131,186,70,Somewhat Walkable
+132,187,44,Car-Dependent
+133,188,65,Somewhat Walkable
+134,189,0,Car-Dependent
+135,190,62,Somewhat Walkable
+136,191,6,Car-Dependent
+137,192,0,Car-Dependent
+138,193,0,Car-Dependent
+139,194,8,Car-Dependent
+140,195,0,Car-Dependent
+141,196,60,Somewhat Walkable
+142,197,5,Car-Dependent
+143,198,90,Very Walkable
+144,199,35,Car-Dependent
+145,200,88,Very Walkable
+146,201,8,Car-Dependent
+147,202,0,Car-Dependent
+148,203,9,Car-Dependent
+149,204,53,Somewhat Walkable
+150,205,50,Somewhat Walkable
+151,206,63,Somewhat Walkable
+152,207,76,Very Walkable
+153,208,72,Very Walkable
+154,209,0,Car-Dependent
+155,210,22,Car-Dependent
+156,211,74,Very Walkable
+157,212,26,Car-Dependent
+158,213,54,Somewhat Walkable
+159,214,66,Somewhat Walkable
+160,215,9,Car-Dependent
+161,216,3,Car-Dependent
+162,217,83,Very Walkable
+163,218,55,Somewhat Walkable
+164,219,6,Car-Dependent
+165,220,3,Car-Dependent
+166,221,9,Car-Dependent
+167,222,32,Car-Dependent
+168,223,83,Very Walkable
+169,224,52,Somewhat Walkable
+170,225,2,Car-Dependent
+171,226,15,Car-Dependent
+172,227,92,Walker's Paradise
+173,228,10,Car-Dependent
+174,229,38,Car-Dependent
+175,230,66,Somewhat Walkable
+176,231,0,Car-Dependent
+177,232,18,Car-Dependent
+178,233,23,Car-Dependent
+179,234,0,Car-Dependent
+180,235,3,Car-Dependent
+181,236,21,Car-Dependent
+182,237,83,Very Walkable
+183,238,0,Car-Dependent
+184,239,70,Very Walkable
+185,240,20,Car-Dependent
+186,241,5,Car-Dependent
+187,242,0,Car-Dependent
+188,243,48,Car-Dependent
+189,244,70,Very Walkable
+190,245,10,Car-Dependent
+191,246,8,Car-Dependent
+192,247,48,Car-Dependent
+193,248,30,Car-Dependent
+194,249,11,Car-Dependent
+195,250,59,Somewhat Walkable
+196,251,4,Car-Dependent
+197,252,0,Car-Dependent
+198,254,64,Somewhat Walkable
+199,255,58,Somewhat Walkable
+200,256,5,Car-Dependent
+201,257,48,Car-Dependent
+202,259,87,Very Walkable
+203,260,44,Car-Dependent
+204,261,49,Car-Dependent
+205,262,30,Car-Dependent
+206,263,41,Car-Dependent
+207,264,10,Car-Dependent
+208,265,87,Very Walkable
+209,266,46,Car-Dependent
+210,267,25,Car-Dependent
+211,268,0,Car-Dependent
+212,269,60,Somewhat Walkable
+213,270,40,Car-Dependent
+214,271,0,Car-Dependent
+215,272,49,Car-Dependent
+216,273,14,Car-Dependent
+217,274,27,Car-Dependent
+218,275,13,Car-Dependent
+219,276,0,Car-Dependent
+220,277,34,Car-Dependent
+221,278,2,Car-Dependent
+222,279,25,Car-Dependent
+223,280,1,Car-Dependent
+224,281,84,Very Walkable
+225,282,1,Car-Dependent
+226,283,58,Somewhat Walkable
+227,285,52,Somewhat Walkable
+228,286,66,Somewhat Walkable
+229,287,8,Car-Dependent
+230,288,34,Car-Dependent
+231,289,60,Somewhat Walkable
+232,290,45,Car-Dependent
+233,291,33,Car-Dependent
+234,293,63,Somewhat Walkable
+235,294,82,Very Walkable
+236,296,13,Car-Dependent
+237,297,26,Car-Dependent
+238,298,61,Somewhat Walkable
+239,304,42,Car-Dependent
+240,305,0,Car-Dependent
+241,307,31,Car-Dependent
+242,308,50,Car-Dependent
+243,309,7,Car-Dependent
+244,310,67,Somewhat Walkable
+245,311,0,Car-Dependent
+246,312,90,Walker's Paradise
+247,313,73,Very Walkable
+248,315,59,Somewhat Walkable
+249,316,0,Car-Dependent
+250,317,47,Car-Dependent
+251,319,24,Car-Dependent
+252,320,21,Car-Dependent
+253,321,12,Car-Dependent
+254,322,0,Car-Dependent
+255,323,7,Car-Dependent
+256,324,10,Car-Dependent
+257,325,41,Car-Dependent
+258,326,29,Car-Dependent
+259,327,53,Somewhat Walkable
+260,328,0,Car-Dependent
+261,329,35,Car-Dependent
+262,330,18,Car-Dependent
+263,331,45,Car-Dependent
+264,332,47,Car-Dependent
+265,333,65,Somewhat Walkable
+266,334,11,Car-Dependent
+267,335,3,Car-Dependent
+268,336,40,Car-Dependent
+269,337,67,Somewhat Walkable
+270,338,50,Somewhat Walkable
+271,341,0,Car-Dependent
+272,348,5,Car-Dependent
+273,350,31,Car-Dependent
+274,351,47,Car-Dependent
+275,352,0,Car-Dependent
+276,353,10,Car-Dependent
+277,354,54,Somewhat Walkable
+278,356,0,Car-Dependent
+279,358,13,Car-Dependent
+280,359,0,Car-Dependent
+281,360,42,Car-Dependent
+282,367,13,Car-Dependent
+283,369,48,Car-Dependent
+284,371,0,Car-Dependent
+285,372,61,Somewhat Walkable
+286,373,5,Car-Dependent
+287,375,0,Car-Dependent
+288,376,0,Car-Dependent
+289,377,48,Car-Dependent
+290,379,30,Car-Dependent
+291,384,5,Car-Dependent
+292,385,59,Somewhat Walkable
+293,386,66,Somewhat Walkable
+294,387,30,Car-Dependent
+295,388,46,Car-Dependent
+296,389,90,Very Walkable
+297,390,40,Car-Dependent
+298,391,49,Car-Dependent
+299,392,68,Somewhat Walkable
+300,393,58,Somewhat Walkable
+301,394,28,Car-Dependent
+302,395,28,Car-Dependent
+303,396,0,Car-Dependent
+304,397,63,Somewhat Walkable
+305,399,8,Car-Dependent
+306,401,54,Somewhat Walkable
+307,402,23,Car-Dependent
+308,403,40,Car-Dependent
+309,404,3,Car-Dependent
+310,405,83,Very Walkable
+311,406,3,Car-Dependent
+312,407,1,Car-Dependent
+313,408,45,Car-Dependent
+314,409,47,Car-Dependent
+315,410,2,Car-Dependent
+316,411,74,Very Walkable
+317,412,2,Car-Dependent
+318,413,15,Car-Dependent
+319,414,0,Car-Dependent
+320,416,63,Somewhat Walkable
+321,417,8,Car-Dependent
+322,418,8,Car-Dependent
+323,419,0,Car-Dependent
+324,420,0,Car-Dependent
+325,421,36,Car-Dependent
+326,422,42,Car-Dependent
+327,423,16,Car-Dependent
+328,424,45,Car-Dependent
+329,425,13,Car-Dependent
+330,426,19,Car-Dependent
+331,427,9,Car-Dependent
+332,428,28,Car-Dependent
+333,429,57,Somewhat Walkable
+334,431,19,Car-Dependent
+335,432,56,Somewhat Walkable
+336,433,65,Somewhat Walkable
+337,434,6,Car-Dependent
+338,435,39,Car-Dependent
+339,436,24,Car-Dependent
+340,437,36,Car-Dependent
+341,438,54,Somewhat Walkable
+342,439,41,Car-Dependent
+343,440,10,Car-Dependent
+344,441,58,Somewhat Walkable
+345,442,14,Car-Dependent
+346,443,0,Car-Dependent
+347,444,13,Car-Dependent
+348,445,0,Car-Dependent
+349,446,69,Somewhat Walkable
+350,447,3,Car-Dependent
+351,448,0,Car-Dependent
+352,449,31,Car-Dependent
+353,450,27,Car-Dependent
+354,451,34,Car-Dependent
+355,452,75,Very Walkable
+356,453,4,Car-Dependent
+357,454,16,Car-Dependent
+358,455,45,Car-Dependent
+359,456,0,Car-Dependent
+360,457,66,Somewhat Walkable
+361,458,21,Car-Dependent
+362,459,5,Car-Dependent
+363,460,0,Car-Dependent
+364,462,2,Car-Dependent
+365,463,9,Car-Dependent
+366,464,9,Car-Dependent
+367,465,0,Car-Dependent
+368,466,0,Car-Dependent
+369,467,42,Car-Dependent
+370,468,1,Car-Dependent
+371,469,37,Car-Dependent
+372,470,57,Somewhat Walkable
+373,471,43,Car-Dependent
+374,473,38,Car-Dependent
+375,475,62,Somewhat Walkable
+376,476,2,Car-Dependent
+377,477,35,Car-Dependent
+378,478,45,Car-Dependent
+379,479,27,Car-Dependent
+380,480,20,Car-Dependent
+381,481,1,Car-Dependent
+382,482,20,Car-Dependent
+383,483,7,Car-Dependent
+384,484,19,Car-Dependent
+385,485,16,Car-Dependent
+386,486,18,Car-Dependent
+387,487,0,Car-Dependent
+388,488,24,Car-Dependent
+389,491,10,Car-Dependent
+390,492,10,Car-Dependent
+391,493,20,Car-Dependent
+392,494,32,Car-Dependent
+393,499,0,Car-Dependent
+394,500,36,Car-Dependent
+395,501,7,Car-Dependent
+396,502,61,Somewhat Walkable
+397,503,0,Car-Dependent
+398,504,12,Car-Dependent
+399,505,4,Car-Dependent
+400,506,66,Somewhat Walkable
+401,507,27,Car-Dependent
+402,508,4,Car-Dependent
+403,509,27,Car-Dependent
+404,510,19,Car-Dependent
+405,511,45,Car-Dependent
+406,512,69,Somewhat Walkable
+407,513,47,Car-Dependent
+408,514,75,Very Walkable
+409,515,37,Car-Dependent
+410,516,28,Car-Dependent
+411,517,54,Somewhat Walkable
+412,518,54,Somewhat Walkable
+413,519,32,Car-Dependent
+414,520,32,Car-Dependent
+415,521,57,Somewhat Walkable
+416,522,69,Somewhat Walkable
+417,524,2,Car-Dependent
+418,525,3,Car-Dependent
+419,527,0,Car-Dependent
+420,528,0,Car-Dependent
+421,529,8,Car-Dependent
+422,530,61,Somewhat Walkable
+423,531,0,Car-Dependent
+424,532,52,Somewhat Walkable
+425,534,18,Car-Dependent
+426,535,5,Car-Dependent
+427,536,19,Car-Dependent
+428,538,56,Somewhat Walkable
+429,539,2,Car-Dependent
+430,540,56,Somewhat Walkable
+431,541,14,Car-Dependent
+432,542,0,Car-Dependent
+433,543,21,Car-Dependent
+434,544,30,Car-Dependent
+435,546,52,Somewhat Walkable
+436,547,0,Car-Dependent
+437,548,8,Car-Dependent
+438,549,35,Car-Dependent
+439,550,7,Car-Dependent
+440,551,9,Car-Dependent
+441,552,44,Car-Dependent
+442,553,76,Very Walkable
+443,554,29,Car-Dependent
+444,555,6,Car-Dependent
+445,556,7,Car-Dependent
+446,557,4,Car-Dependent
+447,558,91,Walker's Paradise
+448,559,0,Car-Dependent
+449,560,22,Car-Dependent
+450,561,28,Car-Dependent
+451,562,59,Somewhat Walkable
+452,563,22,Car-Dependent
+453,564,63,Somewhat Walkable
+454,565,6,Car-Dependent
+455,566,77,Very Walkable
+456,567,48,Car-Dependent
+457,568,60,Somewhat Walkable
+458,570,10,Car-Dependent
+459,571,6,Car-Dependent
+460,572,31,Car-Dependent
+461,573,43,Car-Dependent
+462,574,27,Car-Dependent
+463,575,56,Somewhat Walkable
+464,576,0,Car-Dependent
+465,577,83,Very Walkable
+466,578,63,Somewhat Walkable
+467,579,40,Car-Dependent
+468,580,0,Car-Dependent
+469,581,45,Car-Dependent
+470,582,13,Car-Dependent
+471,583,27,Car-Dependent
+472,584,65,Somewhat Walkable
+473,585,89,Very Walkable
+474,586,0,Car-Dependent
+475,587,13,Car-Dependent
+476,588,2,Car-Dependent
+477,590,0,Car-Dependent
+478,592,55,Somewhat Walkable
+479,593,33,Car-Dependent
+480,594,1,Car-Dependent
+481,596,21,Car-Dependent
+482,597,68,Somewhat Walkable
+483,600,45,Car-Dependent
+484,601,58,Somewhat Walkable
+485,602,74,Very Walkable
+486,605,50,Somewhat Walkable
+487,608,0,Car-Dependent
+488,609,78,Very Walkable
+489,610,16,Car-Dependent
+490,612,50,Somewhat Walkable
+491,613,78,Very Walkable
+492,615,45,Car-Dependent
+493,616,63,Somewhat Walkable
+494,617,23,Car-Dependent
+495,618,36,Car-Dependent
+496,619,34,Car-Dependent
+497,623,42,Car-Dependent
+498,624,47,Car-Dependent
+499,625,0,Car-Dependent
+500,626,0,Car-Dependent
+501,627,54,Somewhat Walkable
+502,628,17,Car-Dependent
+503,629,44,Car-Dependent
+504,630,3,Car-Dependent
+505,631,29,Car-Dependent
+506,632,65,Somewhat Walkable
+507,633,10,Car-Dependent
+508,634,49,Car-Dependent
+509,636,0,Car-Dependent
+510,637,4,Car-Dependent
+511,638,55,Somewhat Walkable
+512,639,8,Car-Dependent
+513,640,36,Car-Dependent
+514,641,12,Car-Dependent
+515,642,83,Very Walkable
+516,643,3,Car-Dependent
+517,644,58,Somewhat Walkable
+518,645,85,Very Walkable
+519,646,10,Car-Dependent
+520,647,3,Car-Dependent
+521,648,22,Car-Dependent
+522,649,26,Car-Dependent
+523,650,5,Car-Dependent
+524,651,42,Car-Dependent
+525,652,40,Car-Dependent
+526,653,0,Car-Dependent
+527,654,72,Very Walkable
+528,655,1,Car-Dependent
+529,656,2,Car-Dependent
+530,657,0,Car-Dependent
+531,658,68,Somewhat Walkable
+532,659,14,Car-Dependent
+533,661,65,Somewhat Walkable
+534,662,5,Car-Dependent
+535,663,38,Car-Dependent
+536,664,31,Car-Dependent
+537,665,11,Car-Dependent
+538,666,0,Car-Dependent
+539,668,71,Very Walkable
+540,670,40,Car-Dependent
+541,671,51,Somewhat Walkable
+542,672,77,Very Walkable
+543,673,2,Car-Dependent
+544,674,0,Car-Dependent
+545,676,25,Car-Dependent
+546,678,25,Car-Dependent
+547,679,31,Car-Dependent
+548,680,71,Very Walkable
+549,682,24,Car-Dependent
+550,684,86,Very Walkable
+551,689,1,Car-Dependent
+552,691,45,Car-Dependent
+553,692,53,Somewhat Walkable
+554,696,63,Somewhat Walkable
+555,698,63,Somewhat Walkable
+556,701,56,Somewhat Walkable
+557,702,32,Car-Dependent
+558,703,0,Car-Dependent
+559,707,60,Somewhat Walkable
+560,708,83,Very Walkable
+561,709,0,Car-Dependent
+562,710,27,Car-Dependent
+563,711,3,Car-Dependent
+564,713,25,Car-Dependent
+565,714,23,Car-Dependent
+566,716,59,Somewhat Walkable
+567,717,0,Car-Dependent
+568,718,0,Car-Dependent
+569,719,14,Car-Dependent
+570,720,51,Somewhat Walkable
+571,722,68,Somewhat Walkable
+572,723,62,Somewhat Walkable
+573,724,0,Car-Dependent
+574,725,44,Car-Dependent
+575,726,50,Somewhat Walkable
+576,727,56,Somewhat Walkable
+577,728,3,Car-Dependent
+578,729,0,Car-Dependent
+579,731,13,Car-Dependent
+580,732,83,Very Walkable
+581,733,19,Car-Dependent
+582,739,66,Somewhat Walkable
+583,741,22,Car-Dependent
+584,742,38,Car-Dependent
+585,747,36,Car-Dependent
+586,749,48,Car-Dependent
+587,755,0,Car-Dependent
+588,757,40,Car-Dependent
+589,759,0,Car-Dependent
+590,761,0,Car-Dependent
+591,766,1,Car-Dependent
+592,768,0,Car-Dependent
+593,769,54,Somewhat Walkable
+594,770,62,Somewhat Walkable
+595,771,44,Car-Dependent
+596,772,3,Car-Dependent
+597,773,87,Very Walkable
+598,774,3,Car-Dependent
+599,775,55,Somewhat Walkable
+600,776,29,Car-Dependent
+601,777,65,Somewhat Walkable
+602,778,0,Car-Dependent
+603,779,8,Car-Dependent
+604,780,25,Car-Dependent
+605,781,0,Car-Dependent
+606,782,14,Car-Dependent
+607,783,44,Car-Dependent
+608,784,21,Car-Dependent
+609,785,85,Very Walkable
+610,786,84,Very Walkable
+611,787,29,Car-Dependent
+612,788,13,Car-Dependent
+613,789,31,Car-Dependent
+614,790,51,Somewhat Walkable
+615,791,21,Car-Dependent
+616,792,49,Car-Dependent
+617,793,54,Somewhat Walkable
+618,794,74,Very Walkable
+619,795,54,Somewhat Walkable
+620,796,13,Car-Dependent
+621,797,65,Somewhat Walkable
+622,798,8,Car-Dependent
+623,799,36,Car-Dependent
+624,801,6,Car-Dependent
+625,802,54,Somewhat Walkable
+626,804,11,Car-Dependent
+627,805,0,Car-Dependent
+628,807,0,Car-Dependent
+629,808,37,Car-Dependent
+630,814,4,Car-Dependent
+631,815,28,Car-Dependent
+632,818,67,Somewhat Walkable
+633,819,14,Car-Dependent
+634,820,74,Very Walkable
+635,821,71,Very Walkable
+636,823,31,Car-Dependent
+637,824,6,Car-Dependent
+638,828,61,Somewhat Walkable
+639,832,60,Somewhat Walkable
+640,833,54,Somewhat Walkable
+641,834,7,Car-Dependent
+642,836,7,Car-Dependent
+643,837,0,Car-Dependent
+644,838,17,Car-Dependent
+645,840,0,Car-Dependent
+646,841,11,Car-Dependent
+647,842,7,Car-Dependent
+648,843,31,Car-Dependent
+649,844,0,Car-Dependent
+650,845,54,Somewhat Walkable
+651,846,78,Very Walkable
+652,847,81,Very Walkable
+653,848,31,Car-Dependent
+654,849,51,Somewhat Walkable
+655,850,36,Car-Dependent
+656,851,76,Very Walkable
+657,852,20,Car-Dependent
+658,853,6,Car-Dependent
+659,854,1,Car-Dependent
+660,855,1,Car-Dependent
+661,856,81,Very Walkable
+662,857,0,Car-Dependent
+663,858,4,Car-Dependent
+664,859,18,Car-Dependent
+665,860,0,Car-Dependent
+666,861,30,Car-Dependent
+667,862,23,Car-Dependent
+668,863,46,Car-Dependent
+669,864,14,Car-Dependent
+670,865,64,Somewhat Walkable
+671,866,52,Somewhat Walkable
+672,869,75,Very Walkable
+673,870,63,Somewhat Walkable
+674,871,67,Somewhat Walkable
+675,872,15,Car-Dependent
+676,873,13,Car-Dependent
+677,874,42,Car-Dependent
+678,875,0,Car-Dependent
+679,877,72,Very Walkable
+680,879,0,Car-Dependent
+681,880,85,Very Walkable
+682,881,5,Car-Dependent
+683,884,3,Car-Dependent
+684,887,27,Car-Dependent
+685,888,3,Car-Dependent
+686,891,0,Car-Dependent
+687,894,15,Car-Dependent
+688,895,31,Car-Dependent
+689,896,14,Car-Dependent
+690,897,0,Car-Dependent
+691,898,0,Car-Dependent
+692,899,3,Car-Dependent
+693,900,28,Car-Dependent
+694,901,46,Car-Dependent
+695,902,0,Car-Dependent
+696,903,52,Somewhat Walkable
+697,904,37,Car-Dependent
+698,905,0,Car-Dependent
+699,907,43,Car-Dependent
+700,908,0,Car-Dependent
+701,909,14,Car-Dependent
+702,910,6,Car-Dependent
+703,911,75,Very Walkable
+704,912,0,Car-Dependent
+705,914,0,Car-Dependent
+706,915,7,Car-Dependent
+707,916,26,Car-Dependent
+708,917,55,Somewhat Walkable
+709,919,43,Car-Dependent
+710,921,17,Car-Dependent
+711,922,61,Somewhat Walkable
+712,923,54,Somewhat Walkable
+713,924,57,Somewhat Walkable
+714,925,1,Car-Dependent
+715,928,1,Car-Dependent
+716,933,49,Car-Dependent
+717,935,59,Somewhat Walkable
+718,937,90,Very Walkable
+719,940,31,Car-Dependent
+720,942,0,Car-Dependent
+721,944,0,Car-Dependent
+722,946,9,Car-Dependent
+723,947,81,Very Walkable
+724,950,75,Very Walkable
+725,952,4,Car-Dependent
+726,953,57,Somewhat Walkable
+727,956,64,Somewhat Walkable
+728,959,13,Car-Dependent
+729,960,47,Car-Dependent
+730,961,57,Somewhat Walkable
+731,962,34,Car-Dependent
+732,963,0,Car-Dependent
+733,964,0,Car-Dependent
+734,965,55,Somewhat Walkable
+735,969,26,Car-Dependent
+736,971,37,Car-Dependent
+737,972,54,Somewhat Walkable
+738,973,4,Car-Dependent
+739,976,0,Car-Dependent
+740,977,1,Car-Dependent
+741,978,0,Car-Dependent
+742,979,33,Car-Dependent
+743,980,14,Car-Dependent
+744,982,15,Car-Dependent
+745,983,33,Car-Dependent
+746,985,9,Car-Dependent
+747,986,14,Car-Dependent
+748,987,49,Car-Dependent
+749,988,10,Car-Dependent
+750,989,22,Car-Dependent
+751,990,1,Car-Dependent
+752,991,51,Somewhat Walkable
+753,992,96,Walker's Paradise
+754,993,2,Car-Dependent
+755,994,2,Car-Dependent
+756,995,10,Car-Dependent
+757,996,3,Car-Dependent
+758,997,16,Car-Dependent
+759,998,3,Car-Dependent
+760,999,32,Car-Dependent
+761,1000,78,Very Walkable
+762,1001,96,Walker's Paradise
+763,1002,0,Car-Dependent
+764,1003,45,Car-Dependent
+765,1004,0,Car-Dependent
+766,1005,32,Car-Dependent
+767,1006,43,Car-Dependent
+768,1007,46,Car-Dependent
+769,1008,76,Very Walkable
+770,1009,83,Very Walkable
+771,1010,90,Walker's Paradise
+772,1012,51,Somewhat Walkable
+773,1013,3,Car-Dependent
+774,1014,0,Car-Dependent
+775,1015,0,Car-Dependent
+776,1016,52,Somewhat Walkable
+777,1017,20,Car-Dependent
+778,1018,0,Car-Dependent
+779,1019,4,Car-Dependent
+780,1021,78,Very Walkable
+781,1022,18,Car-Dependent
+782,1024,4,Car-Dependent
+783,1025,15,Car-Dependent
+784,1027,4,Car-Dependent
+785,1028,45,Car-Dependent
+786,1029,73,Very Walkable
+787,1032,3,Car-Dependent
+788,1034,80,Very Walkable
+789,1035,15,Car-Dependent
+790,1036,16,Car-Dependent
+791,1038,50,Somewhat Walkable
+792,1039,7,Car-Dependent
+793,1040,66,Somewhat Walkable
+794,1041,0,Car-Dependent
+795,1042,15,Car-Dependent
+796,1043,58,Somewhat Walkable
+797,1044,66,Somewhat Walkable
+798,1045,11,Car-Dependent
+799,1048,57,Somewhat Walkable
+800,1050,24,Car-Dependent
+801,1052,64,Somewhat Walkable
+802,1053,62,Somewhat Walkable
+803,1054,0,Car-Dependent
+804,1057,4,Car-Dependent
+805,1058,58,Somewhat Walkable
+806,1060,69,Somewhat Walkable
+807,1063,16,Car-Dependent
+808,1064,83,Very Walkable
+809,1066,85,Very Walkable
+810,1067,43,Car-Dependent
+811,1070,67,Somewhat Walkable
+812,1071,42,Car-Dependent
+813,1076,16,Car-Dependent
+814,1078,0,Car-Dependent
+815,1079,18,Car-Dependent
+816,1080,4,Car-Dependent
+817,1082,0,Car-Dependent
+818,1083,57,Somewhat Walkable
+819,1086,20,Car-Dependent
+820,1087,13,Car-Dependent
+821,1088,32,Car-Dependent
+822,1089,0,Car-Dependent
+823,1090,0,Car-Dependent
+824,1091,64,Somewhat Walkable
+825,1092,11,Car-Dependent
+826,1093,81,Very Walkable
+827,1094,27,Car-Dependent
+828,1095,11,Car-Dependent
+829,1096,1,Car-Dependent
+830,1097,55,Somewhat Walkable
+831,1099,32,Car-Dependent
+832,1105,30,Car-Dependent
+833,1107,45,Car-Dependent
+834,1111,56,Somewhat Walkable
+835,1112,83,Very Walkable
+836,1116,55,Somewhat Walkable
+837,1117,0,Car-Dependent
+838,1119,80,Very Walkable
+839,1122,46,Car-Dependent
+840,1125,72,Very Walkable
+841,1126,66,Somewhat Walkable
+842,1127,42,Car-Dependent
+843,1129,17,Car-Dependent
+844,1130,0,Car-Dependent
+845,1131,0,Car-Dependent
+846,1132,46,Car-Dependent
+847,1133,30,Car-Dependent
+848,1134,8,Car-Dependent
+849,1135,7,Car-Dependent
+850,1137,78,Very Walkable
+851,1138,37,Car-Dependent
+852,1139,28,Car-Dependent
+853,1140,0,Car-Dependent
+854,1141,77,Very Walkable
+855,1142,3,Car-Dependent
+856,1143,0,Car-Dependent
+857,1146,21,Car-Dependent
+858,1148,78,Very Walkable
+859,1149,77,Very Walkable
+860,1150,0,Car-Dependent
+861,1151,9,Car-Dependent
+862,1152,0,Car-Dependent
+863,1153,9,Car-Dependent
+864,1154,67,Somewhat Walkable
+865,1155,0,Car-Dependent
+866,1156,31,Car-Dependent
+867,1157,82,Very Walkable
+868,1158,79,Very Walkable
+869,1159,55,Somewhat Walkable
+870,1160,23,Car-Dependent
+871,1161,10,Car-Dependent
+872,1162,51,Somewhat Walkable
+873,1163,77,Very Walkable
+874,1164,25,Car-Dependent
+875,1166,34,Car-Dependent
+876,1167,10,Car-Dependent
+877,1168,29,Car-Dependent
+878,1169,40,Car-Dependent
+879,1170,55,Somewhat Walkable
+880,1171,85,Very Walkable
+881,1172,18,Car-Dependent
+882,1173,38,Car-Dependent
+883,1174,83,Very Walkable
+884,1175,80,Very Walkable
+885,1176,63,Somewhat Walkable
+886,1177,63,Somewhat Walkable
+887,1178,45,Car-Dependent
+888,1179,0,Car-Dependent
+889,1180,16,Car-Dependent
+890,1181,29,Car-Dependent
+891,1182,21,Car-Dependent
+892,1183,29,Car-Dependent
+893,1184,58,Somewhat Walkable
+894,1186,46,Car-Dependent
+895,1188,18,Car-Dependent
+896,1189,78,Very Walkable
+897,1197,56,Somewhat Walkable
+898,1201,77,Very Walkable
+899,1202,36,Car-Dependent
+900,1205,8,Car-Dependent
+901,1206,29,Car-Dependent
+902,1210,45,Car-Dependent
+903,1211,68,Somewhat Walkable
+904,1213,57,Somewhat Walkable
+905,1216,78,Very Walkable
+906,1221,39,Car-Dependent
+907,1223,13,Car-Dependent
+908,1224,53,Somewhat Walkable
+909,1225,62,Somewhat Walkable
+910,11329,36,Car-Dependent
+911,11330,33,Car-Dependent
+912,11331,45,Car-Dependent
+913,11332,56,Somewhat Walkable
+914,11333,67,Somewhat Walkable
+915,11334,13,Car-Dependent
+916,11335,23,Car-Dependent
+917,11336,0,Car-Dependent
+918,11337,5,Car-Dependent
+919,11338,14,Car-Dependent
+920,11339,7,Car-Dependent
+921,11340,80,Very Walkable
+922,11341,5,Car-Dependent
+923,11342,14,Car-Dependent
+924,11344,32,Car-Dependent
+925,11345,68,Somewhat Walkable
+926,11346,0,Car-Dependent
+927,11347,21,Car-Dependent
+928,11348,11,Car-Dependent
+929,11349,41,Car-Dependent
+930,11350,9,Car-Dependent
+931,11351,30,Car-Dependent
+932,11352,22,Car-Dependent
+933,11353,0,Car-Dependent
+934,11354,0,Car-Dependent
+935,11355,86,Very Walkable
+936,11356,56,Somewhat Walkable
+937,11357,81,Very Walkable
+938,11358,61,Somewhat Walkable
+939,11359,57,Somewhat Walkable
+940,11995,54,Somewhat Walkable
+941,11996,11,Car-Dependent
+942,11997,50,Somewhat Walkable
+943,11998,80,Very Walkable
+944,11999,81,Very Walkable
+945,12000,30,Car-Dependent
+946,12001,5,Car-Dependent
+947,12002,77,Very Walkable
+948,12003,9,Car-Dependent
+949,12004,67,Somewhat Walkable
+950,12005,0,Car-Dependent
+951,12006,53,Somewhat Walkable
+952,12007,7,Car-Dependent
+953,12008,3,Car-Dependent
+954,12009,53,Somewhat Walkable
+955,12010,63,Somewhat Walkable
+956,12011,25,Car-Dependent
+957,12012,20,Car-Dependent
+958,12014,59,Somewhat Walkable
+959,12015,31,Car-Dependent
+960,12016,33,Car-Dependent
+961,12017,79,Very Walkable
+962,12018,29,Car-Dependent
+963,12019,69,Somewhat Walkable
+964,12020,3,Car-Dependent
+965,12021,69,Somewhat Walkable
+966,12022,0,Car-Dependent
+967,12023,23,Car-Dependent
+968,12024,56,Somewhat Walkable
+969,12025,38,Car-Dependent
+970,12026,3,Car-Dependent
+971,12027,8,Car-Dependent
+972,12028,9,Car-Dependent
+973,12029,68,Somewhat Walkable
+974,12030,53,Somewhat Walkable
+975,12031,8,Car-Dependent
+976,12032,2,Car-Dependent
+977,12033,49,Car-Dependent
+978,12034,3,Car-Dependent
+979,12035,36,Car-Dependent
+980,12036,34,Car-Dependent
+981,12038,0,Car-Dependent
+982,12039,21,Car-Dependent
+983,12040,35,Car-Dependent
+984,12041,37,Car-Dependent
+985,12042,53,Somewhat Walkable
+986,12043,3,Car-Dependent
+987,12045,51,Somewhat Walkable
+988,12046,0,Car-Dependent
+989,12049,7,Car-Dependent
+990,12051,0,Car-Dependent
+991,12053,5,Car-Dependent
+992,12055,2,Car-Dependent
+993,12056,0,Car-Dependent
+994,12057,27,Car-Dependent
+995,12058,5,Car-Dependent
+996,12060,46,Car-Dependent
+997,12061,34,Car-Dependent
+998,12062,34,Car-Dependent
+999,12063,47,Car-Dependent
+1000,12064,7,Car-Dependent
+1001,12065,0,Car-Dependent
+1002,12067,20,Car-Dependent
+1003,12068,0,Car-Dependent
+1004,12069,55,Somewhat Walkable
+1005,12070,74,Very Walkable
+1006,12071,54,Somewhat Walkable
+1007,12072,5,Car-Dependent
+1008,12073,53,Somewhat Walkable
+1009,12075,69,Somewhat Walkable
+1010,12076,53,Somewhat Walkable
+1011,12077,0,Car-Dependent
+1012,12078,92,Walker's Paradise
+1013,12079,59,Somewhat Walkable
+1014,12081,50,Car-Dependent
+1015,12082,6,Car-Dependent
+1016,12083,11,Car-Dependent
+1017,12084,5,Car-Dependent
+1018,12085,28,Car-Dependent
+1019,12086,13,Car-Dependent
+1020,12087,10,Car-Dependent
+1021,12089,9,Car-Dependent
+1022,12090,3,Car-Dependent
+1023,12091,21,Car-Dependent
+1024,12092,33,Car-Dependent
+1025,12093,5,Car-Dependent
+1026,12094,0,Car-Dependent
+1027,12095,34,Car-Dependent
+1028,12096,20,Car-Dependent
+1029,12097,58,Somewhat Walkable
+1030,12098,0,Car-Dependent
+1031,12099,11,Car-Dependent
+1032,12100,38,Car-Dependent
+1033,12101,5,Car-Dependent
+1034,12102,4,Car-Dependent
+1035,12103,80,Very Walkable
+1036,12104,5,Car-Dependent
+1037,12105,28,Car-Dependent
+1038,12106,0,Car-Dependent
+1039,12107,0,Car-Dependent
+1040,12108,1,Car-Dependent
+1041,12109,20,Car-Dependent
+1042,12110,0,Car-Dependent
+1043,12111,27,Car-Dependent
+1044,12112,0,Car-Dependent
+1045,12113,27,Car-Dependent
+1046,12114,40,Car-Dependent
+1047,12115,56,Somewhat Walkable
+1048,12116,0,Car-Dependent
+1049,12117,83,Very Walkable
+1050,12118,37,Car-Dependent
+1051,12119,27,Car-Dependent
+1052,12120,7,Car-Dependent
+1053,12121,14,Car-Dependent
+1054,12122,45,Car-Dependent
+1055,12123,21,Car-Dependent
+1056,12124,0,Car-Dependent
+1057,12125,76,Very Walkable
+1058,12126,6,Car-Dependent
+1059,12128,32,Car-Dependent
+1060,12129,91,Walker's Paradise
+1061,12130,20,Car-Dependent
+1062,12131,0,Car-Dependent
+1063,12132,70,Very Walkable
+1064,12133,34,Car-Dependent
+1065,12134,1,Car-Dependent
+1066,12135,19,Car-Dependent
+1067,12136,39,Car-Dependent
+1068,12137,0,Car-Dependent
+1069,12138,14,Car-Dependent
+1070,12139,5,Car-Dependent
+1071,12140,14,Car-Dependent
+1072,12141,34,Car-Dependent
+1073,12142,8,Car-Dependent
+1074,12143,39,Car-Dependent
+1075,12144,8,Car-Dependent
+1076,12145,47,Car-Dependent
+1077,12146,20,Car-Dependent
+1078,12147,5,Car-Dependent
+1079,12148,58,Somewhat Walkable
+1080,12149,6,Car-Dependent
+1081,12151,44,Car-Dependent
+1082,12152,47,Car-Dependent
+1083,12153,9,Car-Dependent
+1084,12154,3,Car-Dependent
+1085,12155,0,Car-Dependent
+1086,12156,1,Car-Dependent
+1087,12157,67,Somewhat Walkable
+1088,12158,0,Car-Dependent
+1089,12159,0,Car-Dependent
+1090,12160,53,Somewhat Walkable
+1091,12161,1,Car-Dependent
+1092,12162,6,Car-Dependent
+1093,12163,48,Car-Dependent
+1094,12164,44,Car-Dependent
+1095,12165,52,Somewhat Walkable
+1096,12167,62,Somewhat Walkable
+1097,12168,3,Car-Dependent
+1098,12169,33,Car-Dependent
+1099,12170,49,Car-Dependent
+1100,12171,4,Car-Dependent
+1101,12172,0,Car-Dependent
+1102,12173,50,Car-Dependent
+1103,12175,57,Somewhat Walkable
+1104,12176,76,Very Walkable
+1105,12177,81,Very Walkable
+1106,12178,26,Car-Dependent
+1107,12179,11,Car-Dependent
+1108,12180,4,Car-Dependent
+1109,12181,12,Car-Dependent
+1110,12182,11,Car-Dependent
+1111,12183,7,Car-Dependent
+1112,12185,1,Car-Dependent
+1113,12186,33,Car-Dependent
+1114,12187,28,Car-Dependent
+1115,12188,0,Car-Dependent
+1116,12189,36,Car-Dependent
+1117,12190,0,Car-Dependent
+1118,12191,1,Car-Dependent
+1119,12192,46,Car-Dependent
+1120,12193,51,Somewhat Walkable
+1121,12194,21,Car-Dependent
+1122,12195,2,Car-Dependent
+1123,12196,10,Car-Dependent
+1124,12197,84,Very Walkable
+1125,12198,32,Car-Dependent
+1126,12199,60,Somewhat Walkable
+1127,12200,47,Car-Dependent
+1128,12201,7,Car-Dependent
+1129,12202,74,Very Walkable
+1130,12203,62,Somewhat Walkable
+1131,12204,7,Car-Dependent
+1132,12205,7,Car-Dependent
+1133,12206,19,Car-Dependent
+1134,12208,3,Car-Dependent
+1135,12209,65,Somewhat Walkable
+1136,12210,58,Somewhat Walkable
+1137,12213,15,Car-Dependent
+1138,12214,13,Car-Dependent
+1139,12215,7,Car-Dependent
+1140,12216,0,Car-Dependent
+1141,12217,86,Very Walkable
+1142,12218,0,Car-Dependent
+1143,12219,12,Car-Dependent
+1144,12220,0,Car-Dependent
+1145,12221,88,Very Walkable
+1146,12222,56,Somewhat Walkable
+1147,12223,2,Car-Dependent
+1148,12224,49,Car-Dependent
+1149,12225,17,Car-Dependent
+1150,12226,24,Car-Dependent
+1151,12227,46,Car-Dependent
+1152,12228,75,Very Walkable
+1153,12229,6,Car-Dependent
+1154,12230,8,Car-Dependent
+1155,12231,0,Car-Dependent
+1156,12233,43,Car-Dependent
+1157,12234,53,Somewhat Walkable
+1158,12235,49,Car-Dependent
+1159,12236,44,Car-Dependent
+1160,12237,4,Car-Dependent
+1161,12238,10,Car-Dependent
+1162,12240,6,Car-Dependent
+1163,12241,38,Car-Dependent
+1164,12242,8,Car-Dependent
+1165,12243,0,Car-Dependent
+1166,12244,19,Car-Dependent
+1167,12245,2,Car-Dependent
+1168,12246,6,Car-Dependent
+1169,12248,0,Car-Dependent
+1170,12249,5,Car-Dependent
+1171,12250,0,Car-Dependent
+1172,12251,1,Car-Dependent
+1173,12252,45,Car-Dependent
+1174,12253,3,Car-Dependent
+1175,12254,6,Car-Dependent
+1176,12255,6,Car-Dependent
+1177,12256,68,Somewhat Walkable
+1178,12257,5,Car-Dependent
+1179,12260,60,Somewhat Walkable
+1180,12261,0,Car-Dependent
+1181,12262,70,Very Walkable
+1182,12263,43,Car-Dependent
+1183,12264,88,Very Walkable
+1184,12265,60,Somewhat Walkable
+1185,12266,13,Car-Dependent
+1186,12267,0,Car-Dependent
+1187,12268,50,Car-Dependent
+1188,12269,48,Car-Dependent
+1189,12270,6,Car-Dependent
+1190,12271,0,Car-Dependent
+1191,12272,8,Car-Dependent
+1192,12273,33,Car-Dependent
+1193,12274,6,Car-Dependent
+1194,12275,52,Somewhat Walkable
+1195,12277,26,Car-Dependent
+1196,12278,19,Car-Dependent
+1197,12279,23,Car-Dependent
+1198,12281,40,Car-Dependent
+1199,12282,5,Car-Dependent
+1200,12283,0,Car-Dependent
+1201,12284,87,Very Walkable
+1202,12285,0,Car-Dependent
+1203,12286,6,Car-Dependent
+1204,12287,0,Car-Dependent
+1205,12288,9,Car-Dependent
+1206,12289,16,Car-Dependent
+1207,12290,5,Car-Dependent
+1208,12291,21,Car-Dependent
+1209,12292,9,Car-Dependent
+1210,12293,4,Car-Dependent
+1211,12294,47,Car-Dependent
+1212,12295,7,Car-Dependent
+1213,12296,55,Somewhat Walkable
+1214,12297,35,Car-Dependent
+1215,12298,3,Car-Dependent
+1216,12299,2,Car-Dependent
+1217,12300,7,Car-Dependent
+1218,12301,46,Car-Dependent
+1219,12302,10,Car-Dependent
+1220,12303,5,Car-Dependent
+1221,12305,3,Car-Dependent
+1222,12306,0,Car-Dependent
+1223,12307,9,Car-Dependent
+1224,12308,3,Car-Dependent
+1225,12309,24,Car-Dependent
+1226,12310,52,Somewhat Walkable
+1227,12311,39,Car-Dependent
+1228,12312,22,Car-Dependent
+1229,12313,0,Car-Dependent
+1230,12314,36,Car-Dependent
+1231,12315,64,Somewhat Walkable
+1232,12316,0,Car-Dependent
+1233,12317,64,Somewhat Walkable
+1234,12318,45,Car-Dependent
+1235,12319,3,Car-Dependent
+1236,12320,61,Somewhat Walkable
+1237,12321,2,Car-Dependent
+1238,12322,52,Somewhat Walkable
+1239,12323,1,Car-Dependent
+1240,12324,69,Somewhat Walkable
+1241,12325,93,Walker's Paradise
+1242,12326,29,Car-Dependent
+1243,12327,52,Somewhat Walkable
+1244,12328,52,Somewhat Walkable
+1245,12329,52,Somewhat Walkable
+1246,12330,28,Car-Dependent
+1247,12331,25,Car-Dependent
+1248,12332,17,Car-Dependent
+1249,12333,1,Car-Dependent
+1250,12334,41,Car-Dependent
+1251,12335,0,Car-Dependent
+1252,12336,32,Car-Dependent
+1253,12337,53,Somewhat Walkable
+1254,12338,7,Car-Dependent
+1255,12339,55,Somewhat Walkable
+1256,12340,21,Car-Dependent
+1257,12341,43,Car-Dependent
+1258,12342,75,Very Walkable
+1259,12343,46,Car-Dependent
+1260,12344,8,Car-Dependent
+1261,12345,6,Car-Dependent
+1262,12346,0,Car-Dependent
+1263,12347,42,Car-Dependent
+1264,12348,6,Car-Dependent
+1265,12349,1,Car-Dependent
+1266,12350,44,Car-Dependent
+1267,12351,1,Car-Dependent
+1268,12352,1,Car-Dependent
+1269,12353,66,Somewhat Walkable
+1270,12354,70,Somewhat Walkable
+1271,12355,47,Car-Dependent
+1272,12356,56,Somewhat Walkable
+1273,12357,38,Car-Dependent
+1274,12359,22,Car-Dependent
+1275,12360,23,Car-Dependent
+1276,12361,25,Car-Dependent
+1277,12362,24,Car-Dependent
+1278,12363,57,Somewhat Walkable
+1279,12364,0,Car-Dependent
+1280,12365,34,Car-Dependent
+1281,12366,33,Car-Dependent
+1282,12367,48,Car-Dependent
+1283,12368,13,Car-Dependent
+1284,12369,19,Car-Dependent
+1285,12370,13,Car-Dependent
+1286,12371,12,Car-Dependent
+1287,12372,0,Car-Dependent
+1288,12373,3,Car-Dependent
+1289,12374,11,Car-Dependent
+1290,12375,45,Car-Dependent
+1291,12376,13,Car-Dependent
+1292,12377,72,Very Walkable
+1293,12378,51,Somewhat Walkable
+1294,12379,83,Very Walkable
+1295,12380,8,Car-Dependent
+1296,12381,42,Car-Dependent
+1297,12382,12,Car-Dependent
+1298,12383,52,Somewhat Walkable
+1299,12384,14,Car-Dependent
+1300,12385,57,Somewhat Walkable
+1301,12386,2,Car-Dependent
+1302,12387,10,Car-Dependent
+1303,12388,75,Very Walkable
+1304,12389,57,Somewhat Walkable
+1305,12390,25,Car-Dependent
+1306,12391,1,Car-Dependent
+1307,12392,1,Car-Dependent
+1308,12393,10,Car-Dependent
+1309,12394,58,Somewhat Walkable
+1310,12395,51,Somewhat Walkable
+1311,12397,13,Car-Dependent
+1312,12399,0,Car-Dependent
+1313,12400,44,Car-Dependent
+1314,12401,22,Car-Dependent
+1315,12402,38,Car-Dependent
+1316,12403,0,Car-Dependent
+1317,12404,12,Car-Dependent
+1318,12405,7,Car-Dependent
+1319,12406,56,Somewhat Walkable
+1320,12407,8,Car-Dependent
+1321,12408,54,Somewhat Walkable
+1322,12409,20,Car-Dependent
+1323,12410,73,Very Walkable
+1324,12411,63,Somewhat Walkable
+1325,12414,0,Car-Dependent
+1326,12415,9,Car-Dependent
+1327,12416,23,Car-Dependent
+1328,12417,21,Car-Dependent
+1329,12418,1,Car-Dependent
+1330,12419,9,Car-Dependent
+1331,12420,4,Car-Dependent
+1332,12421,0,Car-Dependent
+1333,12422,25,Car-Dependent
+1334,12423,9,Car-Dependent
+1335,12424,1,Car-Dependent
+1336,12426,15,Car-Dependent
+1337,12427,16,Car-Dependent
+1338,12428,6,Car-Dependent
+1339,12429,65,Somewhat Walkable
+1340,12430,0,Car-Dependent
+1341,12431,77,Very Walkable
+1342,12432,11,Car-Dependent
+1343,12433,14,Car-Dependent
+1344,12434,0,Car-Dependent
+1345,12436,3,Car-Dependent
+1346,12437,0,Car-Dependent
+1347,12438,29,Car-Dependent
+1348,12439,1,Car-Dependent
+1349,12440,67,Somewhat Walkable
+1350,12441,12,Car-Dependent
+1351,12442,0,Car-Dependent
+1352,12443,84,Very Walkable
+1353,12444,8,Car-Dependent
+1354,12445,6,Car-Dependent
+1355,12446,24,Car-Dependent
+1356,12447,0,Car-Dependent
+1357,12448,0,Car-Dependent
+1358,12449,7,Car-Dependent
+1359,12450,10,Car-Dependent
+1360,12451,65,Somewhat Walkable
+1361,12452,8,Car-Dependent
+1362,12453,0,Car-Dependent
+1363,12454,0,Car-Dependent
+1364,12455,6,Car-Dependent
+1365,12456,1,Car-Dependent
+1366,12457,63,Somewhat Walkable
+1367,12458,75,Very Walkable
+1368,12459,27,Car-Dependent
+1369,12460,47,Car-Dependent
+1370,12461,65,Somewhat Walkable
+1371,12462,61,Somewhat Walkable
+1372,12463,66,Somewhat Walkable
+1373,12464,2,Car-Dependent
+1374,12465,0,Car-Dependent
+1375,12466,7,Car-Dependent
+1376,12467,85,Very Walkable
+1377,12468,5,Car-Dependent
+1378,12469,85,Very Walkable
+1379,12470,27,Car-Dependent
+1380,12471,2,Car-Dependent
+1381,12473,35,Car-Dependent
+1382,12474,90,Very Walkable
+1383,12475,81,Very Walkable
+1384,12477,92,Walker's Paradise
+1385,13080,49,Car-Dependent
+1386,13081,31,Car-Dependent
+1387,13082,18,Car-Dependent
+1388,13084,43,Car-Dependent
+1389,13085,75,Very Walkable
+1390,13086,49,Car-Dependent
+1391,13087,61,Somewhat Walkable
+1392,13088,52,Somewhat Walkable
+1393,13089,31,Car-Dependent
+1394,13090,15,Car-Dependent
+1395,13091,4,Car-Dependent
+1396,13092,43,Car-Dependent
+1397,13093,0,Car-Dependent
+1398,13094,14,Car-Dependent
+1399,13097,20,Car-Dependent
+1400,13098,79,Very Walkable
+1401,13099,0,Car-Dependent
+1402,13101,7,Car-Dependent
+1403,13102,83,Very Walkable
+1404,13103,5,Car-Dependent
+1405,13104,12,Car-Dependent
+1406,13105,90,Very Walkable
+1407,13106,0,Car-Dependent
+1408,13107,71,Very Walkable
+1409,13108,51,Somewhat Walkable
+1410,13109,10,Car-Dependent
+1411,13110,14,Car-Dependent
+1412,13111,11,Car-Dependent
+1413,13112,8,Car-Dependent
+1414,13113,48,Car-Dependent
+1415,13114,52,Somewhat Walkable
+1416,13115,11,Car-Dependent
+1417,13116,43,Car-Dependent
+1418,13117,20,Car-Dependent
+1419,13118,9,Car-Dependent
+1420,13120,3,Car-Dependent
+1421,13121,27,Car-Dependent
+1422,13122,50,Somewhat Walkable
+1423,13123,74,Very Walkable
+1424,13124,49,Car-Dependent
+1425,13125,3,Car-Dependent
+1426,13126,16,Car-Dependent
+1427,13127,56,Somewhat Walkable
+1428,13128,9,Car-Dependent
+1429,13129,3,Car-Dependent
+1430,13130,89,Very Walkable
+1431,13131,47,Car-Dependent
+1432,13132,39,Car-Dependent
+1433,13133,3,Car-Dependent
+1434,13134,1,Car-Dependent
+1435,13136,78,Very Walkable
+1436,13137,47,Car-Dependent
+1437,13138,0,Car-Dependent
+1438,13139,48,Car-Dependent
+1439,13140,15,Car-Dependent
+1440,13142,32,Car-Dependent
+1441,13143,33,Car-Dependent
+1442,13145,45,Car-Dependent
+1443,13146,77,Very Walkable
+1444,13147,3,Car-Dependent
+1445,13148,0,Car-Dependent
+1446,13149,63,Somewhat Walkable
+1447,13150,29,Car-Dependent
+1448,13151,51,Somewhat Walkable
+1449,13152,50,Somewhat Walkable
+1450,13153,13,Car-Dependent
+1451,13154,39,Car-Dependent
+1452,13155,11,Car-Dependent
+1453,13156,2,Car-Dependent
+1454,13157,49,Car-Dependent
+1455,13158,48,Car-Dependent
+1456,13160,29,Car-Dependent
+1457,13161,82,Very Walkable
+1458,13162,11,Car-Dependent
+1459,13163,3,Car-Dependent
+1460,13164,44,Car-Dependent
+1461,13165,54,Somewhat Walkable
+1462,13167,57,Somewhat Walkable
+1463,13168,17,Car-Dependent
+1464,13169,53,Somewhat Walkable
+1465,13171,75,Very Walkable
+1466,13172,48,Car-Dependent
+1467,13173,59,Somewhat Walkable
+1468,13174,53,Somewhat Walkable
+1469,13175,15,Car-Dependent
+1470,13176,9,Car-Dependent
+1471,13177,26,Car-Dependent
+1472,13178,35,Car-Dependent
+1473,13179,65,Somewhat Walkable
+1474,13180,4,Car-Dependent
+1475,13181,71,Very Walkable
+1476,13182,0,Car-Dependent
+1477,13183,25,Car-Dependent
+1478,13184,61,Somewhat Walkable
+1479,13186,76,Very Walkable
+1480,13187,12,Car-Dependent
+1481,13188,28,Car-Dependent
+1482,13189,77,Very Walkable
+1483,13190,0,Car-Dependent
+1484,13192,67,Somewhat Walkable
+1485,13193,0,Car-Dependent
+1486,13194,57,Somewhat Walkable
+1487,13195,56,Somewhat Walkable
+1488,13196,48,Car-Dependent
+1489,13197,54,Somewhat Walkable
+1490,13198,2,Car-Dependent
+1491,13199,59,Somewhat Walkable
+1492,13201,27,Car-Dependent
+1493,13202,48,Car-Dependent
+1494,13203,0,Car-Dependent
+1495,13204,8,Car-Dependent
+1496,13205,56,Somewhat Walkable
+1497,13206,6,Car-Dependent
+1498,13207,0,Car-Dependent
+1499,13208,1,Car-Dependent
+1500,13209,51,Somewhat Walkable
+1501,13210,11,Car-Dependent
+1502,13211,80,Very Walkable
+1503,13212,2,Car-Dependent
+1504,13213,56,Somewhat Walkable
+1505,13215,23,Car-Dependent
+1506,13216,51,Somewhat Walkable
+1507,13217,7,Car-Dependent
+1508,13218,50,Car-Dependent
+1509,13219,45,Car-Dependent
+1510,13220,40,Car-Dependent
+1511,13222,46,Car-Dependent
+1512,13223,57,Somewhat Walkable
+1513,13224,90,Walker's Paradise
+1514,13225,2,Car-Dependent
+1515,13226,0,Car-Dependent
+1516,13227,89,Very Walkable
+1517,13228,31,Car-Dependent
+1518,13229,0,Car-Dependent
+1519,13230,42,Car-Dependent
+1520,13231,4,Car-Dependent
+1521,13232,0,Car-Dependent
+1522,13233,46,Car-Dependent
+1523,13234,32,Car-Dependent
+1524,13235,61,Somewhat Walkable
+1525,13236,0,Car-Dependent
+1526,13237,12,Car-Dependent
+1527,13238,28,Car-Dependent
+1528,13239,48,Car-Dependent
+1529,13240,5,Car-Dependent
+1530,13245,41,Car-Dependent
+1531,13246,85,Very Walkable
+1532,13247,4,Car-Dependent
+1533,13248,62,Somewhat Walkable
+1534,13250,12,Car-Dependent
+1535,13251,67,Somewhat Walkable
+1536,13252,73,Very Walkable
+1537,13253,87,Very Walkable
+1538,13256,29,Car-Dependent
+1539,13257,38,Car-Dependent
+1540,13260,36,Car-Dependent
+1541,13261,46,Car-Dependent
+1542,13262,1,Car-Dependent
+1543,13263,8,Car-Dependent
+1544,13264,58,Somewhat Walkable
+1545,13265,68,Somewhat Walkable
+1546,13267,46,Car-Dependent
+1547,13268,80,Very Walkable
+1548,13269,37,Car-Dependent
+1549,13272,30,Car-Dependent
+1550,13274,49,Car-Dependent
+1551,13275,40,Car-Dependent
+1552,13276,19,Car-Dependent
+1553,13277,24,Car-Dependent
+1554,13281,70,Very Walkable
+1555,13282,19,Car-Dependent
+1556,13284,11,Car-Dependent
+1557,13285,4,Car-Dependent
+1558,13286,51,Somewhat Walkable
+1559,13287,57,Somewhat Walkable
+1560,13288,10,Car-Dependent
+1561,13289,65,Somewhat Walkable
+1562,13292,34,Car-Dependent
+1563,13293,3,Car-Dependent
+1564,13294,0,Car-Dependent
+1565,13295,12,Car-Dependent
+1566,13296,59,Somewhat Walkable
+1567,13297,23,Car-Dependent
+1568,13298,34,Car-Dependent
+1569,13299,37,Car-Dependent
+1570,13300,52,Somewhat Walkable
+1571,13301,58,Somewhat Walkable
+1572,13302,19,Car-Dependent
+1573,13303,53,Somewhat Walkable
+1574,13304,83,Very Walkable
+1575,13305,8,Car-Dependent
+1576,13306,68,Somewhat Walkable
+1577,13307,37,Car-Dependent
+1578,13308,0,Car-Dependent
+1579,13309,26,Car-Dependent
+1580,13310,38,Car-Dependent
+1581,13311,18,Car-Dependent
+1582,13312,50,Somewhat Walkable
+1583,13313,0,Car-Dependent
+1584,13314,45,Car-Dependent
+1585,13315,91,Walker's Paradise
+1586,13316,0,Car-Dependent
+1587,13317,84,Very Walkable
+1588,13318,25,Car-Dependent
+1589,13319,66,Somewhat Walkable
+1590,13320,13,Car-Dependent
+1591,13321,75,Very Walkable
+1592,13322,22,Car-Dependent
+1593,13323,50,Somewhat Walkable
+1594,13325,79,Very Walkable
+1595,13326,27,Car-Dependent
+1596,13327,1,Car-Dependent
+1597,13328,0,Car-Dependent
+1598,13329,4,Car-Dependent
+1599,13330,5,Car-Dependent
+1600,13331,78,Very Walkable
+1601,13332,58,Somewhat Walkable
+1602,13333,4,Car-Dependent
+1603,13334,4,Car-Dependent
+1604,13335,41,Car-Dependent
+1605,13336,6,Car-Dependent
+1606,13337,61,Somewhat Walkable
+1607,13338,0,Car-Dependent
+1608,13340,62,Somewhat Walkable
+1609,13341,20,Car-Dependent
+1610,13342,5,Car-Dependent
+1611,13343,57,Somewhat Walkable
+1612,13346,49,Car-Dependent
+1613,13347,6,Car-Dependent
+1614,13348,7,Car-Dependent
+1615,13350,31,Car-Dependent
+1616,13351,75,Very Walkable
+1617,13353,12,Car-Dependent
+1618,13354,71,Very Walkable
+1619,13355,0,Car-Dependent
+1620,13356,2,Car-Dependent
+1621,13357,0,Car-Dependent
+1622,13358,51,Somewhat Walkable
+1623,13359,33,Car-Dependent
+1624,13360,8,Car-Dependent
+1625,13361,80,Very Walkable
+1626,13362,78,Very Walkable
+1627,13363,69,Somewhat Walkable
+1628,13366,37,Car-Dependent
+1629,13367,0,Car-Dependent
+1630,13368,80,Very Walkable
+1631,13370,59,Somewhat Walkable
+1632,13371,69,Somewhat Walkable
+1633,13372,35,Car-Dependent
+1634,13373,16,Car-Dependent
+1635,13374,0,Car-Dependent
+1636,13375,89,Very Walkable
+1637,13376,41,Car-Dependent
+1638,13377,37,Car-Dependent
+1639,13378,0,Car-Dependent
+1640,13380,18,Car-Dependent
+1641,13381,23,Car-Dependent
+1642,13383,38,Car-Dependent
+1643,13385,63,Somewhat Walkable
+1644,13388,0,Car-Dependent
+1645,13389,37,Car-Dependent
+1646,13390,58,Somewhat Walkable
+1647,13391,35,Car-Dependent
+1648,13392,39,Car-Dependent
+1649,13393,21,Car-Dependent
+1650,13396,29,Car-Dependent
+1651,13398,59,Somewhat Walkable
+1652,13399,12,Car-Dependent
+1653,13400,11,Car-Dependent
+1654,13401,18,Car-Dependent
+1655,13402,76,Very Walkable
+1656,13403,24,Car-Dependent
+1657,13404,62,Somewhat Walkable
+1658,13408,0,Car-Dependent
+1659,13409,38,Car-Dependent
+1660,13410,71,Very Walkable
+1661,13411,54,Somewhat Walkable
+1662,13412,8,Car-Dependent
+1663,13413,76,Very Walkable
+1664,13415,22,Car-Dependent
+1665,13416,48,Car-Dependent
+1666,13417,36,Car-Dependent
+1667,13418,30,Car-Dependent
+1668,13419,65,Somewhat Walkable
+1669,13420,61,Somewhat Walkable
+1670,13421,71,Very Walkable
+1671,13422,22,Car-Dependent
+1672,13423,74,Very Walkable
+1673,13426,35,Car-Dependent
+1674,13427,50,Somewhat Walkable
+1675,13429,29,Car-Dependent
+1676,13431,41,Car-Dependent
+1677,13432,58,Somewhat Walkable
+1678,13433,8,Car-Dependent
+1679,13434,72,Very Walkable
+1680,13436,39,Car-Dependent
+1681,13437,0,Car-Dependent
+1682,13438,12,Car-Dependent
+1683,13439,0,Car-Dependent
+1684,13440,68,Somewhat Walkable
+1685,13441,56,Somewhat Walkable
+1686,13442,55,Somewhat Walkable
+1687,13443,3,Car-Dependent
+1688,13444,0,Car-Dependent
+1689,13445,33,Car-Dependent
+1690,13446,79,Very Walkable
+1691,13450,45,Car-Dependent
+1692,13451,42,Car-Dependent
+1693,13453,65,Somewhat Walkable
+1694,13455,73,Very Walkable
+1695,13456,13,Car-Dependent
+1696,13458,35,Car-Dependent
+1697,13459,62,Somewhat Walkable
+1698,13460,40,Car-Dependent
+1699,13462,47,Car-Dependent
+1700,13463,46,Car-Dependent
+1701,13466,3,Car-Dependent
+1702,13468,79,Very Walkable
+1703,13469,0,Car-Dependent
+1704,13470,3,Car-Dependent
+1705,13471,35,Car-Dependent
+1706,13472,4,Car-Dependent
+1707,13473,33,Car-Dependent
+1708,13474,52,Somewhat Walkable
+1709,13475,64,Somewhat Walkable
+1710,13476,48,Car-Dependent
+1711,13477,4,Car-Dependent
+1712,13478,52,Somewhat Walkable
+1713,13481,4,Car-Dependent
+1714,13482,7,Car-Dependent
+1715,13483,20,Car-Dependent
+1716,13486,2,Car-Dependent
+1717,13487,98,Walker's Paradise
+1718,13488,31,Car-Dependent
+1719,13489,62,Somewhat Walkable
+1720,13490,31,Car-Dependent
+1721,13491,28,Car-Dependent
+1722,13493,1,Car-Dependent
+1723,13494,61,Somewhat Walkable
+1724,13495,61,Somewhat Walkable
+1725,13496,74,Very Walkable
+1726,13497,86,Very Walkable
+1727,13498,37,Car-Dependent
+1728,13499,10,Car-Dependent
+1729,13500,7,Car-Dependent
+1730,13501,54,Somewhat Walkable
+1731,13502,52,Somewhat Walkable
+1732,13503,98,Walker's Paradise
+1733,13509,7,Car-Dependent
+1734,13510,32,Car-Dependent
+1735,13511,54,Somewhat Walkable
+1736,13512,8,Car-Dependent
+1737,13513,20,Car-Dependent
+1738,13514,75,Very Walkable
+1739,13515,74,Very Walkable
+1740,13517,90,Very Walkable
+1741,13518,72,Very Walkable
+1742,13519,33,Car-Dependent
+1743,13520,0,Car-Dependent
+1744,13521,13,Car-Dependent
+1745,13522,78,Very Walkable
+1746,13523,56,Somewhat Walkable
+1747,13524,49,Car-Dependent
+1748,13525,78,Very Walkable
+1749,13526,16,Car-Dependent
+1750,13527,3,Car-Dependent
+1751,13529,54,Somewhat Walkable
+1752,13530,53,Somewhat Walkable
+1753,13531,5,Car-Dependent
+1754,13532,0,Car-Dependent
+1755,13533,4,Car-Dependent
+1756,13535,22,Car-Dependent
+1757,13536,4,Car-Dependent
+1758,13537,0,Car-Dependent
+1759,13538,9,Car-Dependent
+1760,13539,57,Somewhat Walkable
+1761,13540,63,Somewhat Walkable
+1762,13542,54,Somewhat Walkable
+1763,13543,2,Car-Dependent
+1764,13544,0,Car-Dependent
+1765,13546,19,Car-Dependent
+1766,13548,0,Car-Dependent
+1767,13549,88,Very Walkable
+1768,13550,28,Car-Dependent
+1769,13551,57,Somewhat Walkable
+1770,13552,39,Car-Dependent
+1771,13553,59,Somewhat Walkable
+1772,13554,24,Car-Dependent
+1773,13555,38,Car-Dependent
+1774,13556,10,Car-Dependent
+1775,13557,11,Car-Dependent
+1776,13558,49,Car-Dependent
+1777,13559,14,Car-Dependent
+1778,13560,2,Car-Dependent
+1779,13561,82,Very Walkable
+1780,13562,34,Car-Dependent
+1781,13563,76,Very Walkable
+1782,13564,6,Car-Dependent
+1783,13565,15,Car-Dependent
+1784,13566,84,Very Walkable
+1785,13567,77,Very Walkable
+1786,13568,48,Car-Dependent
+1787,13569,32,Car-Dependent
+1788,13571,73,Very Walkable
+1789,13572,61,Somewhat Walkable
+1790,13573,79,Very Walkable
+1791,13574,15,Car-Dependent
+1792,13577,87,Very Walkable
+1793,13579,3,Car-Dependent
+1794,13580,89,Very Walkable
+1795,13581,60,Somewhat Walkable
+1796,13582,35,Car-Dependent
+1797,13583,0,Car-Dependent
+1798,13584,70,Very Walkable
+1799,13585,44,Car-Dependent
+1800,13587,7,Car-Dependent
+1801,13588,0,Car-Dependent
+1802,13589,15,Car-Dependent
+1803,13590,18,Car-Dependent
+1804,13592,55,Somewhat Walkable
+1805,13593,0,Car-Dependent
+1806,13594,19,Car-Dependent
+1807,13595,36,Car-Dependent
+1808,13596,50,Somewhat Walkable
+1809,13599,53,Somewhat Walkable
+1810,13600,49,Car-Dependent
+1811,13601,20,Car-Dependent
+1812,13603,31,Car-Dependent
+1813,13604,52,Somewhat Walkable
+1814,13605,98,Walker's Paradise
+1815,13606,79,Very Walkable
+1816,13607,27,Car-Dependent
+1817,13608,59,Somewhat Walkable
+1818,13609,24,Car-Dependent
+1819,13610,58,Somewhat Walkable
+1820,13611,69,Somewhat Walkable
+1821,13612,73,Very Walkable
+1822,13615,36,Car-Dependent
+1823,13619,7,Car-Dependent
+1824,13620,0,Car-Dependent
+1825,13621,0,Car-Dependent
+1826,13622,46,Car-Dependent
+1827,13624,66,Somewhat Walkable
+1828,13625,6,Car-Dependent
+1829,13626,47,Car-Dependent
+1830,13627,41,Car-Dependent
+1831,13628,22,Car-Dependent
+1832,13629,79,Very Walkable
+1833,13633,44,Car-Dependent
+1834,13634,87,Very Walkable
+1835,13636,87,Very Walkable
+1836,13637,15,Car-Dependent
+1837,13639,28,Car-Dependent
+1838,13640,0,Car-Dependent
+1839,13641,44,Car-Dependent
+1840,13642,80,Very Walkable
+1841,13643,3,Car-Dependent
+1842,13644,2,Car-Dependent
+1843,13645,5,Car-Dependent
+1844,13646,80,Very Walkable
+1845,13647,64,Somewhat Walkable
+1846,13648,27,Car-Dependent
+1847,13649,67,Somewhat Walkable
+1848,13650,81,Very Walkable
+1849,13651,77,Very Walkable
+1850,13653,58,Somewhat Walkable
+1851,13654,58,Somewhat Walkable
+1852,13655,17,Car-Dependent

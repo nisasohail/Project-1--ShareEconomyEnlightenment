@@ -1,0 +1,1405 @@
+,id,City,Address,lat,lon
+1,1,Humble,"20521, Kenswick Drive, Bordersville, Harris County, Texas, 77338, USA",30.02013792,-95.29399599999999
+2,3,Houston,"19317, Rio Villa Drive, Highlands, Harris County, Texas, 77049, USA",29.82935223,-95.08154949
+3,4,Bryan,"775, Inwood Drive, Bryan, Brazos County, Texas, 77802, USA",30.63730428,-96.33784597
+4,5,Fort Worth,"2723, East Carter Avenue, Fort Worth, Tarrant County, Texas, 76103, USA",32.74709735,-97.2864344
+5,6,Conroe,"9163, Red Stag, Montgomery County, Texas, 77303, USA",30.370455199999995,-95.38531904
+6,7,Cedar Creek,"Wa Drive, Wyldwood, Bastrop County, Texas, 78612, USA",30.10983831,-97.47341691
+7,8,Fort Worth,"4974, Glen Eden Drive, Fort Worth, Tarrant County, Texas, 76115, USA",32.68961141,-97.29816086
+8,9,Rockport,"North Fulton Beach Road, Copano Village, Aransas County, Texas, 78358, USA",28.10372572,-97.02583209
+9,11,Irving,"3841, Cheyenne Street, Irving, Dallas County, Texas, 75038, USA",32.86211601,-97.00264291
+10,12,Euless,"299, Fountainview Drive, Euless, Tarrant County, Texas, 76039, USA",32.86534832,-97.08103433
+11,13,Round Mountain,"Nicholson Bluff Cv, Travis County, Texas, USA",30.35200485,-98.14624215
+12,15,Kerrville,"699, Methodist Encampment Road, Kerrville, Kerr County, Texas, 78028, USA",30.07366703,-99.16136522
+13,16,New Braunfels,"Legend Meadows, New Braunfels, Guadalupe County, Texas, USA",29.64281097,-98.11440066
+14,17,Austin,"F T and Belle Ramsey House, Avenue B, Hyde Park, Austin, Travis County, Texas, 78751, USA",30.309521999999998,-97.73171047
+15,19,Houston,"13009, Sweetgum Shores Drive, Harmaston, Harris County, Texas, 77044, USA",29.95468009,-95.17607029
+16,20,Frisco,"12363, Redbud Lane, Denton County, Texas, 75034, USA",33.15577622,-96.9304385
+17,22,College Station,"4355, Castlegate Drive, Castlegate, College Station, Brazos County, Texas, 77845, USA",30.54670384,-96.28285309
+18,25,Denton,"Nirvana Smoke Shop, 215, North Carroll Boulevard, Denton, Denton County, Texas, 76201, USA",33.21614026,-97.13775675
+19,27,Richmond,"17498, Aspen Ridge Court, Twin Oaks Village, Fort Bend County, Texas, 77407, USA",29.69552664,-95.69011086
+20,28,Katy,"24518, Cornell Park Lane, Lakes at Grand Harbor, Harris County, Texas, 77494, USA",29.78091738,-95.79494512
+21,30,Houston,"12998, Woodforest Boulevard, Greens Bayou, Harris County, Texas, 77015, USA",29.79337987,-95.19640052
+22,32,Houston,"984, Villa de Matel Road, Houston, Harris County, Texas, 77023, USA",29.729390999999996,-95.31251441
+23,33,Arlington,"2244, Mediterranean Avenue, Arlington, Tarrant County, Texas, 76011, USA",32.77038954,-97.09001198
+24,38,Austin,"1603, Poquito Street, East Austin, Austin, Travis County, Texas, 78702, USA",30.27752338,-97.71919076
+25,41,Killeen,"4475, Menard Drive, Killeen, Bell County, Texas, 76549, USA",31.08831396,-97.77755412
+26,42,New Braunfels,"448, Napoleon Street, New Braunfels, Comal County, Texas, 78130, USA",29.70471393,-98.12010313
+27,45,Abilene,"1351, Squires Road, Abilene, Taylor County, Texas, 79602, USA",32.43781002,-99.69983992
+28,46,Austin,"14511, Deaf Smith Boulevard, Chaparral Crossing, Hornsby Bend, Travis County, Texas, 78725, USA",30.23294081,-97.58937812
+29,47,Fort Worth,"1012, Garvey Street, Fort Worth, Tarrant County, Texas, 76102, USA",32.76650721,-97.32873671
+30,49,Pasadena,"4381, Winterborne Drive, Village Grove, Pasadena, Harris County, Texas, 77505, USA",29.64732251,-95.13905355
+31,51,San Antonio,"Connally Loop, San Antonio, Bexar County, Texas, 78217, USA",29.51605277,-98.43504461
+32,52,Allen,"412, Irvine Drive, Watters Creek, Allen, Collin County, Texas, 75013, USA",33.09533497,-96.70009475
+33,54,Humble,"7698, Desco Drive, Bordersville, Harris County, Texas, 77338, USA",30.01937977,-95.30818795
+34,57,Fort Worth,"Amaranth Drive, Fort Worth, Tarrant County, Texas, 76428, USA",32.91753279,-97.33690001
+35,59,Irving,"Irving, Dallas County, Texas, 75039, USA",32.88088953,-96.94281767
+36,63,Houston,"El Paseo Street, Houston, Harris County, Texas, 77054, USA",29.68945181,-95.39325254
+37,64,Bryan,"965, Stanfield Circle, Bryan, Brazos County, Texas, 77802, USA",30.64043947,-96.33804793
+38,65,Houston,"2056, El Paseo Street, Houston, Harris County, Texas, 77054, USA",29.68889861,-95.39527326
+39,66,Conroe,"754, Stonewall Jackson Drive, River Plantation, Montgomery County, Texas, 77302, USA",30.244725800000005,-95.43822709999999
+40,67,San Antonio,"4336, Dauphine Drive, San Antonio, Bexar County, Texas, 78218, USA",29.48241384,-98.41001528
+41,69,Concan,"Mountain Valley Road, Third Crossing, Uvalde County, Texas, 78838, USA",29.53213067,-99.69302161
+42,70,Dallas,"3049, Tres Logos Lane, Dallas, Dallas County, Texas, 75228, USA",32.85329301,-96.66028827
+43,71,Austin,"507, West Alpine Road, Dawson, Austin, Travis County, Texas, 78704, USA",30.23038507,-97.76581095
+44,72,San Antonio,"8783, Tesoro Drive, San Antonio, Bexar County, Texas, 78217, USA",29.52007905,-98.45505578
+45,76,Irving,"Tuscan Surgery Center at Las Colinas, 701, Tuscan Drive, Valley Ranch, Irving, Dallas County, Texas, 75039, USA",32.89803383,-96.95641306
+46,77,McKinney,"171, South Greer Street, McKinney, Collin County, Texas, 75069, USA",33.19588921,-96.62907977
+47,78,Conroe,"Montgomery County, Texas, 77385, USA",30.20343937,-95.42941103
+48,79,College Station,"2977, Normand Drive, Southwood Valley, College Station, Brazos County, Texas, 77845, USA",30.58726186,-96.29515158
+49,80,La Porte,"5642, Sugar Creek Drive, Creekmont, La Porte, Harris County, Texas, 77571, USA",29.66798325,-95.08367585
+50,81,College Station,"2385, Colgate Circle, Castle Rock Apartments, College Station, Brazos County, Texas, 77840, USA",30.6133901,-96.30687282
+51,82,Plano,"6899, Abernathy Street, Plano, Collin County, Texas, 75074, USA",33.067471000000005,-96.66369279999999
+52,83,Fort Worth,"5525, Eastwedge Drive, Fort Worth, Tarrant County, Texas, 76137, USA",32.88156439,-97.2658547
+53,84,Euless,"535, Calvary Drive, Euless, Tarrant County, Texas, 76040, USA",32.83118208,-97.10332628
+54,86,Houston,"1428, Trailwood Village Drive, Houston, Harris County, Texas, 77339, USA",30.03683572,-95.22608777
+55,87,San Antonio,"Camino Haven, The Enclave At Stonehaven, Bexar County, Texas, 78255, USA",29.70627939,-98.63299228
+56,88,Irving,"3809, Flintridge Drive, Irving, Dallas County, Texas, 75038, USA",32.86410161,-96.99892108
+57,89,Katy,"23367, Leaf Ridge Drive, Cinco Ranch, Fort Bend County, Texas, 77494, USA",29.75443391,-95.77315946
+58,90,New Braunfels,"North Guenther Avenue, New Braunfels, Comal County, Texas, 78130, USA",29.70090884,-98.131561
+59,91,Buchanan Dam,"98, Trinidad Street, Buchanan Dam, Llano County, Texas, 78609, USA",30.75022481,-98.41572007
+60,92,Humble,"9498, Greencape Court, Dyersdale, Harris County, Texas, 77396, USA",29.92953838,-95.25096238
+61,93,Baytown,"1908, North Main Street, Baytown, Harris County, Texas, 77520, USA",29.74584661,-94.96355953
+62,94,Gary City,"217, County Road 191, Buncome, Panola County, Texas, 75643, USA",32.03804545,-94.45985039
+63,95,Irving,"1955, Cloverleaf Lane, Irving, Dallas County, Texas, 75061, USA",32.83240526,-96.98926843
+64,96,Bryan,"3669, Forestwood Drive, Saddlewood Apartments, Bryan, Brazos County, Texas, 77801, USA",30.630176300000002,-96.36748443
+65,97,Houston,"Lowe's, Plum Creek Terrace Lane, Houston, Harris County, Texas, 77087, USA",29.69799127,-95.29893196
+66,98,Eustace,"5798, County Road 1423, Henderson County, Texas, 75124, USA",32.22713635,-95.99408655
+67,99,Conroe,"426, Oak Stream Drive, Conroe, Montgomery County, Texas, 77304, USA",30.28228127,-95.48712678
+68,100,Colleyville,"5699, Texas Trail, Colleyville, Tarrant County, Texas, 76034, USA",32.89039189,-97.18186807
+69,101,Mabank,"Sunray Street, Henderson County, Texas, 75156, USA",32.25334064,-96.08078979999999
+70,102,Cibolo,"Schertz, Guadalupe County, Texas, 78108, USA",29.62122809,-98.22315851
+71,103,New Braunfels,"176, Lakeview Boulevard, Landa Park Highlands, New Braunfels, Comal County, Texas, 78130, USA",29.716015999999996,-98.13737076
+72,107,Allen,"1518, Pine Bluff Drive, Allen, Collin County, Texas, 75002, USA",33.09131167,-96.6306321
+73,108,Pipe Creek,"175, Mountain View Lane, Bandera County, Texas, 78063, USA",29.72770471,-98.86898766
+74,109,Houston,"8620, Findlay Street, Houston, Harris County, Texas, 77017, USA",29.69300158,-95.26477971
+75,110,College Station,"1503, Pine Ridge Drive, College Station, Brazos County, Texas, 77840, USA",30.60723597,-96.31728311
+76,111,Houston,"2301, Congress Street, Houston, Harris County, Texas, 77003, USA",29.75561922,-95.34945333
+77,112,Austin,"Velasquez Sports Complex, Lady Bird Lake Hike and Bike Trail, Lakeshore, Austin, Travis County, Texas, 78741, USA",30.24962237,-97.72215443
+78,117,Navasota,"360, Gibbs Street, Navasota, Grimes County, Texas, 77868, USA",30.38250015,-96.08396984
+79,120,South Padre Island,"2028, Gulf Boulevard, South Padre Island, Cameron County, Texas, 78597, USA",26.0988938,-97.16416098
+80,122,Houston,"8076, Grafton Street, Houston, Harris County, Texas, 77017, USA",29.69217133,-95.27834702
+81,123,Corpus Christi,"Third Coast Beach Company, Headsail Avenue, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, USA",27.61934852,-97.22201559
+82,124,Granbury,"1402, South Chisholm Trail, Mambrino, Hood County, Texas, 76048, USA",32.39882076,-97.75762567
+83,125,Houston,"5539, Hillman Street, Plaza Santa Clara, Houston, Harris County, Texas, 77023, USA",29.72643595,-95.31921338
+84,127,Arlington,"6203, Castle Creek Road, Kennedale, Tarrant County, Texas, 76017, USA",32.66199838,-97.2060795
+85,129,Port Aransas,"763, Access Rd 1-A, Mustang Beach, Port Aransas, Aransas County, Texas, 78373, USA",27.80544277,-97.08199531
+86,130,Round Rock,"1609, Corn Hill Lane, Turtle Creek Village, Round Rock, Williamson County, Texas, 78664, USA",30.50945534,-97.65806608
+87,135,Humble,"Hampton Hills Drive, Laurel Place, Moonshine Hill, Harris County, Texas, 77338:77346, USA",29.98656912,-95.22818386
+88,136,Conroe,"14895, Greenbough, Bennette Estates, Grangerland, Montgomery County, Texas, 77302, USA",30.20567661,-95.35012473
+89,137,Frisco,"11550, Clipper Circle, Stewart Peninsula, Denton County, Texas, 75034, USA",33.11616758,-96.92762318
+90,138,Sealy,"Beckendorff Road, Rexville, Austin County, Texas, 77474, USA",29.70852238,-96.22426265
+91,139,San Antonio,"1489, Blackbridge, The Woods, Bexar County, Texas, 78253, USA",29.44439593,-98.71742703
+92,141,San Antonio,"4601, Emory Oak Woods, Woods of Shavano, San Antonio, Bexar County, Texas, 78249, USA",29.58112385,-98.57656207
+93,142,College Station,"Harvey Road, Summit Crossing, College Station, Brazos County, Texas, 77840, USA",30.64207031,-96.28920321
+94,143,Houston,"5814, Effingham Drive, Houston, Harris County, Texas, 77035, USA",29.646519800000004,-95.48921278
+95,144,Cibolo,"421, Saddlehorn Way, Cibolo, Guadalupe County, Texas, 78108, USA",29.58497397,-98.21778634
+96,145,Shenandoah,"Research Forest Drive, Town Center, Shenandoah, Montgomery County, Texas, 77384-5317, USA",30.17832473,-95.45222338
+97,146,Brenham,"1885, FM 50, Independence, Washington County, Texas, 77833, USA",30.2006913,-96.36471719
+98,147,San Antonio,"4317, Parkwood Drive, San Antonio, Bexar County, Texas, 78218, USA",29.48217334,-98.40900329
+99,148,Schertz,"Gettysburg Drive, The Village Subdivision Unit 4, Schertz, Guadalupe County, Texas, 78154, USA",29.55967872,-98.25797103
+100,149,Carrollton,"Lakecrest Court, Carrollton, Dallas County, Texas, 75006, USA",32.96345053,-96.85590903
+101,150,New Ulm,"Track Road, New Ulm, Austin County, Texas, 78950, USA",29.89822345,-96.50467836
+102,151,Hempstead,"Pierceall Road, Pine Island, Waller County, Texas, 77445, USA",30.04281773,-96.04410223
+103,155,Granbury,"Williamson Road, Mambrino, Hood County, Texas, 76048, USA",32.38876928,-97.72726180000001
+104,158,New Braunfels,"692, Comal Avenue, New Braunfels, Comal County, Texas, 78130, USA",29.69792115,-98.11524852
+105,159,New Braunfels,"Comal River, South Gilbert Avenue, New Braunfels, Comal County, Texas, 78130, USA",29.7068023,-98.12265949
+106,160,Kemah,"722, 6th Street, Kemah, Galveston County, Texas, 77565, USA",29.54380153,-95.0170362
+107,161,Irving,"456, Lacebark Drive, Valley Ranch, Irving, Dallas County, Texas, 75063, USA",32.91786622,-96.95068721
+108,163,Austin,"216, East 4th Street, Downtown, Austin, Travis County, Texas, 78701, USA",30.26594744,-97.74144275
+109,164,Concan,"Third Crossing, Uvalde County, Texas, 78838, USA",29.54128208,-99.69037872
+110,165,Richmond,"399, Waterside Estates Circle, Waterside Estates, Pecan Grove, Fort Bend County, Texas, 77406, USA",29.64864295,-95.7353304
+111,166,Austin,"6017, Salcon Cliff Drive, Legend Oaks, Austin, Travis County, Texas, 78749, USA",30.20515821,-97.87828950000001
+112,167,College Station,"Carriker Court, Royder, Brazos County, Texas, 77881, USA",30.51712322,-96.30567554
+113,174,San Antonio,"6448, Ruffled Grouse, San Antonio, Bexar County, Texas, 78233, USA",29.56955298,-98.36259271
+114,177,Corpus Christi,"Comfort Inn And Suites, Windward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, USA",27.604834499999996,-97.21074843
+115,179,Houston,"3025, Taft Street, Houston, Harris County, Texas, 77006, USA",29.74485117,-95.38589969
+116,183,Dallas,"5223, East Side Avenue, Fair Park, Dallas, Dallas County, Texas, 75214, USA",32.79764909,-96.75905703
+117,184,Richmond,"17459, Hanoverian Drive, Shiloh Lake Estates, Fort Bend County, Texas, 77407, USA",29.659385999999998,-95.69020939
+118,185,Austin,"4501, Gillis Street, South Manchaca, Austin, Travis County, Texas, 78745, USA",30.22363485,-97.78329845
+119,186,Austin,"1301, Cedar Avenue, Chestnut, Austin, Travis County, Texas, 78722, USA",30.275918400000002,-97.71321066
+120,187,Dallas,"2629, Millmar Drive, Dallas, Dallas County, Texas, 75228, USA",32.82679167,-96.67012107
+121,190,Dallas,"5426, McCommas Boulevard, Knox, Dallas, Dallas County, Texas, 75206, USA",32.82957241,-96.77609658
+122,191,Lago Vista,"3404, American Drive, Lago Vista, Travis County, Texas, 78645, USA",30.44054759,-98.02017659
+123,192,Rockport,"588, Newcomb Bend Loop, Holiday Beach, Aransas County, Texas, 78382, USA",28.16218221,-97.01599643
+124,193,Tow,"1221, Manor Street, Buchanan Lake Village, Llano County, Texas, 78672, USA",30.85041949,-98.44988581
+125,194,Rockport,"North Fulton Beach Road, Fulton, Aransas County, Texas, 78358, USA",28.100134000000004,-97.03050334
+126,195,Bridgeport,"Rickels, Wise County, Texas, 76426, USA",33.16989692,-97.85160453
+127,196,Kingsville,"906, West Lee Avenue, Kingsville, Kleberg County, Texas, 78363, USA",27.52007545,-97.87982068
+128,200,Dallas,"Uptown PID, Dallas, Dallas County, Texas, 75204, USA",32.80743307,-96.79499383
+129,202,Converse,"4015, Mistflower Drive, Bexar County, Texas, 78109, USA",29.46611326,-98.32325103
+130,203,Lakeway,"718, Bermuda Street, Lakeway, Travis County, Texas, 78734, USA",30.371241100000002,-97.98738926
+131,204,Corpus Christi,"354, Naples Street, Coopers Alley L-Head, Downtown, Corpus Christi, Nueces County, Texas, 78404, USA",27.77152417,-97.39531271
+132,205,Dallas,"6006, Mercedes Avenue, Lower Greenville, Dallas, Dallas County, Texas, 75214, USA",32.82768128,-96.76334642
+133,207,Brenham,"Edgar Matchett House, West Main Street, Brenham, Washington County, Texas, 77833, USA",30.1662184,-96.40225125
+134,208,Galveston,"DoubleTree by Hilton Hotel Galveston Beach, Avenue O ½, Galveston, Galveston County, Texas, 77550, USA",29.29448803,-94.78369067
+135,212,Euless,"Fountainview Drive, Euless, Tarrant County, Texas, 76039, USA",32.86431109,-97.08096908
+136,213,Houston,"4190, Westpark Drive, Houston, Harris County, Texas, 77027, USA",29.72758048,-95.44585328
+137,214,Bastrop,"A. A. Erhard House, Pecan Street, Bastrop, Bastrop County, Texas, 78602, USA",30.11212414,-97.31763093
+138,215,San Antonio,"1572, Moonlit Grove, Wetmore, San Antonio, Bexar County, Texas, 78247, USA",29.57813711,-98.43065619
+139,217,Houston,"2734, Mason Street, Houston, Harris County, Texas, 77006, USA",29.74603384,-95.38480976
+140,219,Austin,"3216, Pearce Road, Austin, Travis County, Texas, 78730, USA",30.33816909,-97.82413058
+141,221,Saginaw,"893, Willow Court, Saginaw, Tarrant County, Texas, 76179, USA",32.85276234,-97.37723606
+142,228,McKinney,"6988, Wind Row Drive, McKinney, Collin County, Texas, 75070, USA",33.15732832,-96.70865246
+143,229,Bandera,"205, 10th Street, Bandera, Bandera County, Texas, 78003, USA",29.722388,-99.07181852
+144,231,Canyon,"White Fence Road, Randall County, Texas, 79016, USA",35.02061454,-101.9001074
+145,232,Temple,"4763, Arrowhead Drive, Temple, Bell County, Texas, 76502, USA",31.08315027,-97.40213929999999
+146,233,Austin,"2102, Keepsake Drive, Grand Oaks, Austin, Travis County, Texas, 78748, USA",30.18835401,-97.81606795
+147,234,Little Elm,"3775, Misty Cove, Little Elm, Denton County, Texas, 75068, USA",33.15256985,-96.96912275
+148,235,Richmond,"Victoria Springs Drive, Sonoma Ridge, Fort Bend County, Texas, 77407, USA",29.68569362,-95.72351852
+149,236,League City,"3102, Sand Reef Lane, Bay Ridge, League City, Galveston County, Texas, 77573, USA",29.50904258,-95.03171378
+150,237,Galveston,"Galveston City Hall, Rosenberg Avenue - 25th Street, Galveston, Galveston County, Texas, 77553, USA",29.30142486,-94.79507861
+151,238,Rockport,"792, Copano Cove Road, Aransas County, Texas, 78382, USA",28.07069945,-97.10866929
+152,239,Houston,"345, Drennan Street, Houston, Harris County, Texas, 77003, USA",29.74678384,-95.33610475
+153,240,Corpus Christi,"Corpus Christi North Beach, Corpus Christi Beach Walk, Peoples Street T-Head, Downtown, Corpus Christi, Nueces County, Texas, 78402, USA",27.82631852,-97.38456603
+154,241,League City,"901, Ponte Serena Drive, The Lakes at South Shore Harbor, League City, Galveston County, Texas, 77573, USA",29.51437679,-95.05881077
+155,244,Dallas,"2122, North Peak Street, Lower Greenville, Dallas, Dallas County, Texas, 75204, USA",32.80439082,-96.78496543
+156,245,Sugar Land,"6762, Charlton Street, Telfair, Sugar Land, Fort Bend County, Texas, 77479, USA",29.58141125,-95.65816858
+157,246,Rockport,"54, Nassau Drive, Key Allegro, Rockport, Aransas County, Texas, 78382, USA",28.04548923,-97.02933703
+158,249,Galveston,"Maravilla Resort Condominiums, 9520, Seawall Boulevard, Galveston, Galveston County, Texas, 77551, USA",29.24702215,-94.85914419
+159,250,Galveston,"3623, Avenue S ½, Galveston, Galveston County, Texas, 77550, USA",29.28171507,-94.80228138
+160,251,Seabrook,"4464, Spoonbill Drive, Seabrook, Harris County, Texas, 77586, USA",29.58307462,-95.01420299
+161,252,Rogers,"12431, Reeds Lake Loop, Academy, Bell County, Texas, 76569, USA",30.966597200000002,-97.31752936
+162,255,Fort Worth,"1812, Tremont Avenue, Fort Worth, Tarrant County, Texas, 76107, USA",32.74194821,-97.38246834
+163,256,Harker Heights,"1627, Inca Drive, Harker Heights, Bell County, Texas, 76548, USA",31.06351199,-97.63620315
+164,257,Austin,"4908, Alf Avenue, Johnston Terrace, Austin, Travis County, Texas, 78721, USA",30.26704789,-97.68989589
+165,258,Terlingua,"Terlingua Ranch Road, Brewster County, Texas, 79852, USA",29.49263134,-103.3699133
+166,259,Austin,"713, Brownlee Circle, Clarksville, Austin, Travis County, Texas, 78703, USA",30.27456699,-97.7580592
+167,260,Houston,"8499, Hearth Drive, Houston, Harris County, Texas, 77054, USA",29.68086261,-95.41870216
+168,261,Arlington,"Spring Hill Suites, East Lamar Boulevard, Arlington, Tarrant County, Texas, 76011, USA",32.76386606,-97.07894896
+169,262,Hickory Creek,"1140, Point Vista Road, Hickory Creek, Denton County, Texas, 75065, USA",33.11962689,-97.03793115
+170,263,Grapevine,"The Church of Jesus Christ of Latter-day Saints, 1143, Butterfield Drive, Grapevine, Tarrant County, Texas, 76051, USA",32.94863427,-97.06999168
+171,264,Buda,"149, Feathergrass Drive, Green Meadows, Buda, Hays County, Texas, 78610, USA",30.05988156,-97.81432509999999
+172,265,Dallas,"4333, McKinney Avenue, Knox, Knox Street PID, Dallas, Dallas County, Texas, 75205, USA",32.81926424,-96.78957175
+173,266,College Station,"1596, Welsh Avenue, Callaway Villas, College Station, Brazos County, Texas, 77840, USA",30.59607091,-96.32442712
+174,267,Houston,"El Camino Real, Houston, Harris County, Texas, 77062, USA",29.58231323,-95.14569045
+175,269,Austin,"206, Clearday Drive, Buckingham Ridge, Austin, Travis County, Texas, 78745, USA",30.19237135,-97.7816127
+176,270,Austin,"5714, Lark Creek Drive, Southeast Austin, Austin, Travis County, Texas, 78744, USA",30.1925213,-97.73138523
+177,273,Corpus Christi,"4020, Claudia Drive, Flour Bluff, Corpus Christi, Nueces County, Texas, 78418, USA",27.61486949,-97.29735892
+178,276,Harker Heights,"3656, Blanco Drive, Harker Heights, Bell County, Texas, 76548, USA",31.03481406,-97.64290786
+179,277,Dallas,"8747, Tudor Place, Dallas, Dallas County, Texas, 75228, USA",32.81346713,-96.69909915
+180,278,Temple,"Forrester Road, Hobbs, Bell County, Texas, 76502, USA",31.03456989,-97.40999289
+181,279,White Settlement,"Sunset Court, White Settlement, Tarrant County, Texas, 76108, USA",32.74400632,-97.47084844
+182,280,Austin,"9409, Southwick Drive, The Woodlands, Austin, Travis County, Texas, 78724, USA",30.27640783,-97.62591641
+183,283,Fort Worth,"4000, Mattison Avenue, Fort Worth, Tarrant County, Texas, 76107, USA",32.74981109,-97.37726356
+184,284,Austin,"2011, Montclaire Street, Barton Hills, Austin, Travis County, Texas, 78704, USA",30.2474314,-97.77883535
+185,285,Grapevine,"1880, Greenhaven, Grapevine, Tarrant County, Texas, 76051, USA",32.88470079,-97.09228608
+186,287,Fort Worth,"8828, Tyne Trail, Fort Worth, Tarrant County, Texas, 76118, USA",32.79677242,-97.18844706
+187,288,Corpus Christi,"1100, Clarion Drive, Bay Area, Corpus Christi, Nueces County, Texas, 78412, USA",27.70556469,-97.34728353
+188,289,Corpus Christi,"778, Lansdown Drive, Bay Area, Corpus Christi, Nueces County, Texas, 78412, USA",27.722743100000002,-97.37313063
+189,291,Fort Worth,"2208, Hawthorne Avenue, Fort Worth, Tarrant County, Texas, 76110, USA",32.72065648,-97.34999946
+190,292,New Braunfels,"East Mather Street, New Braunfels, Comal County, Texas, 78130, USA",29.70831063,-98.10963315
+191,293,Dallas,"2008, Browder Street, South Dallas-Fair Park PID, Dallas, Dallas County, Texas, 75215, USA",32.76778958,-96.78739315
+192,294,Dallas,"Ellis Street, Uptown PID, Dallas, Dallas County, Texas, 75204, USA",32.79816318,-96.79518007
+193,296,Horseshoe Bay,"199, Oasis, Horseshoe Bay, Llano County, Texas, 78657, USA",30.54917047,-98.35774254
+194,297,Denton,"3045, Weston Drive, Denton, Denton County, Texas, 76209, USA",33.21989289,-97.09816456
+195,301,Houston,"4951, Rosa Allen Street, Houston, Harris County, Texas, 77017, USA",29.69235827,-95.24885425
+196,306,Houston,"1111, Post Oak Boulevard, Highland Village, Houston, Harris County, Texas, 77056, USA",29.753256099999998,-95.45866314
+197,307,Austin,"8605, Danville Drive, Heritage Hills, Austin, Travis County, Texas, 78753, USA",30.34622132,-97.68762240000001
+198,313,Houston,"4773, Woodside Street, Houston, Harris County, Texas, 77023, USA",29.73771842,-95.32861856
+199,314,Galveston,"2409, Avenue M, Galveston, Galveston County, Texas, 77550, USA",29.29682614,-94.79268816
+200,316,Belton,"436 Spur Road, Little River, Bell County, Texas, 76554, USA",30.9959971,-97.40209915
+201,317,Dallas,"1999, Ocalla Avenue, Dallas, Dallas County, Texas, 75218, USA",32.819962800000006,-96.70168684
+202,320,Austin,"1309, Kittansett Cove, Austin, Travis County, Texas, 78746, USA",30.28254783,-97.82910595
+203,324,Manor,"11900, Briarcreek Loop, Briarcreek, New Katy, Travis County, Texas, 78653, USA",30.31864462,-97.53576258
+204,325,Killeen,"East Elms Road, Killeen, Bell County, Texas, 76542, USA",31.07640999,-97.72152696
+205,326,Euless,"425, Sierra Drive, Euless, Tarrant County, Texas, 76040, USA",32.83298619,-97.11114517
+206,327,Celina,"676, West Walnut Street, Celina, Collin County, Texas, 75009, USA",33.32453082,-96.79018068
+207,328,Nacogdoches,"County Road 504, Hayward Junction, Nacogdoches County, Texas, 75961, USA",31.56407874,-94.62385177
+208,329,Houston,"West Bellfort Street, Houston, Harris County, Texas, 77025, USA",29.67183631,-95.42347628
+209,330,Dallas,"Ridgewood Trail, The Village, Dallas, Dallas County, Texas, 54231, USA",32.84624521,-96.74246166
+210,331,Arlington,"Lot H, Road To Six Flags East, Arlington, Tarrant County, Texas, 76011, USA",32.75538087,-97.09107794
+211,332,Rockport,"634, East Hackberry Street, Rockport, Aransas County, Texas, 78382, USA",28.01785092,-97.05727144
+212,333,Austin,"2100, Paramount Avenue, Barton Hills, Austin, Travis County, Texas, 78704, USA",30.25230643,-97.77757215
+213,334,Lakeway,"507, Highlander, Lakeway, Travis County, Texas, 78734, USA",30.36784292,-97.99805756
+214,335,Rosenberg,"5118, Oakbriar Lane, Rosenberg, Fort Bend County, Texas, 77469, USA",29.50860228,-95.80310778
+215,336,Arlington,"635, Waggoner Drive, Arlington, Tarrant County, Texas, 76013, USA",32.72803363,-97.14052401
+216,337,McKinney,"510, West Heard Street, McKinney, Collin County, Texas, 75069, USA",33.20465027,-96.61962981
+217,338,Brazoria,"201, Nevada Street, Brazoria, Brazoria County, Texas, 77422, USA",29.04309401,-95.57157115
+218,339,Marble Falls,"699, Rocky Road, Marble Falls, Burnet County, Texas, 78657, USA",30.55120902,-98.28522492
+219,340,Temple,"Cross Drive, Temple, Bell County, Texas, 76508, USA",31.03919247,-97.36733881
+220,341,Lumberton,"10418, Cooks Lake Road, Loeb, Hardin County, Texas, 77657, USA",30.18544674,-94.16076597
+221,342,Crosby,"1898, Littler Court, Newport, Magnolia Gardens, Harris County, Texas, 77532, USA",29.91546051,-95.09924451
+222,348,La Porte,"3114, Hamilton Street, La Porte, Harris County, Texas, 77571, USA",29.62568246,-95.01226357
+223,349,Port Aransas,"1923, South 11th Street, Mustang Beach, Port Aransas, Aransas County, Texas, 78373, USA",27.81626942,-97.07139977
+224,351,Texas City,"2005, 19th Avenue North, Texas City, Galveston County, Texas, 77590, USA",29.402702899999998,-94.92380238
+225,352,Marble Falls,"Hatchett Hill, Mormon Mill, Burnet County, Texas, 78654, USA",30.58938648,-98.2342699
+226,355,Houston,"1502, Rutland Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.798169899999998,-95.4012972
+227,356,Canton,"5543, Farm-to-Market Road 1651, Whitton, Van Zandt County, Texas, 75103, USA",32.47689543,-95.92646129
+228,357,Lakeway,"718, Bermuda Street, Lakeway, Travis County, Texas, 78734, USA",30.37114346,-97.9874099
+229,359,Leander,"13221, Misty Bend, Travis County, Texas, 78641, USA",30.50527204,-97.87717359999999
+230,360,Amarillo,"6398, Arden Road, Amarillo, Randall County, Texas, 79109, USA",35.13213102,-101.90844759999999
+231,361,Dripping Springs,"513, Cottonwood Creek Drive, Sunset Canyon, Fitzhugh, Hays County, Texas, 78620, USA",30.2140434,-98.02505807
+232,364,Bryan,"3508, Pioneer Circle, Bryan, Brazos County, Texas, 77808, USA",30.67392164,-96.33054603
+233,366,Austin,"1309, Olander Street, Swede Hill, Austin, Travis County, Texas, 78702, USA",30.27394395,-97.73043148
+234,369,South Padre Island,"192, Pike Street, South Padre Island, Cameron County, Texas, 78597, USA",26.10288118,-97.16509496
+235,370,Austin,"1508, Southport Drive, South Lamar, Austin, Travis County, Texas, 78704-7205, USA",30.23243969,-97.77998493
+236,372,Austin,"3402, Govalle Avenue, Rosewood, Austin, Travis County, Texas, 78702, USA",30.26530049,-97.69991544
+237,374,Port Isabel,"Garriga Elementary School, West Adams Street, Port Isabel, Cameron County, Texas, 78578, USA",26.07246239,-97.20946416
+238,375,Fort Worth,"8800, Royal Harbor, Fort Worth, Tarrant County, Texas, 76179, USA",32.88370025,-97.45226113
+239,376,Lago Vista,"3148, Thurman Road, Hudson Bend, Travis County, Texas, 78645, USA",30.41536328,-97.98457447
+240,377,College Station,"823, University Oaks Boulevard, Sorority Row, College Station, Brazos County, Texas, 77840, USA",30.62176062,-96.3160046
+241,378,Harlingen,"1105, East Williamson Avenue, North Pointe, Harlingen, Cameron County, Texas, 78550, USA",26.21102552,-97.68446173
+242,379,South Padre Island,"Peninsula Island Resort and Spa, 340, Padre Boulevard, South Padre Island, Cameron County, Texas, 78597, USA",26.08756152,-97.16118837
+243,380,College Station,"Holleman Drive East, Castle Rock Apartments, College Station, Brazos County, Texas, 77840, USA",30.61873048,-96.30951679
+244,383,Bryan,"4708, Williamsburg Drive, Bryan, Brazos County, Texas, 77802, USA",30.66663304,-96.29978754
+245,384,Leander,"11008, Beach Road, Nameless, Travis County, Texas, 78641, USA",30.49376826,-97.91400505
+246,385,Austin,"5705, Westminster Drive, Windsor Park, Austin, Travis County, Texas, 78723, USA",30.31034353,-97.69072440000001
+247,386,Austin,"4008, Maplewood Avenue, Delwood, Austin, Travis County, Texas, 78722, USA",30.29515512,-97.71293468
+248,387,Bryan,"2799, Bayberry Court, Bryan, Brazos County, Texas, 77807, USA",30.62615729,-96.38565376
+249,388,South Padre Island,"1400, Gulf Boulevard, South Padre Island, Cameron County, Texas, 78597, USA",26.09494541,-97.16351287
+250,389,Houston,"Riva's, 1117, Missouri Street, Houston, Harris County, Texas, 77006, USA",29.74622426,-95.39220643
+251,391,Arlington,"519, Waggoner Drive, Arlington, Tarrant County, Texas, 76013, USA",32.72943232,-97.14084642
+252,392,Denton,"198, Peach Street, Denton, Denton County, Texas, 76209, USA",33.23611895,-97.13148007
+253,393,New Braunfels,"135, East Main Street, New Braunfels, Comal County, Texas, 78130, USA",29.71130945,-98.120143
+254,395,Corpus Christi,"Surfside Sandwich Shoppe, 15113, South Padre Island Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60664399,-97.22494796
+255,396,Horseshoe Bay,"State Highway 29, Laguna Vista, Burnet County, Texas, 78611, USA",30.76671749,-98.34262529
+256,398,New Braunfels,"Tubenbach, East Coll Street, New Braunfels, Comal County, Texas, 78130, USA",29.70367886,-98.11771244
+257,402,Killeen,"5038, Greenlee Drive, Killeen, Bell County, Texas, 76542, USA",31.07246937,-97.69427626
+258,403,Salado,"Stella Drive, Salado, Bell County, Texas, 76571, USA",30.94127931,-97.53317629
+259,405,Dallas,"4124, Oak Lawn Avenue, Highland Park, Dallas County, Texas, 75219, USA",32.81870409,-96.80110468
+260,406,Frisco,"Hidden Cove Marina, Hidden Cove Park, Stewart Peninsula, The Colony, Denton County, Texas, 75036, USA",33.12624931,-96.933584
+261,408,Dallas,"10602, Stone Canyon Road, Dallas, Dallas County, Texas, 75230, USA",32.89208122,-96.77417884
+262,412,San Antonio,"Wind Canyon, Converse, Bexar County, Texas, 78239, USA",29.52493112,-98.36023811
+263,416,Austin,"6708, Circle South Road, Pleasant Hill, Austin, Travis County, Texas, 78745, USA",30.19100924,-97.77827214
+264,418,Round Rock,"1506, Arusha Street, Spring Trails, Pflugerville, Travis County, Texas, 78664, USA",30.47043748,-97.64767859
+265,421,Humble,"20069, Sunny Shores Drive, Houston, Harris County, Texas, 77346, USA",30.01090459,-95.15703021
+266,423,Richmond,"7361, Wimberly Oaks Lane, Twin Oaks Village, Fort Bend County, Texas, 77407, USA",29.69821321,-95.69712429
+267,424,Grand Prairie,"3042, Harrell Drive, Grand Prairie, Tarrant County, Texas, 75052, USA",32.68845993,-97.06090156
+268,425,DeSoto,"1403, Dutchman Creek Drive, DeSoto, Dallas County, Texas, 75115, USA",32.59145416,-96.89523292
+269,427,Spring,"2608, Rolling Glen Drive, Spring Lakes, Spring, Harris County, Texas, 77373, USA",30.07948315,-95.39830172
+270,430,Breckenridge,"County Road 292, Eolian, Stephens County, Texas, USA",32.67663024,-99.03183966
+271,431,Austin,"5312, Old Spicewood Springs Road, Adirondack, Austin, Travis County, Texas, 78731, USA",30.38300429,-97.76838274
+272,433,San Antonio,"8783, Tesoro Drive, San Antonio, Bexar County, Texas, 78217, USA",29.52007905,-98.45505578
+273,434,Port Aransas,"168, Keewaydin Lane, Port Aransas, Aransas County, Texas, 78373, USA",27.777522899999997,-97.10350383
+274,436,Austin,"8113, Appomattox Drive, Southwest Oaks, Austin, Travis County, Texas, 78745, USA",30.19324162,-97.8180449
+275,437,Elgin,"Jim Dandy Drive, Elgin, Bastrop County, Texas, 78621, USA",30.34822772,-97.3870842
+276,439,Comfort,"State Highway 27, Comfort, Kendall County, Texas, USA",29.96565547,-98.91607738
+277,440,Arlington,"South Bowen Road, Dalworthington Gardens, Tarrant County, Texas, 76016, USA",32.69075708,-97.14931638
+278,442,Humble,"Church of Christ - Lake Houston, Farmingham Road, Golfers Village, Atascocita, Harris County, Texas, 77346, USA",29.99748178,-95.14725643
+279,443,Sealy,"9424, Regenbrecht Lake Lane, Peters, Austin County, Texas, 77474, USA",29.8570942,-96.21374545
+280,444,Kerrville,"2577, Bandera Highway, Kerrville, Kerr County, Texas, 78028, USA",30.00645822,-99.11604536
+281,445,Burnet,"105, Kelly Drive, Rocky Point, Burnet County, Texas, 78611, USA",30.81330843,-98.37031289
+282,446,Humble,"Bender Avenue, Humble, Harris County, Texas, 77338, USA",29.99630211,-95.26877101
+283,447,Argyle,"184, Whispering Trail, Argyle, Denton County, Texas, 76226, USA",33.10742995,-97.14993133
+284,448,Kerrville,"Clubhouse Road, Kerrville, Kerr County, Texas, USA",29.97977465,-99.12869005
+285,449,Bryan,"2690, Lochinvar Lane, Bryan, Brazos County, Texas, 77802, USA",30.668432,-96.3412792
+286,450,New Braunfels,"131, West Tanglewood Drive, New Braunfels, Comal County, Texas, 78130, USA",29.7214753,-98.14517937
+287,451,Fort Worth,"3701, Huntwick Drive, Fort Worth, Tarrant County, Texas, 76123, USA",32.62737438,-97.37373806
+288,452,Houston,"Liquor World Discount, Woodridge Square Drive, Houston, Harris County, Texas, 77087, USA",29.70332322,-95.29328932
+289,453,Spring,"1799, West Welsford Drive, Rayford, Montgomery County, Texas, 77386, USA",30.13757365,-95.4132804
+290,454,Irving,"9000, Crown Point Circle, Valley Ranch, Irving, Dallas County, Texas, 75063, USA",32.93055549,-96.94416504
+291,456,Baytown,"Needlepoint Road, Baytown, Harris County, Texas, 77523, USA",29.81233029,-94.92913906
+292,457,Fort Worth,"3913, Mattison Avenue, Fort Worth, Tarrant County, Texas, 76107, USA",32.74931088,-97.37602227
+293,458,Humble,"19279, Hikers Trail Drive, Houston, Harris County, Texas, 77346, USA",29.9972706,-95.1452594
+294,459,Harker Heights,"1627, Inca Drive, Harker Heights, Bell County, Texas, 76548, USA",31.06351199,-97.63620315
+295,460,Spring,"Powerline Pass Drive, Spring, Harris County, Texas, 77373, USA",30.07152715,-95.37054536
+296,461,Baytown,"368, East Cedar Bayou Lynchburg Road, Baytown, Harris County, Texas, 77521, USA",29.77817255,-94.95967759
+297,463,Red Oak,"1238, Pratt Road, Red Oak, Ellis County, Texas, 75154, USA",32.53439907,-96.75423225
+298,464,Corinth,"1892, Morning Glory Drive, Corinth, Denton County, Texas, 76210, USA",33.14505778,-97.08167652
+299,465,Frisco,"12856, Gillon Drive, Frisco, Collin County, Texas, 75035, USA",33.18438575,-96.79858778
+300,466,Del Valle,"7200, Kellam Road, Berdoll Farms, Austin, Travis County, Texas, 78617, USA",30.15604462,-97.61940563
+301,467,Corpus Christi,"2285, Meadowcreek Drive, South Side, Corpus Christi, Nueces County, Texas, 78414, USA",27.68649455,-97.35794942
+302,468,Granbury,"3960, Quail Ridge Court, Waples, Hood County, Texas, 76049, USA",32.47825287,-97.72536901
+303,469,College Station,"612, Holleman Drive, Callaway Villas, College Station, Brazos County, Texas, 77840, USA",30.60092992,-96.32690755
+304,470,Dallas,"1337, Plowman Avenue, Bishop Arts District, Dallas, Dallas County, Texas, 75203, USA",32.75955203,-96.82027481
+305,471,Irving,"3830, Marcillia Circle, Irving, Dallas County, Texas, 75038, USA",32.86502386,-96.99872175
+306,472,Corpus Christi,"354, Naples Street, Coopers Alley L-Head, Downtown, Corpus Christi, Nueces County, Texas, 78404, USA",27.77152417,-97.39531271
+307,473,Austin,"11403, Hidden Quail Drive, Quail Hollow, Austin, Travis County, Texas, 78758, USA",30.39069951,-97.70127237
+308,474,Tomball,"East Hufsmith Road, Raleigh Creek, Tomball, Harris County, Texas, 77375, USA",30.11065476,-95.60809533
+309,475,Fort Worth,"4720, Norma Street, Fort Worth, Tarrant County, Texas, 76112, USA",32.742816600000005,-97.25294085
+310,476,Shady Shores,"100, Shahan Drive, Shady Shores, Denton County, Texas, 76208, USA",33.15982766,-97.02829516
+311,477,Hutto,"134, Campos Drive, Hutto, Williamson County, Texas, 78634, USA",30.53770881,-97.5466165
+312,478,Austin,"11803, Hornsby Street, Oak Ridge, Austin, Travis County, Texas, 78753, USA",30.38616415,-97.68003864
+313,479,Port Aransas,"Port Aransas, Aransas County, Texas, 78373, USA",27.81404327,-97.07114957
+314,480,Corpus Christi,"Corpus Christi North Beach, Corpus Christi Beach Walk, Peoples Street T-Head, Downtown, Corpus Christi, Nueces County, Texas, 78402, USA",27.82503642,-97.38508646
+315,482,Corpus Christi,"Corpus Christi North Beach, Corpus Christi Beach Walk, Peoples Street T-Head, Downtown, Corpus Christi, Nueces County, Texas, 78402, USA",27.82558546,-97.38489809
+316,483,Lago Vista,"3404, American Drive, Lago Vista, Travis County, Texas, 78645, USA",30.43893057,-98.0216698
+317,486,Irving,"7828, Southfork Bend, Campion Hollows, Valley Ranch, Irving, Dallas County, Texas, 75063, USA",32.91414569,-96.94498429
+318,489,Katy,"Park Row, Barker, Harris County, Texas, 77094, USA",29.78949361,-95.72990639
+319,490,Carrollton,"Kellway Drive, Carrollton, Dallas County, Texas, 75006, USA",32.97270736,-96.84875793
+320,491,Fort Worth,"6769, Confederate Park Road, Castle Hill Estate, Tarrant County, Texas, 76108, USA",32.82239369,-97.51142775
+321,494,Houston,"14838, Cobre Valley Drive, Houston, Harris County, Texas, 77062, USA",29.58017374,-95.13687659
+322,495,Houston,"Macedonia Missionary Baptist Church, Wilson Street, Houston, Harris County, Texas, 77019, USA",29.75521217,-95.38133653
+323,497,San Antonio,"8701, Welles Dale Drive, San Antonio, Bexar County, Texas, 78240, USA",29.52542189,-98.60656678
+324,498,Abilene,"Pine Street, Abilene, Taylor County, Texas, 79698, USA",32.45932687,-99.73201648
+325,500,Katy,"21247, Park Bend Drive, Memorial Parkway, Harris County, Texas, 77450, USA",29.76481827,-95.73556473
+326,501,Conroe,"9905, Lace Flower Way, Harper's Landing, Montgomery County, Texas, 77385, USA",30.21786909,-95.42788742
+327,503,Round Rock,"Settlers Crossing, Williamson County, Texas, 78634, USA",30.54834057,-97.60498939
+328,504,Houston,"7874, Bonaire Street, Houston, Harris County, Texas, 77028, USA",29.81082365,-95.28567328
+329,507,Port Aransas,"798, Island Retreat Road, Mustang Beach, Port Aransas, Aransas County, Texas, 78373, USA",27.81324328,-97.07179496
+330,512,Irving,"3207, Finley Road, Irving, Dallas County, Texas, 75062, USA",32.85074573,-96.98889558
+331,513,San Antonio,"15316, Pebble Sound, San Antonio, Bexar County, Texas, 78232, USA",29.58181665,-98.44024234
+332,514,Houston,"2286, Truxillo Street, Houston, Harris County, Texas, 77004, USA",29.73053131,-95.36952978
+333,516,Houston,"1369, Woodyard Drive, Westfield, Harris County, Texas, 77073, USA",29.98790215,-95.40261181
+334,518,Houston,"5561, Winding Creek Way, Houston, Harris County, Texas, 77017, USA",29.68104725,-95.2371554
+335,520,Cedar Park,"Fall Creek Loop, Cedar Park, Williamson County, Texas, 78613, USA",30.48437502,-97.83412433
+336,521,Comfort,"Otto Brinkmann House, High Street, Comfort, Kendall County, Texas, USA",29.96729402,-98.90894373
+337,522,Houston,"79, East Briar Hollow Lane, Highland Village, Houston, Harris County, Texas, 77027, USA",29.74811321,-95.4487467
+338,525,Port Isabel,"774, East Clam Circle, Cameron County, Texas, 78578, USA",26.06234802,-97.20465145
+339,527,Blanco,"Crabapple Road, Kendalia, Kendall County, Texas, 78027, USA",30.02644958,-98.53455585
+340,529,Temple,"399, Starlight Drive, Temple, Bell County, Texas, 76502, USA",31.12595638,-97.44777633
+341,531,Kyle,"162, Gardner Road, Niederwald, Hays County, Texas, 78640, USA",30.03122341,-97.76088109
+342,537,Corpus Christi,"South Side, Corpus Christi, Nueces County, Texas, 78414, USA",27.66046321,-97.37034329
+343,540,Austin,"2009, Haskell Street, East Cesar Chavez, Austin, Travis County, Texas, 78702, USA",30.25163257,-97.72475514
+344,543,Irving,"7092, Angelina Drive, Valley Ranch, Irving, Dallas County, Texas, 75039, USA",32.90408962,-96.94435929
+345,544,Houston,"Lake Houston Parkway, King's Harbor, Houston, Harris County, Texas, 77345, USA",30.03661788,-95.17443118
+346,546,Houston,"14840, Richmond Avenue, Houston, Harris County, Texas, 77082, USA",29.72933109,-95.64955181
+347,548,Del Valle,"12520, Paloma Blanca Way, Meadows at Berdoll, Austin, Travis County, Texas, 78716, USA",30.16787835,-97.62768327
+348,549,College Station,"1517, Wolf Run, Callaway Villas, College Station, Brazos County, Texas, 77840, USA",30.61356999,-96.32460569
+349,550,College Station,"2730, Silver Oak Drive, Sonoma, College Station, Brazos County, Texas, 77845, USA",30.555699800000003,-96.29075982
+350,551,Spring,"42, Waning Moon Drive, Spincaster South, Creekside Park, The Woodlands, Harris County, Texas, 77389, USA",30.14540125,-95.5337605
+351,552,Ingram,"103, Old Ingram Loop, Ingram, Kerr County, Texas, 78025, USA",30.07155061,-99.24222187
+352,554,Port Aransas,"Mustang Beach, Port Aransas, Aransas County, Texas, 78373, USA",27.81298345,-97.07736358
+353,556,Spring,"Childres Pond, Cayuga Pond Court, Wilde Creek, Creekside Park, The Woodlands, Harris County, Texas, 77381, USA",30.14161649,-95.51416179
+354,558,Dallas,"305, West 8th Street, Bishop Arts District, Dallas, Dallas County, Texas, 75208, USA",32.74836087,-96.82689832
+355,560,San Antonio,"14398, Briarbend Street, Wetmore, San Antonio, Bexar County, Texas, 78247, USA",29.57599757,-98.41292154
+356,561,McKinney,"8008, White Stallion Trail, Craig Ranch North, McKinney, Collin County, Texas, 75070, USA",33.157970399999996,-96.71850054
+357,562,Kemah,"617, 8th Street, Kemah, Galveston County, Texas, 77565, USA",29.54175984,-95.01779754
+358,565,Cibolo,"180, Glen Eagles Drive, Cibolo, Guadalupe County, Texas, 78108, USA",29.58220176,-98.24507819
+359,569,Crystal Beach,"857, Buell, Patton Woods, Galveston County, Texas, 77650, USA",29.44145694,-94.65602821
+360,570,Arlington,"2367, Vineyard Drive, Arlington, Tarrant County, Texas, 76015, USA",32.6978023,-97.14516078
+361,571,Fort Worth,"5740, Tiger Trail, Fort Worth, Tarrant County, Texas, 76126, USA",32.6315831,-97.48943983
+362,572,Fort Worth,"Haltom City, Tarrant County, Texas, 76117, USA",32.82215465,-97.2628336
+363,573,Bryan,"Old College Road, Saddlewood Apartments, Bryan, Brazos County, Texas, 77801, USA",30.62619406,-96.35514901
+364,576,Katy,"McDonough Way, Grand Meadow, Fort Bend County, Texas, USA",29.74578557,-95.86978786
+365,577,McKinney,"North College Street, McKinney, Collin County, Texas, 75069, USA",33.19830537,-96.62097576
+366,579,San Antonio,"930, Carmel Place, Fulton, San Antonio, Bexar County, Texas, 78201, USA",29.46996713,-98.51005140000001
+367,580,Aubrey,"Providence Village, New Hope, Denton County, Texas, 76227, USA",33.24389912,-96.96188599999999
+368,582,Arlington,"500, Whistler Drive, Arlington, Tarrant County, Texas, 76006, USA",32.78655129,-97.11180920000001
+369,584,Bryan,"978, East William J Bryan Parkway, Bryan, Brazos County, Texas, 77803, USA",30.67375207,-96.36416366
+370,587,Corpus Christi,"14856, Windward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60754107,-97.20785067
+371,589,Richmond,"Grand Vista, Fort Bend County, Texas, 77407, USA",29.67640397,-95.71284389
+372,590,Brookshire,"County Line Road, Fort Bend County, Texas, USA",29.7264327,-95.99619335
+373,591,Grapevine,"1245, South Pine Street, Grapevine, Tarrant County, Texas, 76051, USA",32.92816901,-97.08025040000001
+374,593,Abilene,"South 11th Street, Abilene, Taylor County, Texas, 79605, USA",32.4371233,-99.74383276
+375,602,Houston,"429, Columbia Street, North Inner Loop, Houston, Harris County, Texas, 77007, USA",29.77841683,-95.39310038
+376,603,Austin,"4413, Shoalwood Avenue, Rosedale, Austin, Travis County, Texas, 78756, USA",30.31628164,-97.74503416
+377,604,Houston,"1639, Kipling Street, Houston, Harris County, Texas, 77006, USA",29.7403401,-95.40040988
+378,609,Houston,"5135, Dincans Street, Houston, Harris County, Texas, 77005, USA",29.72664149,-95.41992229
+379,610,Fulshear,"Addison Ranch Lane, The Heights, Fort Bend County, Texas, USA",29.72396219,-95.8489102
+380,613,Houston,"Wharton Elementary School, Columbus Street, Houston, Harris County, Texas, 77019, USA",29.75363112,-95.39079165
+381,617,Austin,"East Parmer Lane, Harris Ridge, Austin, Travis County, Texas, 78753, USA",30.39649171,-97.65447882
+382,619,Dallas,"5684, Preston Oaks Road, Dallas, Dallas County, Texas, 75254, USA",32.94246463,-96.81118119
+383,620,Austin,"5220, Farm-to-Market Road 973, Austin, Travis County, Texas, 78724, USA",30.265980199999998,-97.60894724
+384,621,Houston,"1228, Hadley Street, Houston, Harris County, Texas, 77003, USA",29.74596965,-95.37063915
+385,622,Graham,"Ffa Lane, Palo Pinto County, Texas, USA",32.88911051,-98.55729222
+386,624,Houston,"Houston, Harris County, Texas, 77025-9998, USA",29.67901668,-95.41748298
+387,625,Roanoke,"Cleveland Gibbs Road, Fort Worth, Denton County, Texas, 76177, USA",33.01264867,-97.26721738
+388,627,South Padre Island,"3346, Padre Boulevard, South Padre Island, Cameron County, Texas, 78597, USA",26.10858983,-97.1691212
+389,628,Grand Prairie,"1479, California Trail, Grand Prairie, Dallas County, Texas, 75052, USA",32.65090384,-97.02232222
+390,630,La Porte,"3506, East Country Club Drive, Shoreacres, Harris County, Texas, 77571, USA",29.61864332,-95.01961738
+391,631,Irving,"200, Victory Court, Valley Ranch, Irving, Dallas County, Texas, 75063, USA",32.9459899,-96.94496405
+392,632,Houston,"1999, Baird Street, Houston, Harris County, Texas, 77023, USA",29.73036322,-95.32606682
+393,633,San Antonio,"4687, Emory Oak Woods, Woods of Shavano, San Antonio, Bexar County, Texas, 78249, USA",29.5812718,-98.57506764
+394,634,College Station,"Lot 49, Raymond Stotzer Parkway, University Apartments - The Gardens, College Station, Brazos County, Texas, 77841, USA",30.61620289,-96.34843879
+395,635,Rosanky,"Sandy Lane, Jordan, Bastrop County, Texas, USA",29.94914519,-97.33242022
+396,636,Elgin,"11500, Maize Lane, Littig, Travis County, Texas, 78621, USA",30.31517576,-97.43482131
+397,638,Austin,"2030, East Oltorf Street, East Riverside - Oltorf, Austin, Travis County, Texas, 00787, USA",30.23032205,-97.73164775
+398,640,San Antonio,"Amazing Air, 7702, I-35 Frontage Road, San Antonio, Bexar County, Texas, 78218, USA",29.50442733,-98.39618636
+399,643,Bacliff,"Misty Lane, Clifton Beach, Galveston County, Texas, 77518, USA",29.50528796,-94.97351296
+400,644,Abilene,"1181, Santos Street, Abilene, Taylor County, Texas, 79605, USA",32.4361402,-99.74995418
+401,648,Grapevine,"2832, Columbine Drive, Grapevine, Tarrant County, Texas, 76051, USA",32.91367765,-97.10973881
+402,653,Mineola,"314, County Road 2482, Mount Enterprise, Wood County, Texas, 75773, USA",32.73535509,-95.47547998
+403,657,Bolivar Peninsula,"132, Ocean View Drive, Holiday Shores, Bolivar Beach, Galveston County, Texas, 77650, USA",29.41790182,-94.69458451
+404,658,Port Aransas,"201, North Station Street, Port Aransas, Aransas County, Texas, 78373, USA",27.83238362,-97.05991032
+405,659,Lakeway,"122, Lakeway Drive, Lakeway, Travis County, Texas, 78734, USA",30.37242616,-97.98902879
+406,661,Fort Worth,"3209, West Biddison Street, Fort Worth, Tarrant County, Texas, 76109, USA",32.69885762,-97.36338168
+407,665,Crystal Beach,"Crystal Beach, Galveston County, Texas, 77650, USA",29.451106699999997,-94.63123514
+408,666,Brazoria,"Hinkles Ferry, Brazoria County, Texas, USA",28.96613979,-95.55685185
+409,667,Aransas Pass,"267, West Spencer Avenue, Aransas Pass, San Patricio County, Texas, 78336, USA",27.89877182,-97.15095865
+410,668,Alpine,"170, East Avenue D, Alpine, Brewster County, Texas, 79830, USA",30.35930941,-103.66127370000001
+411,670,Dallas,"8457, Coppertowne Lane, Lake Highlands, Dallas, Dallas County, Texas, 75243, USA",32.89533198,-96.72748734
+412,673,Austin,"3807, Lago Vista Drive, Mountain View, Hudson Bend, Travis County, Texas, 78734, USA",30.39359714,-97.91837548
+413,676,Houston,"14688, Cobre Valley Drive, Houston, Harris County, Texas, 77062, USA",29.58393606,-95.13807558
+414,682,Corpus Christi,"14279, Elbow Street, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.59028225,-97.22479713
+415,683,Houston,"3482, Mc Ashan Street, Houston, Harris County, Texas, 77003, USA",29.75152763,-95.33785654
+416,684,Austin,"1180, Waller Street, Central East Austin, Austin, Travis County, Texas, 78702, USA",30.27133423,-97.728335
+417,686,Fort Worth,"4936, Pershing Avenue, Fort Worth, Tarrant County, Texas, 76107, USA",32.73588912,-97.39473299
+418,688,Grapevine,"Tanglewood Drive, Grapevine, Tarrant County, Texas, 76051, USA",32.92090232,-97.10871018
+419,689,Sugar Land,"3199, Stratford Bend Drive, Stratford Park, Fort Bend County, Texas, 77498, USA",29.63006492,-95.67475381
+420,691,Dallas,"10602, Stone Canyon Road, Dallas, Dallas County, Texas, 75230, USA",32.89208122,-96.77417884
+421,695,Fort Worth,"3536, Ramona Drive, Fort Worth, Tarrant County, Texas, 76116, USA",32.72013655,-97.44514523
+422,697,Austin,"West Parmer Lane, Hunter's Chase, Jollyville, Turkey Hollow, Williamson County, Texas, 78729, USA",30.46144501,-97.75589227
+423,700,Humble,"8976, Elm Drake Lane, Bordersville, Harris County, Texas, 77338, USA",30.00865434,-95.28784123
+424,701,Galveston,"7104, Seawall Boulevard, Galveston, Galveston County, Texas, 77551, USA",29.26225623,-94.8350873
+425,703,Bolivar Peninsula,"151, Ocean Shore Drive, Holiday Shores, Bolivar Beach, Galveston County, Texas, 77650, USA",29.41784386,-94.69402579999999
+426,705,Seabrook,"1201, 2nd Street, Seabrook, Harris County, Texas, 77586, USA",29.56053028,-95.02114673
+427,706,Fort Worth,"6245, Calmont Avenue, Fort Worth, Tarrant County, Texas, 76116, USA",32.73416186,-97.42122359999999
+428,707,San Antonio,"417, Eleanor Avenue, Government Hill, San Antonio, Bexar County, Texas, 78209, USA",29.45491883,-98.46599275
+429,709,Alvin,"15241, CR 185, Alvin, Brazoria County, Texas, 77511, USA",29.37048217,-95.27562949
+430,710,New Braunfels,"Peace Avenue, New Braunfels, Comal County, Texas, 78130, USA",29.70876558,-98.10865456
+431,713,Pflugerville,"807, Harvard Drive, Settler's Ridge, Pflugerville, Travis County, Texas, 78660, USA",30.43394466,-97.63101253
+432,714,Richmond,"6971, Chapel Meadow Lane, Presidio Point, Cinco Ranch, Fort Bend County, Texas, 77407, USA",29.70264681,-95.72274771
+433,715,Austin,"13108, Kellies Farm Lane, Lamplight Village, Austin, Travis County, Texas, 78727, USA",30.42606528,-97.69422637
+434,716,San Antonio,"8552, Sage Brush Lane, San Antonio, Bexar County, Texas, 78217, USA",29.51787263,-98.44621693
+435,717,Rockport,"281, Pintail Lane, Copano Village, Aransas County, Texas, 78382, USA",28.06908008,-97.10130009
+436,721,Mabank,"120, Bluffview Drive, Henderson County, Texas, 75156, USA",32.23194307,-96.04944259
+437,722,San Antonio,"140, Fayn Way, Dignowity Hill, San Antonio, Bexar County, Texas, 78202, USA",29.43057858,-98.47557689
+438,723,Houston,"2126, Bering Drive, Houston, Harris County, Texas, 77057, USA",29.74421227,-95.47937092
+439,724,Frisco,"13015, Cowper Drive, Frisco, Collin County, Texas, 75035, USA",33.18540951,-96.79799006
+440,725,Nederland,"1043, North 12th Street, Nederland, Jefferson County, Texas, 77627, USA",29.97961707,-93.99760022
+441,726,Houston,"955, West 24th Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.80815598,-95.41532948
+442,727,McKinney,"West White Street, McKinney, Collin County, Texas, 75069, USA",33.20897657,-96.61915733
+443,731,Austin,"7700, Kiva Drive, Maple Run, Austin, Travis County, Texas, 78749, USA",30.21732537,-97.85913684
+444,732,Houston,"1431, Hazel Street, Houston, Harris County, Texas, 77019, USA",29.75496094,-95.3957613
+445,733,Balch Springs,"14998, Bell Manor Court, Balch Springs, Dallas County, Texas, 75180, USA",32.70812459,-96.58768558
+446,736,Bryan,"2264, Echols Street, Saddlewood Apartments, Bryan, Brazos County, Texas, 77801, USA",30.64807751,-96.36386039
+447,742,Houston,"Space Center Boulevard, Houston, Harris County, Texas, 77062, USA",29.58930039,-95.13550118
+448,743,Crystal Beach,"South Crystal Beach Road, Crystal Beach, Galveston County, Texas, 77650, USA",29.45600792,-94.63845481
+449,744,Houston,"Brays Bayou Greenway, Houston, Harris County, Texas, 77025-9998, USA",29.69772549,-95.41817661
+450,745,Round Rock,"1103, Parkside Circle, Turtle Creek Village, Round Rock, Williamson County, Texas, 78664, USA",30.49733644,-97.66621913
+451,747,Corpus Christi,"389, Troy Drive, Bay Area, Corpus Christi, Nueces County, Texas, 78412, USA",27.72259219,-97.34866914
+452,749,Arlington,"7237, Matlock Road, Mansfield, Tarrant County, Texas, 76002, USA",32.62791946,-97.11515377
+453,754,Austin,"12321, Ferrystone Glen Drive, Stoney Ridge North, Moores Crossing, Travis County, Texas, 78617, USA",30.16076245,-97.63434740000001
+454,758,San Antonio,"646, West Magnolia Avenue, Alta Vista, San Antonio, Bexar County, Texas, 78212, USA",29.45450196,-98.50354655
+455,762,Cibolo,"1900, Town Creek Road, Cibolo, Guadalupe County, Texas, 78108, USA",29.58771384,-98.24022944
+456,763,San Antonio,"554, Alta Avenue, Alamo Heights, Bexar County, Texas, 78209, USA",29.48517973,-98.47450304
+457,764,The Woodlands,"One Lakes Edge Apartments, 1950, Hughes Landing Boulevard, Town Center, The Woodlands, Montgomery County, Texas, 77380, USA",30.17120962,-95.47283668
+458,768,Manchaca,"12432, Old San Antonio Road, Ashbrook, Manchaca, Travis County, Texas, 78652, USA",30.12706301,-97.81279920000001
+459,772,Temple,"3396, Michaels Drive, Temple, Bell County, Texas, 76502, USA",31.06540948,-97.38577851
+460,773,Dallas,"4200, Live Oak Street, Lower Greenville, Dallas, Dallas County, Texas, 75206, USA",32.79693823,-96.77813207
+461,775,Corpus Christi,"Quetzal Street, Flour Bluff, Corpus Christi, Nueces County, Texas, 78418, USA",27.67699884,-97.30055446
+462,776,Bellaire,"4541, Birch Street, Evergreen Plaza, Bellaire, Harris County, Texas, 77401, USA",29.69644768,-95.45288849
+463,781,Highlands,"8977, Meredith, McNair, Harris County, Texas, 77562, USA",29.82841113,-95.00668923
+464,782,Lakeway,"120, Lakeway Drive, Lakeway, Travis County, Texas, 78734, USA",30.37242015,-97.98879656
+465,783,Arlington,"936, Country Club Lane, Fort Worth, Tarrant County, Texas, 76112, USA",32.76641928,-97.23396261
+466,785,Houston,"Fayette C Lowry House, 2009, Harvard Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.80477409,-95.39637284
+467,786,Houston,"2395, Bagby Street, Houston, Harris County, Texas, 77006, USA",29.74974567,-95.37812781
+468,787,Fort Worth,"3555, Wind River Court, Fort Worth, Tarrant County, Texas, 76116, USA",32.69783897,-97.42717405
+469,788,Austin,"2608, North Quinlan Park Road, Marshall Ford, Mesa North, Travis County, Texas, 78732, USA",30.36626244,-97.89504644
+470,791,Corpus Christi,"Surfside Boulevard, Downtown, Corpus Christi, Nueces County, Texas, 78402, USA",27.82527207,-97.38596226
+471,792,Brownwood,"1071, Fisk Avenue, Brownwood, Brown County, Texas, 76801, USA",31.71454453,-98.9870777
+472,793,College Station,"250, Sterling Street, Castle Rock Apartments, College Station, Brazos County, Texas, 77840, USA",30.61484823,-96.31015636
+473,794,Houston,"2017, North Memorial Way, North Inner Loop, Houston, Harris County, Texas, 77007, USA",29.76384856,-95.37851923
+474,795,Temple,"South General Bruce Drive, Temple, Bell County, Texas, 76502, USA",31.09161482,-97.38203304
+475,796,Corpus Christi,"3447, Maui Drive, Flour Bluff, Corpus Christi, Nueces County, Texas, 78418, USA",27.624636199999998,-97.29262553
+476,803,Corpus Christi,"Saint Bartholomew Avenue, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, USA",27.61002925,-97.20815302
+477,804,San Antonio,"Dent Lane, Bexar County, Texas, 78023, USA",29.58707024,-98.69930141
+478,805,Conroe,"Pebble Glen Drive, Camellia, Conroe, Montgomery County, Texas, 77304, USA",30.38058039,-95.5422955
+479,807,Buda,"10010, Bock Road, Mustang Ridge, Travis County, Texas, 78610, USA",30.0660656,-97.66690263
+480,808,Dallas,"5001, Village Court, Dallas, Dallas County, Texas, 75001:75287, USA",32.9778831,-96.82384374
+481,809,Alpine,"621, West Lockhart Avenue, Alpine, Brewster County, Texas, 79830, USA",30.35871939,-103.66820729999999
+482,812,Schertz,"1346, Tractor Pass, Kramer Farm Subdivision, Schertz, Guadalupe County, Texas, 78154, USA",29.56449798,-98.27661497
+483,813,Houston,"3984, Tolnay Street, Houston, Harris County, Texas, 77021, USA",29.69944281,-95.35728876
+484,815,Round Rock,"Joe Dimaggio Boulevard, Round Rock, Williamson County, Texas, 78664, USA",30.52569702,-97.63722293
+485,816,Fort Worth,"4100, Angus Drive, Fort Worth, Tarrant County, Texas, 76116, USA",32.7117233,-97.43315017
+486,817,Pasadena,"Laurynnbrook Drive, Pasadena, Harris County, Texas, 88581, USA",29.66038134,-95.11979194
+487,819,Flower Mound,"Morriss Road, Flower Mound, Denton County, Texas, 75077, USA",33.05281178,-97.06180365
+488,820,Houston,"2328, Fletcher Street, Houston, Harris County, Texas, 77009, USA",29.780456400000002,-95.36572794
+489,821,Houston,"TownePlace Suites Houston Clear Lake, Bay Area Boulevard, Houston, Harris County, Texas, 77058, USA",29.55535028,-95.11754959
+490,822,San Antonio,"1555, West Mistletoe Avenue, Fulton, San Antonio, Bexar County, Texas, 78201, USA",29.4546045,-98.52048726
+491,823,Plano,"8237, Bent Tree Springs Drive, Plano, Collin County, Texas, 75025, USA",33.09135012,-96.75956357
+492,824,Houston,"13009, Sweetgum Shores Drive, Harmaston, Harris County, Texas, 77044, USA",29.95468009,-95.17607029
+493,825,Galveston,"Woody's, 11149, 7 ½ Mile Road, Galveston, Galveston County, Texas, 77554, USA",29.23853045,-94.87843050000001
+494,826,Grapevine,"923, West Sunset Street, Grapevine, Tarrant County, Texas, 76051, USA",32.93812109,-97.08482131
+495,827,Dallas,"7485, Frankford Road, Dallas, Collin County, Texas, 75252, USA",32.99757673,-96.77626211
+496,828,San Antonio,"142, Peter Baque Road, San Antonio, Bexar County, Texas, 78209, USA",29.501524,-98.47037507
+497,829,Austin,"1011, Olive Street, Central East Austin, Austin, Travis County, Texas, 78702, USA",30.27069851,-97.72865329
+498,830,San Antonio,"Woodcliff Bend, San Antonio, Bexar County, Texas, 78222-1345, USA",29.38983957,-98.36354861
+499,831,Leander,"413, Venture Boulevard North, Point Venture, Travis County, Texas, 78734, USA",30.38193087,-97.99596991
+500,832,The Woodlands,"31, Waterway Avenue, Town Center, The Woodlands, Montgomery County, Texas, 77380, USA",30.15713045,-95.45927440000001
+501,833,Houston,"Neff Early Learning Center, 8200, Carvel Lane, Houston, Harris County, Texas, 77036, USA",29.69803929,-95.52848955
+502,834,Crystal Beach,"2225, Trinidad Drive, Crystal Beach, Galveston County, Texas, 77650, USA",29.45857917,-94.61944458
+503,835,New Braunfels,"400, North Seguin Avenue, New Braunfels, Comal County, Texas, 78130, USA",29.70575837,-98.12895883
+504,836,Georgetown,"Trinity Woods Street, Leander, Williamson County, Texas, TX 78613, USA",30.569901899999998,-97.77553289
+505,837,Houston,"Rooms to Go, West Miller Road, Cardiff, Waller County, Texas, USA",29.77335082,-95.90696227
+506,838,Sugar Land,"2981, Pepperwood Lane, Sugar Land, Fort Bend County, Texas, 77479, USA",29.58335001,-95.61163082
+507,839,McKinney,"2521, County Road 855, Rhea Mills, Collin County, Texas, 75071, USA",33.22490266,-96.72663701
+508,840,Crystal Beach,"North Yacht Basin Road, Holiday Shores, Bolivar Beach, Galveston County, Texas, USA",29.43182796,-94.71138349
+509,841,Corpus Christi,"14925, Granada Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60981302,-97.21152459
+510,842,Houston,"21753, Rio Villa Drive, Highlands, Harris County, Texas, 77049, USA",29.82638586,-95.0780542
+511,843,Stephenville,"Riverwalk Townhomes Community Pool, East Washington Street, Stephenville, Erath County, Texas, 76401, USA",32.22684494,-98.19431712
+512,845,Dallas,"Lyndon B Johnson Freeway, Dallas, Dallas County, Texas, 75244, USA",32.92583278,-96.82752597
+513,847,Austin,"1198, Angelina Street, Central East Austin, Austin, Travis County, Texas, 78702, USA",30.27234909,-97.72514019
+514,850,Humble,"Deerbrook Park Boulevard, Bordersville, Harris County, Texas, 77338, USA",30.01006162,-95.29002864
+515,852,Corpus Christi,"Schlitterbahn Waterpark Corpus Christi, 14353, Commodore Street, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.61712015,-97.22687909999999
+516,853,Pflugerville,"16312, Aventura Avenue, Pflugerville, Travis County, Texas, 78660, USA",30.44571642,-97.55872891
+517,854,Austin,"9403, Claxton Drive, West Oak Hill, Travis County, Texas, 78736, USA",30.24591969,-97.91107312
+518,856,Houston,"Roseland Street, Houston, Harris County, Texas, 77006, USA",29.73400202,-95.38966312
+519,857,Grand Prairie,"England Parkway, Grand Prairie, Tarrant County, Texas, 76063, USA",32.59294119,-97.03802267
+520,859,San Antonio,"6933, Oak Drive, San Antonio, Bexar County, Texas, 78256, USA",29.64065859,-98.62012696
+521,862,Kingsland,"Euel Moore Drive, Kingsland, Llano County, Texas, 78639, USA",30.65087253,-98.44034118
+522,863,Austin,"2504, Quarry Road, Westfield, Austin, Travis County, Texas, 78703, USA",30.287636300000003,-97.77122285
+523,864,Aubrey,"Aubrey, Denton County, Texas, 76227, USA",33.30752135,-96.99290953
+524,865,Dallas,"7537, Spring Valley Road, Richardson, Dallas County, Texas, 75240, USA",32.9402624,-96.77448298
+525,866,San Antonio,"1115, North Pine Street, Dignowity Hill, San Antonio, Bexar County, Texas, 78202, USA",29.43326424,-98.47054859
+526,871,McKinney,"510, West Heard Street, McKinney, Collin County, Texas, 75069, USA",33.20465027,-96.61962981
+527,872,McKinney,"8005, Laughin Waters Trail, Craig Ranch North, McKinney, Collin County, Texas, 75070, USA",33.16201868,-96.72106338
+528,873,Corpus Christi,"14854, Windward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60753607,-97.20797601
+529,874,McKinney,"McKinney, Collin County, Texas, 75070, USA",33.17230782,-96.69635921
+530,875,Canyon,"Owen Drive, Randall County, Texas, USA",35.02324216,-101.85768320000001
+531,876,Mineola,"310, Graham Street, Historic Downtown, Mineola, Wood County, Texas, 75773, USA",32.66437559,-95.48323705
+532,879,Abilene,"Neas Road, Abilene, Taylor County, Texas, 79601, USA",32.51080057,-99.71625662
+533,883,Houston,"206, Emerson Street, Houston, Harris County, Texas, 77006, USA",29.74151511,-95.38527981
+534,885,Pipe Creek,"Cheyenne Trail, Bandera County, Texas, USA",29.73012741,-98.86500696
+535,886,Fort Worth,"617, Granite Ridge Drive, Fort Worth, Tarrant County, Texas, 76131, USA",32.83987416,-97.37100911
+536,887,College Station,"1134, Neal Pickett Drive, Castle Rock Apartments, College Station, Brazos County, Texas, 77840, USA",30.63310465,-96.31252882
+537,888,Temple,"Cross Drive, Temple, Bell County, Texas, 76508, USA",31.03919247,-97.36733881
+538,892,Corinth,"4376, Grassy Glen Drive, Corinth, Denton County, Texas, 76208, USA",33.147970199999996,-97.04197578
+539,897,Horseshoe Bay,"185, Waters Edge, Horseshoe Bay, Llano County, Texas, 78657, USA",30.55750465,-98.39861941
+540,899,Austin,"10901, Short Springs Drive, Pioneer Crossing East, Austin, Travis County, Texas, 78754, USA",30.36204379,-97.64594921
+541,909,Fort Worth,"6904, Topanga Terrace, Fort Worth, Tarrant County, Texas, 76132, USA",32.64881241,-97.41376702
+542,910,Denton,"505, Retama Street, Denton, Denton County, Texas, 76209, USA",33.25259075,-97.12641517
+543,911,Corpus Christi,"1921, South Alameda Street, Corpus Christi, Nueces County, Texas, 78404, USA",27.77175677,-97.40011308
+544,913,Plano,"2116, Walnut Square Drive, Plano, Collin County, Texas, 75025, USA",33.07306572,-96.7362375
+545,914,Bastrop,"141, Kahalulu Drive, Hills Prairie, Bastrop County, Texas, 78602, USA",30.08259227,-97.27522523
+546,915,Travis County,"3404, American Drive, Lago Vista, Travis County, Texas, 78645, USA",30.43933255,-98.02089757
+547,916,Dallas,"18383, Gallery Drive, Dallas, Collin County, Texas, 75252, USA",33.00136618,-96.80358957
+548,919,Houston,"5298, Cullen Boulevard, Houston, Harris County, Texas, 77021, USA",29.70842038,-95.34848345
+549,920,Houston,"3942, West Alabama Street, Lynn Park, Houston, Harris County, Texas, 77027, USA",29.7383408,-95.44423668
+550,921,Katy,"Daniel Falls Lane, Waterstone, Harris County, Texas, 77449, USA",29.82154381,-95.76518975
+551,922,Bellaire,"5039, Mayfair Street, Bellaire, Harris County, Texas, 77401, USA",29.71882622,-95.46677775
+552,923,College Station,"236, Richards Street, Castle Rock Apartments, College Station, Brazos County, Texas, 77840, USA",30.61514289,-96.31107257
+553,924,Fort Worth,"701, East Bluff Street, Fort Worth, Tarrant County, Texas, 76102, USA",32.76164455,-97.32868115
+554,925,Austin,"15414, Fitzhugh Road, Hays County, Texas, 78620, USA",30.24546515,-98.03263478
+555,926,Denton,"2099, Azalea Street, Denton, Denton County, Texas, 76205, USA",33.19184978,-97.15692969
+556,927,San Antonio,"13616, Tivoli Gardens, Live Oak, Bexar County, Texas, 78233, USA",29.56867591,-98.34424627
+557,928,Bastrop,"157, Redd Road, Riverside Grove, Bastrop, Bastrop County, Texas, 78602, USA",30.12326481,-97.33991202
+558,929,College Station,"Summit Crossing, College Station, Brazos County, Texas, 77802, USA",30.656294300000003,-96.2917982
+559,930,Dallas,"9210, Arbor Branch Drive, Lake Highlands, Dallas, Dallas County, Texas, 75243, USA",32.90120248,-96.74327771
+560,931,League City,"2969, Doral Court, League City, Galveston County, Texas, 77573, USA",29.53021426,-95.0580968
+561,932,Dallas,"7421, Frankford Road, Dallas, Collin County, Texas, 75252, USA",33.00203287,-96.77815395
+562,933,Houston,"54, Windermere Lane, Piney Point Village, Harris County, Texas, 77063, USA",29.74262787,-95.52026131
+563,934,Lantana,"McMakin Road, Lantana, Denton County, Texas, 76226, USA",33.09893706,-97.13091462
+564,935,The Woodlands,"Six Pines Drive, Avana Six Pines Apartments, Town Center, The Woodlands, Montgomery County, Texas, 77380, USA",30.157956800000004,-95.46179071
+565,936,San Saba,"US 190, Red Bluff Crossing, Lampasas County, Texas, USA",31.21818442,-98.56366909
+566,938,Dallas,"2402, Loving Avenue, Dallas, Dallas County, Texas, 75214, USA",32.81487903,-96.73342186
+567,939,Fort Worth,"3758, West 7th Street, Fort Worth, Tarrant County, Texas, 76107, USA",32.75158811,-97.37301834
+568,940,Seabrook,"Outrigger's, 101, Bath Avenue, Seabrook, Harris County, Texas, 77586, USA",29.55009918,-95.02379758
+569,941,Alpine,"305, West Holland Avenue, Alpine, Brewster County, Texas, 79830, USA",30.35695707,-103.664181
+570,942,Tool,"599, Yawl Drive, Tool, Henderson County, Texas, 75143, USA",32.27741643,-96.15883856
+571,943,Houston,"Walmart, 9555, South Post Oak Road, Houston, Harris County, Texas, 77096, USA",29.67697703,-95.4569642
+572,944,Rockport,"758, Copano Cove Road, Aransas County, Texas, 78382, USA",28.06993197,-97.10975582
+573,945,Houston,"3941, Dunlavy Street, Houston, Harris County, Texas, 77006, USA",29.73742477,-95.40170108
+574,946,Carrollton,"Vaquero Lane, Mustang Park, Carrollton, Denton County, Texas, 75187, USA",33.03489229,-96.86525795
+575,947,San Antonio,"289, Sadie Street, Lavaca, San Antonio, Bexar County, Texas, 78210, USA",29.41042577,-98.48564143
+576,949,Abilene,"2135, South 9th Street, Abilene, Taylor County, Texas, 79605, USA",32.4393506,-99.74852403
+577,950,Houston,"2216, Lamar Street, Houston, Harris County, Texas, 77003, USA",29.74980197,-95.35505056
+578,951,Bolivar Peninsula,"2491, Sand Bar Lane, Crystal Beach, Galveston County, Texas, 77650, USA",29.46415226,-94.61500683
+579,954,Fort Worth,"3800, Dawn Drive, Benbrook, Tarrant County, Texas, 76116, USA",32.714567200000005,-97.46577684
+580,956,Dallas,"1344, Stewart Drive, Bishop Arts District, Dallas, Dallas County, Texas, 75208, USA",32.75532904,-96.84328076
+581,958,Amarillo,"West Hills Park, Route 66 Historic District, Amarillo, Potter County, Texas, USA",35.22030984,-101.8893288
+582,959,Bolivar Peninsula,"Sand Trout, Crystal Beach, Galveston County, Texas, 77650, USA",29.46517493,-94.61656459
+583,960,Dallas,"North Central Expressway, Dallas, Dallas County, Texas, 75231, USA",32.89398314,-96.76928527
+584,961,Dallas,"18331, Roehampton Drive, Dallas, Collin County, Texas, 75252, USA",33.00043976,-96.8025189
+585,962,South Padre Island,"Padre Boulevard, South Padre Island, Cameron County, Texas, 78597, USA",26.08722496,-97.1625654
+586,963,Lumberton,"10367, Cooks Lake Road, Loeb, Hardin County, Texas, 77657, USA",30.18677211,-94.16080814
+587,964,Crystal Beach,"918, South Stingaree Drive, Bolivar Peninsula, Galveston County, Texas, 77650, USA",29.47086832,-94.59251148
+588,965,New Braunfels,"15298, Meusebach Street, New Braunfels, Comal County, Texas, 78130, USA",29.70752693,-98.12685515
+589,967,Houston,"AMLI 2121, West McKinney Drive, Houston, Harris County, Texas, 77019, USA",29.75904034,-95.39083689
+590,969,McKinney,"Community Avenue, McKinney, Collin County, Texas, 75071, USA",33.22590649,-96.64087478
+591,970,Canyon,"Owen Drive, Randall County, Texas, USA",35.02516881,-101.8543631
+592,972,Alpine,"Centennial High School, West Avenue H, Alpine, Brewster County, Texas, 79830, USA",30.35335594,-103.6634845
+593,974,Spring,"2139, Wickburn Drive, Rayford, Montgomery County, Texas, 77386, USA",30.13038027,-95.40828467
+594,975,Smithville,"401, Vyvjala Road, Togo, Bastrop County, Texas, 78957, USA",29.93921616,-97.19376916
+595,976,Boerne,"Spanish Pass Road, Nelson City, Kendall County, Texas, USA",29.865013899999997,-98.76931789
+596,977,Early,"1802, Early Boulevard, Early, Brown County, Texas, 76802, USA",31.75531249,-98.91273215
+597,978,Horseshoe Bay,"691, Rocky Road, Marble Falls, Burnet County, Texas, 78657, USA",30.55079537,-98.28505077
+598,979,San Antonio,"5628, Edie Adams Drive, San Antonio, Bexar County, Texas, 78240, USA",29.50082449,-98.59626329
+599,981,Arlington,"164, Bryan Drive, Arlington, Tarrant County, Texas, 76011, USA",32.75428405,-97.10692998
+600,982,Dallas,"9520, Hathaway Street, Dallas, Dallas County, Texas, 75220, USA",32.87359616,-96.81113384
+601,983,Corpus Christi,"Surfside Sandwich Shoppe, 15113, South Padre Island Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.6062592,-97.22321922
+602,984,Plano,"3306, Bonniebrook Drive, Woodburn Estates, Plano, Collin County, Texas, 75075, USA",33.01769518,-96.75652290000001
+603,985,Point Venture,"18506, Lakehead Circle, Point Venture, Travis County, Texas, 78645, USA",30.38102721,-97.9974863
+604,986,Austin,"8401, Cockney Drive, Buckingham Estates, Austin, Travis County, Texas, 78748, USA",30.18293916,-97.80146896
+605,987,Denton,"Linden Drive, Denton, Denton County, Texas, 76201, USA",33.22370399,-97.15519379999999
+606,988,Manor,"11900, Briarcreek Loop, Briarcreek, New Katy, Travis County, Texas, 78653, USA",30.31864462,-97.53576258
+607,989,Universal City,"8676, Park Olympia, Universal City, Bexar County, Texas, 78148, USA",29.559226199999998,-98.31159311
+608,990,Austin,"6064, Randleman Drive, Berdoll Farms, Austin, Travis County, Texas, 78617, USA",30.16857353,-97.61259908
+609,993,Katy,"3560, Paintbrush Dawn Court, Harris County, Texas, 77493, USA",29.82300157,-95.77779321
+610,994,New Ulm,"1820, Track Road, New Ulm, Austin County, Texas, 78950, USA",29.89608649,-96.50383154
+611,995,Benbrook,"2904, Rivergrove Court, Riverfork Way, Fort Worth, Tarrant County, Texas, 76116, USA",32.70586073,-97.41937586
+612,996,Pflugerville,"Ruby Lace Road, Pflugerville, Travis County, Texas, 78660, USA",30.45307874,-97.58887996
+613,997,Kemah,"340, Marina Oaks Court, League City, Galveston County, Texas, 77565, USA",29.54836928,-95.05559641
+614,999,Austin,"1010, Weeping Willow Drive, Heritage Hills, Austin, Travis County, Texas, 78753, USA",30.34662521,-97.68895938
+615,1000,Houston,"U-Haul Center, Pease Street, Houston, Harris County, Texas, 77003, USA",29.75055256,-95.3670027
+616,1001,Austin,"Brush Square, 409, East 5th Street, Dirty Sixth, Austin, Travis County, Texas, 78701, USA",30.26571108,-97.73970572
+617,1002,Spicewood,"Flying J Boulevard, Travis County, Texas, 78645, USA",30.40700626,-97.99409103
+618,1003,Fort Worth,"2121, Mistletoe Avenue, Fort Worth, Tarrant County, Texas, 76110, USA",32.72877639,-97.34972928
+619,1004,Belton,"7273, Woodlake Circle, Westcliff, Bell County, Texas, 76513, USA",31.11789479,-97.52638716
+620,1005,Fort Worth,"International Leadership of Texas, Boca Raton Boulevard, Fort Worth, Tarrant County, Texas, 76112, USA",32.76796115,-97.22877591
+621,1006,Temple,"734, Arrangement Way, Temple, Bell County, Texas, 76504, USA",31.07457811,-97.35822541
+622,1008,Houston,"Post Oak Boulevard, Highland Village, Houston, Harris County, Texas, 77027, USA",29.73472042,-95.46027121
+623,1009,Galveston,"606, 17th Street, Galveston, Galveston County, Texas, 77550, USA",29.30531714,-94.78616527
+624,1012,Grapevine,"1432, South Main Street, Grapevine, Tarrant County, Texas, 76051, USA",32.92610196,-97.07872744
+625,1013,League City,"Signature Cove, The Peninsula at Clear Lake, League City, Galveston County, Texas, 77058, USA",29.53916485,-95.07861222
+626,1016,San Antonio,"314, Claremont Avenue, Government Hill, San Antonio, Bexar County, Texas, 78209, USA",29.456436699999998,-98.46312918
+627,1020,Allen,"1518, Pine Bluff Drive, Allen, Collin County, Texas, 75002, USA",33.09131167,-96.6306321
+628,1021,Houston,"4717, Emancipation Avenue, Houston, Harris County, Texas, 77004, USA",29.72482108,-95.372522
+629,1023,Baytown,"45, Park Street, Baytown, Harris County, Texas, 77520, USA",29.74629616,-94.96434138
+630,1027,Houston,"19317, Rio Villa Drive, Highlands, Harris County, Texas, 77049, USA",29.82935223,-95.08154949
+631,1028,Navasota,"West Farquhar Street, Navasota, Grimes County, Texas, 77868, USA",30.38324297,-96.08592241
+632,1031,Dallas,"4616, Capitol Avenue, Lower Greenville, Dallas, Dallas County, Texas, 75204:75206, USA",32.80917513,-96.78449554
+633,1032,Marble Falls,"127, Palmie Lane, Marble Falls, Burnet County, Texas, 78657, USA",30.55231695,-98.2848241
+634,1034,Houston,"356, Bremond Street, Houston, Harris County, Texas, 77006, USA",29.74920014,-95.37922124
+635,1035,Kyle,"117, Briarwood Court, Springbranch, Kyle, Hays County, Texas, 78640, USA",30.00110692,-97.87627903
+636,1036,Irving,"9000, Crown Point Circle, Valley Ranch, Irving, Dallas County, Texas, 75063, USA",32.93055549,-96.94416504
+637,1037,Bastrop,"Earhardt Road, Goodman, Bastrop County, Texas, 78602, USA",30.15061016,-97.38697159
+638,1039,Rockport,"2296, North Fulton Beach Road, Fulton, Aransas County, Texas, 78382, USA",28.10288178,-97.02638104
+639,1041,Crystal Beach,"941, Fisherman Drive South, Bolivar Peninsula, Galveston County, Texas, 77650, USA",29.47211274,-94.59357117
+640,1043,Allen,"South Allen Heights Drive, Allen, Collin County, Texas, 75002, USA",33.09554669,-96.64233975
+641,1044,Houston,"Columbia Tap Rail Trail, Houston, Harris County, Texas, 77004, USA",29.74502431,-95.34668795
+642,1047,Corpus Christi,"Boat House, Windward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, USA",27.60321317,-97.21429844
+643,1048,San Antonio,"Mark Twain Middle School, Breeden Street, Alta Vista, San Antonio, Bexar County, Texas, 78212, USA",29.45610464,-98.50124789
+644,1050,Corpus Christi,"15029, Aruba Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60519623,-97.21322090000001
+645,1051,Kemah,"214, Lago Vista, Casa Marina del Sol, League City, Galveston County, Texas, 77565, USA",29.55160845,-95.05579792
+646,1052,Houston,"3856, Linkwood Drive, Linkwood, Houston, Harris County, Texas, 77025, USA",29.68773648,-95.43844049
+647,1053,Austin,"1412, Harvey Street, Rosewood, Austin, Travis County, Texas, 78702, USA",30.27893453,-97.7052902
+648,1054,Horseshoe Bay,"Lighthouse Drive, Horseshoe Bay, Llano County, Texas, 78657, USA",30.56076864,-98.35913084
+649,1055,Plano,"678, East 16th Street, Plano, Collin County, Texas, 75074, USA",33.02126264,-96.70710179999999
+650,1057,Seabrook,"4464, Spoonbill Drive, Seabrook, Harris County, Texas, 77586, USA",29.58307462,-95.01420299
+651,1058,San Antonio,"351, Devonshire Drive, San Antonio, Bexar County, Texas, 78209, USA",29.49350536,-98.44639227
+652,1059,Bryan,"726, Garden Acres Boulevard, Bryan, Brazos County, Texas, 77802, USA",30.63907265,-96.34111106
+653,1060,Dallas,"El Rancho, Haymeadow Drive, Richardson, Dallas County, Texas, 75240, USA",32.94314024,-96.77068634
+654,1061,Fort Worth,"3136, West 4th Street, Fort Worth, Tarrant County, Texas, 76107, USA",32.7541609,-97.36275355
+655,1062,Houston,"2144, El Paseo Street, Houston, Harris County, Texas, 77054, USA",29.6882863,-95.39359498
+656,1063,College Station,"2547, Raintree Drive, Raintree, College Station, Brazos County, Texas, 77845, USA",30.62234881,-96.29075489
+657,1064,Houston,"477, Dennis Street, Houston, Harris County, Texas, 77006, USA",29.74764857,-95.37905164
+658,1065,Dallas,"801, Pavillion Street, Dallas, Dallas County, Texas, 75204, USA",32.79248743,-96.78808215
+659,1066,Houston,"2530, Morgan Street, Houston, Harris County, Texas, 77006, USA",29.74723666,-95.38666453
+660,1067,Quitman,"635, Lloyd Avenue, Quitman, Wood County, Texas, 75783, USA",32.79946774,-95.44443096
+661,1068,Austin,"2312, San Gabriel Street, West Campus, Austin, Travis County, Texas, 78705, USA",30.28763991,-97.74840561
+662,1069,Austin,"15903, Allenwood Drive, Hudson Bend, Travis County, Texas, 78734, USA",30.41977301,-97.9239732
+663,1070,Fort Worth,"4632, El Campo Avenue, Fort Worth, Tarrant County, Texas, 76107, USA",32.73715191,-97.38912380000001
+664,1071,San Antonio,"West Terra Alta Road, Oak Park, San Antonio, Bexar County, Texas, 78209, USA",29.50524068,-98.4722952
+665,1072,Fort Worth,"3405, Hamilton Avenue, Fort Worth, Tarrant County, Texas, 76107, USA",32.75447927,-97.36697788
+666,1073,Rockport,"102, South 2nd Street, Fulton, Aransas County, Texas, 78358, USA",28.0609396,-97.03499452
+667,1074,Fort Worth,"1613, Clover Lane, Fort Worth, Tarrant County, Texas, 76107, USA",32.74359515,-97.37833946
+668,1075,San Antonio,"11628, Persuasion Drive, San Antonio, Bexar County, Texas, 78216, USA",29.54835095,-98.50587708
+669,1076,League City,"1523, Viejo Road, League City, Galveston County, Texas, 77573, USA",29.48121733,-95.09219016
+670,1077,Dallas,"15905, Bent Tree Forest Drive, Dallas, Dallas County, Texas, 75248, USA",32.9644273,-96.81434857
+671,1078,Pontotoc,"County Road 373, San Saba County, Texas, USA",30.96121831,-99.00986225
+672,1079,Arlington,"2614, Keystone Drive, Arlington, Tarrant County, Texas, 76006, USA",32.77946632,-97.10861574
+673,1080,Houston,"El Cid Trail, Highlands, Harris County, Texas, 77562, USA",29.82785803,-95.0814124
+674,1082,Aledo,"1243, Redbud Court, Annetta, Parker County, Texas, 76008, USA",32.70106068,-97.66979945
+675,1083,Bellaire,"1203, Anderson Street, Bellaire, Harris County, Texas, 77081, USA",29.72099862,-95.46385156
+676,1084,Brownsville,"Fort Brown Resaca, Ringgold Road, Brownsville, Cameron County, Texas, 78520:78521, USA",25.89491768,-97.49385881
+677,1085,Canyon Lake,"1398, Parkview Drive, Canyon City, Comal County, Texas, 78133, USA",29.90045347,-98.21471388
+678,1086,Corpus Christi,"Corpus Christi North Beach, Corpus Christi Beach Walk, Peoples Street T-Head, Downtown, Corpus Christi, Nueces County, Texas, 78402, USA",27.82656313,-97.38451275
+679,1088,Arlington,"2643, Westgate Drive, Arlington, Tarrant County, Texas, 76015, USA",32.70239886,-97.14091661
+680,1089,Krum,"6590, Spring Hill Lane, Denton, Denton County, Texas, 76249, USA",33.23350665,-97.24547763
+681,1091,Dallas,"733, Texas Street, Deep Ellum PID, Dallas, Dallas County, Texas, 75204, USA",32.78930842,-96.78914904
+682,1092,Kemah,"75, Mariners, League City, Galveston County, Texas, 77565, USA",29.54869422,-95.04235245
+683,1093,Houston,"2300, McCue Road, Highland Village, Houston, Harris County, Texas, 77056, USA",29.744808199999998,-95.4646019
+684,1098,Rockport,"1104, Weeping Willow, Shell Ridge, Aransas County, Texas, 78382, USA",28.00745815,-97.10623385
+685,1099,Corpus Christi,"14701, Whitecap Boulevard, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60068802,-97.21604127
+686,1102,Houston,"1905, Milford Street, Houston, Harris County, Texas, 77098, USA",29.72860861,-95.40574755
+687,1103,Mineola,"1998, Farm-to-Market Road 1801, New Hope, Wood County, Texas, 75773, USA",32.66211098,-95.45634561
+688,1106,McKinney,"3498, Bois D'Arc Road, McKinney, Collin County, Texas, 75071, USA",33.20562971,-96.65832849
+689,1108,Alpine,"902, Cottonwood Creek Road, Brewster County, Texas, 79830, USA",30.27879022,-103.57451359999999
+690,1110,Aransas Pass,"2531, Williams Road, Ingleside, San Patricio County, Texas, 78336, USA",27.90218606,-97.1923957
+691,1112,San Antonio,"399, Old Guilbeau Street, Arsenal, San Antonio, Bexar County, Texas, 78204, USA",29.41934304,-98.49288723
+692,1113,Justin,"1871, Foxfield Way, Fort Worth, Denton County, Texas, 76247, USA",33.045794300000004,-97.31901012
+693,1114,San Antonio,"386, Thorman Place, San Antonio, Bexar County, Texas, 78209, USA",29.46282629,-98.46129587
+694,1115,Amarillo,"Rock Island Rail Trail, Route 66 Historic District, Amarillo, Potter County, Texas, 79116, USA",35.20140792,-101.88025970000001
+695,1116,Dallas,"9001, Markville Drive, Lake Highlands, Dallas, Dallas County, Texas, 75243, USA",32.91502328,-96.74825865
+696,1117,McKinney,"2433, Woodlawn Road, McKinney, Collin County, Texas, 75071, USA",33.22024732,-96.59980986
+697,1118,Port Aransas,"State Highway 361, Port Aransas, Aransas County, Texas, 78373, USA",27.72186052,-97.13891526
+698,1119,Houston,"City Place Apartments, 306, McGowen Street, Houston, Harris County, Texas, 77006, USA",29.74877755,-95.37944163
+699,1120,Plano,"Ridgeview Ranch Golf Club, Plano, Collin County, Texas, USA",33.11545723,-96.74681491
+700,1122,San Antonio,"243, Belfast Drive, San Antonio, Bexar County, Texas, 78209, USA",29.51038283,-98.47190635
+701,1124,McKinney,"Enclave Court, McKinney, Collin County, Texas, 75070, USA",33.1952115,-96.68156970000001
+702,1125,Canyon,"265, 20th Street, Canyon, Randall County, Texas, 79015, USA",34.98154452,-101.922464
+703,1127,San Antonio,"8, Bluet Lane, Castle Hills, Bexar County, Texas, 78213, USA",29.51251385,-98.51791542
+704,1128,San Antonio,"1564, West Lynwood Avenue, Keystone Park, San Antonio, Bexar County, Texas, 78201, USA",29.46318197,-98.52242019
+705,1129,McKinney,"5035, Bryn Mawr Drive, McKinney, Collin County, Texas, 75070, USA",33.19321398,-96.68441712
+706,1130,Amarillo,"Amarillo, Potter County, Texas, 79108, USA",35.25629909,-101.8504459
+707,1131,Canyon,"US 87, Canyon, Randall County, Texas, 79016, USA",34.9384357,-101.9173552
+708,1132,San Antonio,"259, Belfast Drive, San Antonio, Bexar County, Texas, 78209, USA",29.51034832,-98.47165536
+709,1134,Weatherford,"314, Willow Creek Drive, Weatherford, Parker County, Texas, 76085, USA",32.76088574,-97.75059652
+710,1135,Lago Vista,"3204, Parliament Cove, Lago Vista, Travis County, Texas, 78645, USA",30.43882777,-98.02162829999999
+711,1136,Irving,"3898, Great Falls Court, Irving, Dallas County, Texas, 75062, USA",32.84988937,-97.00251085
+712,1137,Houston,"Wharton Elementary School, Columbus Street, Houston, Harris County, Texas, 77019, USA",29.75363112,-95.39079165
+713,1138,Denton,"2799, Winchester Court, Denton, Denton County, Texas, 76209, USA",33.24064885,-97.12376929
+714,1139,Austin,"1403, Perez Street, MLK, Austin, Travis County, Texas, 78721, USA",30.28045086,-97.69178736
+715,1140,Austin,"12121, Fitzhugh Road, Travis County, Texas, 78737, USA",30.23277722,-97.9801536
+716,1141,Houston,"Kirby Drive, Houston, Harris County, Texas, 77025-9998, USA",29.69311673,-95.41336383
+717,1142,Katy,"25111, Braleybrook Court, Heritage Grand, Cinco Ranch, Fort Bend County, Texas, 77494, USA",29.72455004,-95.78437896
+718,1143,Bolivar Peninsula,"900, South Stingaree Drive, Bolivar Peninsula, Galveston County, Texas, 77650, USA",29.47000927,-94.59194659
+719,1144,Marble Falls,"County Road 342C, Mormon Mill, Burnet County, Texas, 78654, USA",30.58923449,-98.23450359
+720,1146,Corpus Christi,"Surfside Boulevard, Downtown, Corpus Christi, Nueces County, Texas, 78402, USA",27.82461949,-97.38645717
+721,1147,Fort Worth,"1509, Washington Avenue, Fairmount, Fort Worth, Tarrant County, Texas, 76104, USA",32.72783749,-97.33563415
+722,1149,Houston,"James A Dawson House, 400, Emerson Street, Houston, Harris County, Texas, 77006, USA",29.74160414,-95.38333188
+723,1150,Sargent,"Seagull Road, Matagorda County, Texas, 77414, USA",28.77783566,-95.63957549
+724,1154,San Antonio,"2231, Sacramento, Monticello Park, San Antonio, Bexar County, Texas, 78201, USA",29.47204771,-98.53037078
+725,1155,San Leon,"1696, Railroad Street, Texas City, Galveston County, Texas, 77539, USA",29.47483943,-94.95237209999999
+726,1156,Irving,"1098, Compton Avenue, Irving, Dallas County, Texas, 75061, USA",32.8251835,-97.00448705
+727,1157,San Antonio,"1903, North Saint Mary's Street, Saint Mary's Strip, San Antonio, Bexar County, Texas, 78212, USA",29.44221522,-98.48604383
+728,1162,Dallas,"4320, Concho Street, The Village, Dallas, Dallas County, Texas, 75206, USA",32.83888045,-96.76429124
+729,1163,Houston,"1698, Holman Street, Houston, Harris County, Texas, 77004, USA",29.73607529,-95.37238536
+730,1164,Houston,"The New Potato, 6519, Clinton Drive, Houston, Harris County, Texas, 77020, USA",29.76470746,-95.33419930000001
+731,1165,Abilene,"1181, Santos Street, Abilene, Taylor County, Texas, 79605, USA",32.4361402,-99.74995418
+732,1169,Euless,"Euless, Tarrant County, Texas, 76039, USA",32.83637391,-97.0764018
+733,1171,Houston,"1540, Fairview Street, Houston, Harris County, Texas, 77006, USA",29.74727818,-95.39715381
+734,1173,Killeen,"East Elms Road, Killeen, Bell County, Texas, 76542, USA",31.07575219,-97.71957835
+735,1174,Houston,"7124, Chetwood Drive, Houston, Harris County, Texas, 77081, USA",29.70289588,-95.47861187
+736,1175,Austin,"304, East 44th Street, Hyde Park, Austin, Travis County, Texas, 78751, USA",30.30676463,-97.72635408
+737,1176,Denton,"817, Panhandle Street, Denton, Denton County, Texas, 76201, USA",33.22108624,-97.14102656
+738,1177,Corpus Christi,"H-E-B Fuel, South Alameda Street, Corpus Christi, Nueces County, Texas, 78404, USA",27.758073600000003,-97.39120243
+739,1178,Houston,"4694, Wild Indigo, Houston, Harris County, Texas, 77027, USA",29.72749877,-95.45436483
+740,1181,Richmond,"7009, Kendall Lake Court, Lakemont Court, Cinco Ranch, Fort Bend County, Texas, 77407, USA",29.70156635,-95.73074746
+741,1182,Allen,"1486, Boyle Parkway, Cumberland Crossing, Allen, Collin County, Texas, 75013, USA",33.12113416,-96.70758513
+742,1184,Dallas,"11366, Rupley Lane, Dallas, Dallas County, Texas, 75218, USA",32.85467373,-96.68454368
+743,1187,Grapevine,"4511, Baze Road, Euless, Tarrant County, Texas, 76051, USA",32.88717672,-97.09082315
+744,1188,Corpus Christi,"15647, Finistere Street, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.59174035,-97.22976267
+745,1189,Fort Worth,"1501, West Morphy Street, Fairmount, Fort Worth, Tarrant County, Texas, 76104, USA",32.72935084,-97.34142554
+746,1190,Corpus Christi,"Surfside Sandwich Shoppe, 15113, South Padre Island Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.606393599999997,-97.2233771
+747,1191,Galveston,"1659, Church Street - Avenue F, Galveston, Galveston County, Texas, 77550, USA",29.305438300000002,-94.78580744
+748,1192,Dallas,"Trader Joe's, 5550, West Lovers Lane, Dallas, Dallas County, Texas, 75209, USA",32.8512312,-96.81869472
+749,1193,Belton,"1058, Terra Alta Drive, Belton, Bell County, Texas, 76513, USA",31.09024408,-97.4726545
+750,1194,San Antonio,"1657, West Magnolia Avenue, Fulton, San Antonio, Bexar County, Texas, 78201, USA",29.456313199999997,-98.52255942
+751,1195,Port Aransas,"737, Parkplace, Mustang Beach, Port Aransas, Aransas County, Texas, 78373, USA",27.80675811,-97.07838677
+752,1196,Dallas,"CVS, 13033, Coit Road, Dallas, Dallas County, Texas, 75240, USA",32.92684218,-96.77006972
+753,1197,San Antonio,"Bowden Elementary School, Lamar Street, Dignowity Hill, San Antonio, Bexar County, Texas, 78202, USA",29.43130677,-98.47000162
+754,1198,Lindale,"18907, Van Highway, Garden Valley, Smith County, Texas, 75771, USA",32.52493661,-95.57095437
+755,1199,San Antonio,"Road 31, Government Hill, San Antonio, Bexar County, Texas, 78208, USA",29.44356005,-98.46739246
+756,1200,Plano,"Plano, Collin County, Texas, 75093, USA",33.05491545,-96.78783683
+757,1201,Houston,"Helena Street, Houston, Harris County, Texas, 77006, USA",29.75109624,-95.38023945
+758,1202,San Antonio,"Amazing Air, 7702, I-35 Frontage Road, San Antonio, Bexar County, Texas, 78218, USA",29.5046094,-98.39613328
+759,1203,San Antonio,"3031, Eisenhauer Road, Oak Park, San Antonio, Bexar County, Texas, 78209, USA",29.49586081,-98.44117079
+760,1204,Houston,"4523, Walker Street, Houston, Harris County, Texas, 77023, USA",29.74156862,-95.33167579999999
+761,1205,Weatherford,"314, Willow Creek Drive, Weatherford, Parker County, Texas, 76085, USA",32.76088574,-97.75059652
+762,1206,McKinney,"720, Park View Avenue, McKinney, Collin County, Texas, 75070, USA",33.19243407,-96.6424648
+763,1207,Plano,"3213, Clymer Drive, Plano, Collin County, Texas, 75025, USA",33.07591135,-96.75335238
+764,1208,Houston,"9319, Kristin Drive, Houston, Harris County, Texas, 77031, USA",29.66505293,-95.54134548
+765,1209,Highland Village,"149, Greensprings Street, Montclair I, Highland Village, Denton County, Texas, 75077, USA",33.08821666,-97.03655189
+766,1210,Arlington,"6490, Saint Alban Court, Arlington, Tarrant County, Texas, 76001, USA",32.63978624,-97.12971167
+767,1211,Corpus Christi,"520, Monette Drive, Bay Area, Corpus Christi, Nueces County, Texas, 78412, USA",27.72571657,-97.36533677
+768,1212,San Antonio,"Missionaries of Sacred Heart, West Magnolia Avenue, Alta Vista, San Antonio, Bexar County, Texas, 78201, USA",29.45458099,-98.49647362
+769,1213,San Antonio,"McAllister Freeway, Saint Mary's Strip, San Antonio, Bexar County, Texas, 78215, USA",29.44805755,-98.48326453
+770,1214,San Antonio,"465, Lamar Street, Dignowity Hill, San Antonio, Bexar County, Texas, 78202, USA",29.43164427,-98.47380777
+771,1216,Dallas,"626, North Montclair Avenue, Bishop Arts District, Dallas, Dallas County, Texas, 75208, USA",32.75053738,-96.84639693
+772,1221,Killeen,"East Elms Road, Killeen, Bell County, Texas, 76542, USA",31.07609483,-97.72092009999999
+773,1222,Corpus Christi,"14825, Leeward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60760188,-97.21035405
+774,1223,Corpus Christi,"Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.62759892,-97.23367609
+775,1224,Austin,"1117, Hollow Creek Drive, Zilker, Austin, Travis County, Texas, 78704, USA",30.26070211,-97.77194317
+776,1225,Fort Worth,"3817, Byers Avenue, Fort Worth, Tarrant County, Texas, 76107, USA",32.73868159,-97.37386375
+777,1226,Dallas,"1808, Ocalla Avenue, Dallas, Dallas County, Texas, 75218, USA",32.82077889,-96.70257057
+778,1227,River Oaks,"1315, Banks Street, River Oaks, Tarrant County, Texas, 76114, USA",32.78062233,-97.38818431
+779,1228,Bastrop,"112, El Camino Real River Road, Bastrop, Bastrop County, Texas, 78602, USA",30.08161842,-97.33094901
+780,1229,Houston,"Lakeside Terrace Drive, Houston, Harris County, Texas, 77044, USA",29.92031126,-95.15585311
+781,1230,Bandera,"Schmidtke Road, Highland Waters, Bandera County, Texas, 78803, USA",29.71451723,-99.11706012
+782,1231,Dallas,"700, Colten James Lane, Dallas, Dallas County, Texas, 75204, USA",32.79140309,-96.78826755
+783,1232,Austin,"Sabina Apartments, 3400, Harmon Avenue, Hancock, Austin, Travis County, Texas, 78705, USA",30.29331524,-97.7231532
+784,1233,Port Aransas,"North Station Street, Port Aransas, Aransas County, Texas, 78373, USA",27.832290500000003,-97.06054091
+785,1234,Van,"Van, Van Zandt County, Texas, 75790, USA",32.49949089,-95.6144294
+786,1235,Bastrop,"398, Wahane Lane, Bastrop, Bastrop County, Texas, 78602, USA",30.08375912,-97.29761001
+787,1238,Corpus Christi,"15082, Leeward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.606663399999995,-97.21051752
+788,1239,Galveston,"Diamond Beach, 10327, San Luis Pass Road, Palm Beach, Galveston, Galveston County, Texas, 77554, USA",29.24230157,-94.86834662
+789,1240,Kemah,"1372, Bel Road, Kemah, Galveston County, Texas, 77565, USA",29.53590863,-95.01240038
+790,1241,Corpus Christi,"Corpus Christi Fire Department Station 15, Commodore Street, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, USA",27.61887044,-97.22611706
+791,1242,Corpus Christi,"14705, Whitecap Boulevard, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60149949,-97.21614609999999
+792,1243,Dallas,"4602, Junius Street, Lower Greenville, Dallas, Dallas County, Texas, 75214, USA",32.79639357,-96.77176902
+793,1244,Corpus Christi,"Burleson Street, Downtown, Corpus Christi, Nueces County, Texas, 78402, USA",27.82757707,-97.40070317
+794,1245,Euless,"Adam Samuels Direct, West Airport Freeway, Bedford, Tarrant County, Texas, 76040, USA",32.83663091,-97.10935141
+795,1246,Canton,"Old Mill Marketplace, East Dallas Street, Canton, Van Zandt County, Texas, 75103, USA",32.55629946,-95.85220639
+796,1247,Copperas Cove,"1548, Virginia Avenue, Copperas Cove, Coryell County, Texas, 76522, USA",31.11088698,-97.88305935
+797,1248,San Antonio,"12215, Apricot Drive, San Antonio, Bexar County, Texas, 78247, USA",29.55489961,-98.45988098
+798,1249,Rockport,"Broadway Street, Key Allegro, Rockport, Aransas County, Texas, 78382, USA",28.04059527,-97.03706996
+799,1250,Deer Park,"Dylan Lane, Deer Park, Harris County, Texas, 88581, USA",29.67460194,-95.10390299
+800,1251,Galveston,"Sweeney-Royston House, Avenue L, Galveston, Galveston County, Texas, 77551, USA",29.29825142,-94.79200809
+801,1252,Fulshear,"Pool Hill Road, Simonton, Fort Bend County, Texas, 77476, USA",29.69959646,-95.94543165
+802,1253,Sweeny,"7298, FM 1459, Sweeny, Brazoria County, Texas, 77480, USA",29.09496748,-95.68977377
+803,1254,Houston,"Rice School, 7550, Seuss Drive, Houston, Harris County, Texas, 77025, USA",29.69917845,-95.41905729
+804,1256,Bacliff,"4757, Rose Street, Clifton Beach, Galveston County, Texas, 77518, USA",29.50949455,-94.97572785
+805,1257,Celina,"272, North Ohio Street, Celina, Collin County, Texas, 75009, USA",33.32529396,-96.78629119
+806,1258,Houston,"1065, East 7½ Street, North Inner Loop, Houston, Harris County, Texas, 77009, USA",29.78454621,-95.38534717
+807,1259,Dallas,"9250, Garland Road, Dallas, Dallas County, Texas, 75218, USA",32.830533100000004,-96.70610111
+808,1260,Katy,"Gaston Road, Avalon at Seven Meadows, Seven Meadows, Cinco Ranch, Fort Bend County, Texas, 77494, USA",29.70119015,-95.78441532
+809,1261,League City,"2520, Lexington Court, Brittany Lakes, League City, Galveston County, Texas, 77573, USA",29.48316219,-95.12608659
+810,1262,Houston,"1381, Palm Street, Houston, Harris County, Texas, 77004, USA",29.72720237,-95.38373351
+811,1263,Galveston,"4149, Avenue R ½, Galveston, Galveston County, Texas, 77550, USA",29.28208433,-94.80897511
+812,1265,Bandera,"Bandera Wash Tub, 710, Main Street, Bandera, Bandera County, Texas, 78003, USA",29.72808384,-99.07478835
+813,1267,Dallas,"5948, Oram Street, Lower Greenville, Dallas, Dallas County, Texas, 75214:75243, USA",32.81360219,-96.76415249
+814,1269,Houston,"623, Jerry Street, Houston, Harris County, Texas, 77022, USA",29.82766078,-95.39314225
+815,1270,Rockport,"198, Dove Drive, Copano Village, Aransas County, Texas, 78382, USA",28.06676335,-97.10237628
+816,1271,Canton,"V Z County Road 2212, Tundra, Van Zandt County, Texas, USA",32.47405198,-95.90367996
+817,1272,Palestine,"Montalba, Anderson County, Texas, USA",31.87616941,-95.6845552
+818,1273,Austin,"2709, Oak Crest Avenue, Galindo, Austin, Travis County, Texas, 78704, USA",30.23830681,-97.76501527
+819,1274,Port Arthur,"Park Plaza Lane, Port Arthur, Jefferson County, Texas, 77642, USA",29.91389882,-93.94519454
+820,1275,Wharton,"East Caney Street, Wharton, Wharton County, Texas, 77488, USA",29.31169475,-96.09806861
+821,1277,Conroe,"8172, Laughing Falcon Trail, Harper's Reserve, Lakeland, Montgomery County, Texas, 77385, USA",30.1995345,-95.44286674
+822,1278,Dallas,"1505, Patterson Street, West End Historic District, Downtown PID, Dallas, Dallas County, Texas, 75202, USA",32.78335065,-96.80093419
+823,1281,Austin,"5377, Tetherland Trail, Meadows at Trinity Crossing, Austin, Travis County, Texas, 78724, USA",30.28385482,-97.64784046
+824,1283,Corpus Christi,"15002, Leeward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60545558,-97.21136347
+825,1284,Galveston,"1214, 11th Street, Galveston, Galveston County, Texas, 77550, USA",29.30129244,-94.77743805
+826,1285,Austin,"1900, East Oltorf Street, Parker Lane, Austin, Travis County, Texas, 00787, USA",30.23163473,-97.73431754
+827,1286,Houston,"Minute Maid Park, Crawford Street, Houston, Harris County, Texas, 77004, USA",29.75825406,-95.35537642
+828,1287,Houston,"Justice, Beechnut Street, Meyerland Plaza, Meyerland, Houston, Harris County, Texas, 77072, USA",29.68832293,-95.46126892
+829,1288,Houston,"4819, Fisk Street, Houston, Harris County, Texas, 77009, USA",29.80302604,-95.3709186
+830,1289,Riviera Beach,"County Road 1155, Riviera Beach, Kleberg County, Texas, USA",27.29011761,-97.66155727
+831,1290,Fort Worth,"6987, Sierra Drive, North Richland Hills, Tarrant County, Texas, 76180, USA",32.85270688,-97.23144022
+832,1291,Rosenberg,"Oxbow Crossing Lane, Brazos Ranch Apartment Homes, Rosenberg, Fort Bend County, Texas, 77471, USA",29.5532858,-95.75574317
+833,1292,Euless,"1351, Toplea Drive, Euless, Tarrant County, Texas, 76040, USA",32.83016744,-97.10397102
+834,1293,Belton,"3141, Sarita Cove, Belton, Bell County, Texas, 76513, USA",31.09264799,-97.48065811
+835,1294,Houston,"League City, Galveston County, Texas, 77565, USA",29.54065656,-95.05784855
+836,1295,Dallas,"4238, Amherst Avenue, University Park, Dallas County, Texas, 75225, USA",32.85246013,-96.80735542
+837,1296,Rockport,"603, Copano Cove Road, Aransas County, Texas, 78382, USA",28.06598385,-97.11097596
+838,1297,Galveston,"1923, Harborside Drive, Galveston, Galveston County, Texas, 77550, USA",29.30906157,-94.79039854
+839,1298,Rockport,"1879, Bay Shore Drive, Key Allegro, Rockport, Aransas County, Texas, 78382, USA",28.04033544,-97.02616373
+840,1299,Bandera,"Kennady Drive, Highland Waters, Bandera County, Texas, USA",29.75171427,-99.13894707
+841,1300,San Leon,"2nd Street, San Leon, Galveston County, Texas, 77395, USA",29.48996885,-94.91195447
+842,1301,Dripping Springs,"Bell Springs Road, Hays County, Texas, 78620, USA",30.29428709,-98.09329793
+843,1302,Houston,"West Lake Houston Parkway, Houston, Harris County, Texas, 77346, USA",29.95508619,-95.17304681
+844,1303,Elgin,"Farm-to-Market Road 1704, Elgin, Bastrop County, Texas, 78621, USA",30.22557312,-97.43441786
+845,1304,Houston,"4937, Ventura Lane, Houston, Harris County, Texas, 77021, USA",29.70419921,-95.33844457
+846,1305,Fulshear,"5299, James Lane, Fulshear, Fort Bend County, Texas, 77441, USA",29.68027243,-95.90916249
+847,1306,Frisco,"11369, Luxembourg Lane, Griffin Park, Frisco, Denton County, Texas, 75033, USA",33.1715443,-96.86286561
+848,1307,Sanger,"Union Hill, Denton County, Texas, 76266, USA",33.38833704,-97.15302453
+849,1309,Mabank,"120, Bluffview Drive, Henderson County, Texas, 75156, USA",32.23194307,-96.04944259
+850,1310,Houston,"5382, Dora Street, Warnecke, Houston, Harris County, Texas, 77005, USA",29.72456505,-95.3962193
+851,1311,Fort Worth,"3963, Carnett Court, Fort Worth, Tarrant County, Texas, 76133, USA",32.67469161,-97.37852743
+852,1312,Arlington,"1799, West Lamar Boulevard, Arlington, Tarrant County, Texas, 76012, USA",32.76606237,-97.13605749
+853,1313,San Antonio,"La Cantera Terrace, San Antonio, Bexar County, Texas, 78257, USA",29.60894732,-98.60611624
+854,1314,Euless,"2649, Lawndale Lane, Euless, Tarrant County, Texas, 76039, USA",32.87468553,-97.08857279
+855,1315,Galveston,"Campeche Cove Shopping Center, Cove View Boulevard, Galveston, Galveston County, Texas, 77554, USA",29.24525626,-94.86776053
+856,1316,Houston,"5921, Burgoyne Road, Briargrove, Houston, Harris County, Texas, 77057, USA",29.74188665,-95.48589075
+857,1317,San Antonio,"West Terra Alta Road, Oak Park, San Antonio, Bexar County, Texas, 78209, USA",29.50524068,-98.4722952
+858,1318,Austin,"14309, Debba Drive, Longhorn Village, Travis County, Texas, 78734, USA",30.36946491,-97.92976717
+859,1319,Galveston,"1899, Moody Avenue - 21st Street, Galveston, Galveston County, Texas, 77550, USA",29.29306374,-94.78744806
+860,1320,Rockport,"130, Ocean Drive, Palm Harbor, Shell Ridge, Aransas County, Texas, 78382, USA",27.96561233,-97.09196257
+861,1321,Denton,"2799, Winchester Court, Denton, Denton County, Texas, 76209, USA",33.24064885,-97.12376929
+862,1322,Corpus Christi,"15196, Leeward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60505386,-97.21124404
+863,1323,Temple,"734, Arrangement Way, Temple, Bell County, Texas, 76504, USA",31.07457811,-97.35822541
+864,1324,Austin,"1189, Hargrave Street, Rosewood, Austin, Travis County, Texas, 78702, USA",30.2746334,-97.70755254
+865,1325,San Antonio,"238, Cloudmont Drive, Windcrest, Bexar County, Texas, 78239, USA",29.5158581,-98.39224396
+866,1326,Houston,"1799, Lubbock Street, North Inner Loop, Houston, Harris County, Texas, 77007, USA",29.76528981,-95.37526229
+867,1327,Houston,"Hogg Junior High School, Oakridge Street, North Inner Loop, Houston, Harris County, Texas, 77009, USA",29.7893087,-95.38719252
+868,1328,Houston,"4382, Stanford Street, Houston, Harris County, Texas, 77006, USA",29.73365709,-95.38890005
+869,1329,Bandera,"Bandera Nursing Home, RM 1077, Bandera County, Texas, 78803, USA",29.71876114,-99.06632453
+870,1330,Houston,"531, Fairbanks Street, Houston, Harris County, Texas, 77009, USA",29.81034045,-95.36485809
+871,1331,Taft,"Farm to Market Road 136, Bayview Estates Colonia, Aransas County, Texas, 78340, USA",28.07067084,-97.21884801
+872,1333,Richmond,"20689, Lakemont Bend Lane, Lakemont Trace, Cinco Ranch, Fort Bend County, Texas, 77407, USA",29.69991809,-95.74099067
+873,1334,Houston,"Space Center Boulevard, Houston, Harris County, Texas, 77058, USA",29.62826045,-95.14218984
+874,1335,Kemah,"601, 6th Street, Kemah, Galveston County, Texas, 77565, USA",29.54363745,-95.01872279
+875,1336,La Porte,"2221, Sens Road, Fairmont Park East, La Porte, Harris County, Texas, 77571, USA",29.67672576,-95.04625738
+876,1337,Houston,"Stanton's City Bites, 1420, Edwards Street, North Inner Loop, Houston, Harris County, Texas, 77007, USA",29.77073164,-95.37220398
+877,1338,Houston,"7420, Brompton Road, Brompton Court, Houston, Harris County, Texas, 77025, USA",29.69993526,-95.42321794
+878,1339,McDade,"Martin Ranch Road, Bastrop County, Texas, 78650, USA",30.30314974,-97.18658345
+879,1340,Austin,"Austin B-cycle Station, Barton Springs Road, Auditorium Shores, Austin, Travis County, Texas, 78746, USA",30.25975527,-97.75364419
+880,1341,Corpus Christi,"14701, Whitecap Boulevard, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60123377,-97.215974
+881,1342,Kemah,"1598, Marina Bay Drive, Clear Lake Shores, Galveston County, Texas, 77565, USA",29.54451308,-95.03891012
+882,1343,Austin,"1508, Elton Lane, Westfield, Austin, Travis County, Texas, 78703, USA",30.28940989,-97.7686067
+883,1344,Bastrop,"Kc Drive, Circle D-KC Estates, Bastrop County, Texas, 78602, USA",30.14951392,-97.24274651
+884,1345,League City,"East Red Adair Boulevard, League City, Galveston County, Texas, 77565, USA",29.54533154,-95.06483378
+885,1346,Cleburne,"US 67, Cleburne, Johnson County, Texas, 76033, USA",32.32323089,-97.44897135
+886,1347,Dallas,"1313, North Washington Avenue, Dallas, Dallas County, Texas, 75204, USA",32.79479012,-96.78276361
+887,1348,Austin,"9303, Robins Nest Lane, Springwoods, Jollyville, Pond Springs, Williamson County, Texas, 78729, USA",30.45225785,-97.78257866
+888,1349,Killeen,"East Elms Road, Killeen, Bell County, Texas, 76542, USA",31.07707627,-97.72112173
+889,1350,Houston,"4114, McDuffie Street, Houston, Harris County, Texas, 77098, USA",29.73577627,-95.40806035
+890,1351,Kemah,"708, Bradford Avenue, Kemah, Galveston County, Texas, 77565, USA",29.54185988,-95.01822927
+891,1352,Austin,"5600, Larchbrook Drive, Imperial Valley, Travis County, Texas, 78724, USA",30.27662871,-97.62364718
+892,1353,Fort Worth,"3101, Covert Avenue, Fort Worth, Tarrant County, Texas, 76133, USA",32.6712534,-97.36093422
+893,1354,Austin,"1700, Victoria Drive, MLK, Austin, Travis County, Texas, 78721, USA",30.28263375,-97.68946190000001
+894,1355,City-by-the Sea,"242, Port Royal, City-by-the Sea, Aransas County, Texas, 78336, USA",27.95228664,-97.10428872
+895,1356,Houston,"946, Graceland Street, Houston, Harris County, Texas, 77009, USA",29.80865132,-95.35929486
+896,1357,Humble,"21286, Grand Linden Court, Bordersville, Harris County, Texas, 77338, USA",30.02156778,-95.31194016
+897,1358,Dallas,"2004, Lucille Street, Dallas, Dallas County, Texas, 75204, USA",32.8013088,-96.78706527
+898,1359,Rockport,"Copano Village, Aransas County, Texas, 78358, USA",28.10133453,-97.02655459
+899,1360,Richmond,"Silverwater, Richmond, Fort Bend County, Texas, USA",29.57174836,-95.74566238
+900,1361,Seabrook,"Forest Lake Drive, Taylor Lake Village, Harris County, Texas, 77586, USA",29.5670369,-95.06509287
+901,1362,Houston,"2688, Dallas Street, Houston, Harris County, Texas, 77003, USA",29.74677862,-95.35173418
+902,1366,Fort Worth,"4219, Calmont Avenue, Fort Worth, Tarrant County, Texas, 76107, USA",32.73325828,-97.38126872
+903,1367,Spicewood,"361, Harbor Drive, Burnet County, Texas, 78669, USA",30.48950588,-98.11060999
+904,1368,Denton,"Denton High School, Fulton Street, Denton, Denton County, Texas, 76201, USA",33.22189997,-97.14374478
+905,1370,Palestine,"FM 315, Fosterville, Anderson County, Texas, 75802, USA",31.97346033,-95.61088321
+906,1371,Willis,"Kingston Cove Circle, Montgomery County, Texas, 77318, USA",30.40016695,-95.57002340000001
+907,1372,Austin,"5486, Davis Lane, Maple Run, Austin, Travis County, Texas, 78749, USA",30.20776075,-97.86743165
+908,1373,Sugar Land,"Lake Woodbridge Drive, Fort Bend County, Texas, 77498, USA",29.65455677,-95.64396127
+909,1375,Houston,"175, North Live Oak Street, Houston, Harris County, Texas, 77003, USA",29.75708001,-95.34424381
+910,1376,Galveston,"1765, Avenue L, Galveston, Galveston County, Texas, 77550, USA",29.29984854,-94.78518731
+911,1377,Kemah,"340, Marina Oaks Court, League City, Galveston County, Texas, 77565, USA",29.54836928,-95.05559641
+912,1378,New Braunfels,"Tubenbach, East Coll Street, New Braunfels, Comal County, Texas, 78130, USA",29.70318785,-98.11882026
+913,1379,Grand Prairie,"Stone Lake Drive, Grand Prairie, Tarrant County, Texas, 76006, USA",32.79389828,-97.06109451
+914,1380,McDade,"Martin Ranch Road, Bastrop County, Texas, 78650, USA",30.30574215,-97.18454809
+915,1381,Rockport,"Mathis Street, Rockport, Aransas County, Texas, 78382, USA",28.012441,-97.06068949
+916,1382,Galveston,"6241, Seawall Boulevard, Galveston, Galveston County, Texas, 77550, USA",29.26610409,-94.826815
+917,1383,Burnet,"1986, Austin Drive, Burnet County, Texas, 78611, USA",30.68140865,-98.40073743
+918,1384,Corpus Christi,"Surfside Sandwich Shoppe, 15113, South Padre Island Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60677071,-97.22476185
+919,1387,Sugar Land,"919, Greatwood Glen Drive, Greatwood, Sugar Land, Fort Bend County, Texas, 77479, USA",29.54790657,-95.68752176
+920,1388,Austin,"1717, East Cesar Chavez Street, East Cesar Chavez, Austin, Travis County, Texas, 78702, USA",30.25715068,-97.72585314
+921,1389,Houston,"1955, Freeman Street, Houston, Harris County, Texas, 77009, USA",29.77694202,-95.36132256
+922,1398,Cedar Creek,"2013, State Highway 71, Elysium, Bastrop County, Texas, 78612, USA",30.14196647,-97.47217159
+923,1400,Cedar Creek,"119, Colorado Circle, Wyldwood, Bastrop County, Texas, 78612, USA",30.13081711,-97.44471297
+924,1401,Richmond,"Bandrock Terrace, Grand Mission Estates, Pecan Grove, Fort Bend County, Texas, 77407, USA",29.672827299999998,-95.73769665
+925,1402,Canton,"Old Mill Marketplace, East Dallas Street, Canton, Van Zandt County, Texas, 75103, USA",32.55535734,-95.85585295
+926,1403,Fort Worth,"8149, Cahoba Drive, Fort Worth, Tarrant County, Texas, 76135, USA",32.79836087,-97.45940763
+927,1404,Wharton,"East Caney Street, Wharton, Wharton County, Texas, 77488, USA",29.31169475,-96.09806861
+928,1405,Conroe,"Conroe, Montgomery County, Texas, 77384, USA",30.22925732,-95.50132809
+929,1407,Kemah,"75, Mariners, League City, Galveston County, Texas, 77565, USA",29.54869422,-95.04235245
+930,1408,Fredericksburg,"790, South Adams Street, Fredericksburg, Gillespie County, Texas, 78624, USA",30.26617416,-98.87878857
+931,1410,Star Harbor,"35, Shoreline Drive, Star Harbor, Henderson County, Texas, 75148, USA",32.19875266,-96.05612041
+932,1411,Bandera,"Highland Waters, Bandera County, Texas, USA",29.74346005,-99.14537718
+933,1412,Fort Worth,"5801, Sandshell Drive, Fort Worth, Tarrant County, Texas, 76136, USA",32.84990396,-97.31005152
+934,1413,Corpus Christi,"Schlitterbahn Waterpark Corpus Christi, 14353, Commodore Street, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.61794402,-97.22443337
+935,1414,Austin,"IDEA Allen Acadamy, 4900, Mansell Avenue, Govalle, Austin, Travis County, Texas, 78702, USA",30.25811125,-97.69754811
+936,1415,Corpus Christi,"Schlitterbahn Waterpark Corpus Christi, 14353, Commodore Street, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.61130466,-97.2233833
+937,1416,Austin,"2700, I 35 Frontage Road, St. Edwards, Austin, Travis County, Texas, 78704-5639, USA",30.22948577,-97.74433977
+938,1417,Fort Worth,"Ederville Road, Fort Worth, Tarrant County, Texas, 76120, USA",32.7591414,-97.20202938
+939,1418,Killeen,"6280, Griffith Loop, Killeen, Bell County, Texas, 76549, USA",31.07762712,-97.80423909999999
+940,1421,Houston,"Metro Mart, 645, East 11th Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.79116244,-95.39037913
+941,1422,Houston,"Cypress Station Drive, Cypress Forest Lakes, Bammel, Harris County, Texas, 77090, USA",30.02683823,-95.44086455
+942,1423,Euless,"1600, Wellington Drive, Euless, Tarrant County, Texas, 76040, USA",32.83553557,-97.1093852
+943,1424,Euless,"2860, Brazos Boulevard, Glade Parks, Euless, Tarrant County, Texas, 76039, USA",32.87786317,-97.10478084
+944,1425,McKinney,"Millbend Drive, McKinney, Collin County, Texas, TX 75071, USA",33.191504800000004,-96.74249623
+945,1426,Galveston,"Ocean Grove Condominiums, 9420, Seawall Boulevard, Galveston, Galveston County, Texas, 77551, USA",29.24898237,-94.85709527
+946,1428,Fort Worth,"1337, Senita Cactus Street, Fort Worth, Tarrant County, Texas, 76428, USA",32.91714388,-97.33771892
+947,1430,Houston,"2100, Colorado Street, North Inner Loop, Houston, Harris County, Texas, 77007, USA",29.77601213,-95.37472435
+948,1431,League City,"2969, Doral Court, League City, Galveston County, Texas, 77573, USA",29.53021426,-95.0580968
+949,1432,Richmond,"5772, Sky Dale Lane, Crabb, Fort Bend County, Texas, 77469, USA",29.54839344,-95.70696698
+950,1434,Dallas,"6823, Clayton Avenue, Dallas, Dallas County, Texas, 75214, USA",32.81477567,-96.742039
+951,1435,Dallas,"6024, Bryan Parkway, Lower Greenville, Dallas, Dallas County, Texas, 75214, USA",32.80880431,-96.76354234
+952,1436,Galveston,"4100, San Domingo Court, Pirates Beach, Galveston, Galveston County, Texas, 77554, USA",29.20662729,-94.93361197
+953,1437,Bastrop,"370, West Kaanapali Lane, Bastrop, Bastrop County, Texas, 78602, USA",30.08861735,-97.27764352
+954,1438,Houston,"252, Pacific Street, Houston, Harris County, Texas, 77006, USA",29.74713324,-95.38522786
+955,1439,Denton,"1824, Teasley Lane, Denton, Denton County, Texas, 76210, USA",33.19105435,-97.12414194
+956,1440,Richmond,"FM 1464, Shiloh Lake Estates, Fort Bend County, Texas, 77407, USA",29.66189087,-95.68665003
+957,1441,Cedar Creek,"Cedar Creek, Bastrop County, Texas, USA",30.06311802,-97.52397761
+958,1442,Houston,"1062, English Street, Houston, Harris County, Texas, 77009, USA",29.80780021,-95.35802668
+959,1443,Bastrop,"FM 969, Hunters Crossing, Bastrop, Bastrop County, Texas, USA",30.15409695,-97.38630175
+960,1444,Dripping Springs,"12814, Silver Creek Road, Fitzhugh, Hays County, Texas, 78620, USA",30.24579265,-98.0487128
+961,1445,Houston,"1600, Holly Street, North Inner Loop, Houston, Harris County, Texas, 77007, USA",29.772558500000002,-95.36853077
+962,1446,Fort Worth,"3830, West 6th Street, Fort Worth, Tarrant County, Texas, 76107, USA",32.75273129,-97.37531240000001
+963,1447,Corpus Christi,"Corpus Christi Marina, 400A, North Shoreline Boulevard, Peoples Street T-Head, Downtown, Corpus Christi, Nueces County, Texas, 78401, USA",27.79212038,-97.38993577
+964,1448,Corpus Christi,"14953, Granada Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60930925,-97.21105599
+965,1449,Converse,"8424, Pigeonberry, Bexar County, Texas, 78109, USA",29.46698482,-98.32244934
+966,1450,Richmond,"Peralta Cliff Trail, Grand Mission Estates, Fort Bend County, Texas, 77407, USA",29.6764745,-95.73249941
+967,1451,Galveston,"1639, Mechanic Street - Avenue C, Galveston, Galveston County, Texas, 77550, USA",29.30788751,-94.78645283
+968,1452,Houston,"1306, West 23rd Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.80654499,-95.42264693
+969,1453,Dallas,"Gilley's, South Lamar Street, South Side PID, Dallas, Dallas County, Texas, 75215, USA",32.76855583,-96.79753089
+970,1454,Corpus Christi,"389, Troy Drive, Bay Area, Corpus Christi, Nueces County, Texas, 78412, USA",27.72259219,-97.34866914
+971,1455,Austin,"5901, East Stassney Lane, McKinney, Austin, Travis County, Texas, 78744, USA",30.19065261,-97.73145973
+972,1456,League City,"1036, Constellation Boulevard, League City, Galveston County, Texas, 77573, USA",29.5376725,-95.07174141
+973,1457,Lindale,"County Road 426, Smith County, Texas, 75771, USA",32.47398961,-95.58078982
+974,1458,Rockport,"1142, South Church Street, Rockport, Aransas County, Texas, 78382, USA",28.01309583,-97.0578106
+975,1459,Rockport,"TX 35-L Business, Rockport, Aransas County, Texas, 78381, USA",27.98239569,-97.0861078
+976,1460,Corpus Christi,"15145, Leeward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60249892,-97.21303995
+977,1461,Azle,"6817, Silver Creek Azle Road, Castle Hill Estate, Tarrant County, Texas, 76020, USA",32.84613016,-97.53943138
+978,1462,Dallas,"1913, Caddo Street, Dallas, Dallas County, Texas, 75204, USA",32.80026646,-96.78817818
+979,1463,Galveston,"1612, 37th Street, Galveston, Galveston County, Texas, 77550, USA",29.29026877,-94.80614182
+980,1464,Dallas,"6202, Mercedes Avenue, Lower Greenville, Dallas, Dallas County, Texas, 75214, USA",32.82728146,-96.75992263
+981,1465,Houston,"Starbucks, 5150, Sage Road, Houston, Harris County, Texas, 77056, USA",29.74088066,-95.46706037
+982,1466,Fort Worth,"3959, Alamo Avenue, Fort Worth, Tarrant County, Texas, 76107, USA",32.7305407,-97.37626461
+983,1467,Bacliff,"4731, Oleander Street, Clifton Beach, Galveston County, Texas, 77518, USA",29.50902196,-94.97708073
+984,1468,Dallas,"5418, Bryan Street, Lower Greenville, Dallas, Dallas County, Texas, 75206, USA",32.80719053,-96.76607027
+985,1469,Corpus Christi,"14493, , Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.62072354,-97.22272482
+986,1470,Houston,"477, Dennis Street, Houston, Harris County, Texas, 77006, USA",29.74764857,-95.37905164
+987,1471,Fort Worth,"1324, Smilax Avenue, Fort Worth, Tarrant County, Texas, 76111, USA",32.78197345,-97.31664229
+988,1472,City by the Sea,"155, Port Royal, City-by-the Sea, Aransas County, Texas, 78336, USA",27.95161561,-97.10470674
+989,1473,Nolanville,"502, Diana Lane, Harker Heights, Bell County, Texas, 76548, USA",31.07463537,-97.62748475
+990,1474,Fort Worth,"501, Samuels Avenue, Fort Worth Stockyards National Historic District, Fort Worth, Tarrant County, Texas, 76196, USA",32.76327316,-97.32935263
+991,1475,Fort Worth,"1119, Mistletoe Drive, Fort Worth, Tarrant County, Texas, 76110, USA",32.73254217,-97.35641942
+992,1476,Marble Falls,"612, Avenue J, Marble Falls, Burnet County, Texas, 78654, USA",30.57551115,-98.27661286
+993,1477,Houston,"Columbia Tap Rail Trail, Houston, Harris County, Texas, 77004, USA",29.74502431,-95.34668795
+994,1478,Galveston,"1498, 16th Street, Galveston, Galveston County, Texas, 77550, USA",29.29783267,-94.78230983
+995,1479,Kemp,"1292, Greenbriar Lane, Henderson County, Texas, 75143, USA",32.34635191,-96.19110885
+996,1480,Baytown,"Spring Park Drive, McNair, Harris County, Texas, 77521, USA",29.817829600000003,-94.9826179
+997,1481,Matagorda,"243, Maynard Street, Matagorda, Matagorda County, Texas, 77457, USA",28.70548976,-95.95881801
+998,1482,League City,"2970, Laguna Shores Lane, The Lakes at South Shore Harbor, League City, Galveston County, Texas, 77573, USA",29.5081113,-95.04858122
+999,1483,Taft,"Farm to Market Road 136, Aransas County, Texas, 78340, USA",28.07237271,-97.22317763
+1000,1484,Horseshoe Bay,"239, Free Rein, Horseshoe Bay, Llano County, Texas, 78657, USA",30.54369182,-98.35759093
+1001,1485,Austin,"14516, Cottingham Drive, Chaparral Crossing, Hornsby Bend, Travis County, Texas, 78725, USA",30.2321993,-97.58948969
+1002,1487,Kemah,"660, 5th Street, Kemah, Galveston County, Texas, 77565, USA",29.54465492,-95.01795625
+1003,1488,Rockport,"63, Bahama Drive, Key Allegro, Rockport, Aransas County, Texas, 78382, USA",28.03924992,-97.03009056
+1004,1489,Balch Springs,"14998, Bell Manor Court, Balch Springs, Dallas County, Texas, 75180, USA",32.70812459,-96.58768558
+1005,1490,Austin,"2300, Thornton Road, Zilker, Austin, Travis County, Texas, 78704, USA",30.24610083,-97.77225306
+1006,1491,Paige,"US 290, Paige, Bastrop County, Texas, USA",30.22622892,-97.16571613
+1007,1492,Mason,"Ranch to Market Road 2389, Grossville, Mason County, Texas, 76856, USA",30.65162389,-99.25118582
+1008,1493,Dallas,"704, Nesbitt Drive, Lower Greenville, Dallas, Dallas County, Texas, 75214, USA",32.81071424,-96.75398236
+1009,1496,Dallas,"Neiman Marcus Parking, 1601, Commerce Street, West End Historic District, Downtown PID, Dallas, Dallas County, Texas, 75226, USA",32.77985373,-96.79701345
+1010,1497,Sweeny,"6971, White Tail Lane, Brazoria County, Texas, 77480, USA",29.09397039,-95.68832511
+1011,1498,Austin,"5704, Walser Cove, Lantana Ridge, Austin, Travis County, Texas, 78735, USA",30.25047566,-97.87435749
+1012,1501,Katy,"Cinco Ranch High School, 23440, Cinco Ranch Boulevard, Cinco Ranch, Fort Bend County, Texas, 77494, USA",29.74867274,-95.77935059999999
+1013,1502,Groves,"6921, Hansen Boulevard, Groves, Jefferson County, Texas, 77619, USA",29.95749357,-93.9102446
+1014,1505,League City,"Bella Luna Lane, The Lakes at South Shore Harbor, League City, Galveston County, Texas, 77573, USA",29.50545445,-95.05228715
+1015,1506,Austin,"12201, Shropshire Boulevard, Copperfield, Austin, Travis County, Texas, 78753, USA",30.38754937,-97.65750991
+1016,1508,Cedar Creek,"656, Mesquite Drive, Cedar Creek, Bastrop County, Texas, 78612, USA",30.06340611,-97.52233467
+1017,1509,Fort Worth,"713, Blandin Street, Fort Worth, Tarrant County, Texas, 76111, USA",32.77326191,-97.30632818
+1018,1510,Austin,"1915, David Street, West Campus, Austin, Travis County, Texas, 78705, USA",30.28515311,-97.75028555
+1019,1512,Austin,"2502, East Cesar Chavez Street, Holly, Austin, Travis County, Texas, 78702, USA",30.25428092,-97.71646514
+1020,1513,Tool,"599, Yawl Drive, Tool, Henderson County, Texas, 75143, USA",32.27741643,-96.15883856
+1021,1515,Rockport,"199, Redhead Road, Copano Village, Aransas County, Texas, 78382, USA",28.06798388,-97.10118131
+1022,1516,Fort Worth,"Chisholm Ridge Elemetary School, 8301, Running River Lane, Fort Worth, Tarrant County, Texas, 76131, USA",32.88863115,-97.34072644
+1023,1518,Galveston,"Sonny's Place, 1206, 19th Street, Galveston, Galveston County, Texas, 77550, USA",29.29824574,-94.78622503
+1024,1522,Leander,"2813, South Walker Drive, Block House Creek, Williamson County, Texas, 78641, USA",30.54642759,-97.82836974
+1025,1524,Arlington,"Cloisters Drive, Arlington, Tarrant County, Texas, 76011, USA",32.76549757,-97.09357407
+1026,1529,Irving,"Medows Apartment, Irving, Dallas County, Texas, 75038, USA",32.85807979,-96.99746238
+1027,1530,San Antonio,"181, Funston Place, Government Hill, San Antonio, Bexar County, Texas, 78209, USA",29.45767069,-98.46720967
+1028,1531,Houston,"KHOU, Temple Drive, Houston, Harris County, Texas, 77019, USA",29.76014615,-95.38726916
+1029,1534,Corpus Christi,"Compass Street, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, USA",27.61696318,-97.22297658
+1030,1535,Galveston,"By The Sea Condominiums, 7310, Seawall Boulevard, Galveston, Galveston County, Texas, 77551, USA",29.26123812,-94.83760795
+1031,1536,Rockport,"773, Copano Cove Road, Aransas County, Texas, 78382, USA",28.06950222,-97.10876185
+1032,1537,Bandera,"373, 10th Street, Bandera, Bandera County, Texas, 78003, USA",29.72330861,-99.07317965
+1033,1539,Euless,"1001, Summerbrook Drive, Euless, Tarrant County, Texas, 76040, USA",32.82466054,-97.07386061
+1034,1540,Houston,"1803, Wakefield Drive, Oak Forest, Houston, Harris County, Texas, 77018, USA",29.82419641,-95.44474424
+1035,1541,Galveston,"Comfort Inn & Suites Beachfront, Seawall Boulevard, Galveston, Galveston County, Texas, 77551, USA",29.26585695,-94.82802615
+1036,1542,Denton,"North Elm Street, Denton, Denton County, Texas, 76204, USA",33.24237618,-97.13446735
+1037,1543,Houston,"15724, Falmouth Drive, Houston, Harris County, Texas, 77059, USA",29.58632103,-95.11741181
+1038,1544,La Porte,"3114, Hamilton Street, La Porte, Harris County, Texas, 77571, USA",29.62568246,-95.01226357
+1039,1545,Austin,"605, Deep Eddy Avenue, Bluffington, Austin, Travis County, Texas, 78703, USA",30.27930691,-97.77122204
+1040,1546,Houston,"Memorial Towers, 5400, Memorial Drive, North Inner Loop, Houston, Harris County, Texas, 77024, USA",29.76235093,-95.41652191
+1041,1547,Houston,"B&B Butchers, 1814, Washington Avenue, North Inner Loop, Houston, Harris County, Texas, 77007, USA",29.76763181,-95.37566936
+1042,1549,San Leon,"16th Street, San Leon, Galveston County, Texas, 77395, USA",29.49177787,-94.92721713
+1043,1550,Euless,"SH 183 TEXpress, Euless, Tarrant County, Texas, 76155, USA",32.83781292,-97.07516439
+1044,1551,Manor,"16305, Hamilton Point Circle, Manor, Travis County, Texas, 78653, USA",30.33892946,-97.55092604
+1045,1552,Galveston,"Mount Gilead Church, 35th Street, Galveston, Galveston County, Texas, 77550, USA",29.29129538,-94.80444062
+1046,1553,Austin,"5705, Westminster Drive, Windsor Park, Austin, Travis County, Texas, 78723, USA",30.31034353,-97.69072440000001
+1047,1554,Hurst,"440, Billy Creek Circle, Hurst, Tarrant County, Texas, 76053, USA",32.8152482,-97.19518515
+1048,1555,Austin,"West Martin Luther King Jr Boulevard, The Drag, Austin, Travis County, Texas, 78778, USA",30.28103008,-97.73993098
+1049,1556,Humble,"Detention Lake, Park Lakes Canyon Trace, Park Lakes, Dyersdale, Harris County, Texas, 77396, USA",29.93784137,-95.24219284
+1050,1557,Houston,"Lake Houston Parkway, King's Harbor, Houston, Harris County, Texas, 77345, USA",30.03661788,-95.17443118
+1051,1558,Fort Worth,"4030, Sunnydale Drive, Benbrook, Tarrant County, Texas, 76116, USA",32.71298988,-97.46576887
+1052,1560,Bastrop,"J. W. Pledger House, Wilson Street, Riverside Grove, Bastrop, Bastrop County, Texas, 78602, USA",30.1186142,-97.32388615
+1053,1562,Enchanted Oaks,"6194, Dogwood Circle, Enchanted Oaks, Henderson County, Texas, 75156, USA",32.26718309,-96.11348794
+1054,1563,League City,"542, Auburn Creek Lane, The Lakes at South Shore Harbor, League City, Galveston County, Texas, 77573, USA",29.51501703,-95.04605791
+1055,1564,Rockport,"1005, South Magnolia Street, Rockport, Aransas County, Texas, 78382, USA",28.01369349,-97.0554296
+1056,1565,Galveston,"2105, Mike Gaido Boulevard - 39th Street, Galveston, Galveston County, Texas, 77550, USA",29.28543356,-94.80713201
+1057,1566,Austin,"1500, Buffalo Gap Road, Bella Montagna, The Boulevard, Travis County, Texas, 78734, USA",30.38450653,-97.95724809
+1058,1567,Galveston,"2828, Broadway - Avenue J, Galveston, Galveston County, Texas, 77550, USA",29.29880496,-94.79827406
+1059,1568,Houston,"Texas Medical Center, William C Harvin Boulevard, Houston, Harris County, Texas, 77054-1921, USA",29.70163755,-95.39746092
+1060,1569,Rockport,"2684, West Lakeview Drive, Key Allegro, Rockport, Aransas County, Texas, 78382, USA",28.05244815,-97.03463299
+1061,1570,Fort Worth,"3064, Cortier Drive, Fort Worth, Tarrant County, Texas, 76116, USA",32.73061791,-97.46743155
+1062,1571,Salado,"498, Center Circle, Salado, Bell County, Texas, 76571, USA",30.94277636,-97.53350487
+1063,1572,Rockport,"Copano Village, Aransas County, Texas, 78358, USA",28.10138791,-97.02652126
+1064,1573,College Station,"408, Nevada Street, Callaway Villas, College Station, Brazos County, Texas, 77840, USA",30.59561383,-96.32631565
+1065,1574,Galveston,"3717, Avenue N ½, Galveston, Galveston County, Texas, 77550, USA",29.29045229,-94.80652477
+1066,1575,Corpus Christi,"Compass Street, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.61846005,-97.223265
+1067,1576,Rockport,"798, Copano Cove Road, Aransas County, Texas, 78382, USA",28.07047779,-97.10786015
+1068,1578,Houston,"19, Courtlandt Place, Houston, Harris County, Texas, 77006, USA",29.74299824,-95.38538694
+1069,1579,Matagorda,"78, Beach Front Drive, Matagorda County, Texas, 77457, USA",28.5994158,-95.97341999999999
+1070,1580,Dallas,"3208, Commerce Street, Deep Ellum PID, Dallas, Dallas County, Texas, 75226, USA",32.78401983,-96.77789776
+1071,1581,Austin,"3609, Clawson Road, South Lamar, Austin, Travis County, Texas, 78704, USA",30.23406878,-97.77989883
+1072,1582,Houston,"1194, West 26th Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.80953875,-95.42010137
+1073,1583,Houston,"13998, N. View Meadow Loop, Houston, Harris County, Texas, 77034, USA",29.60928225,-95.18775145
+1074,1584,Baytown,"137, East Cedar Bayou Lynchburg Road, Baytown, Harris County, Texas, 77521, USA",29.77909695,-94.95985531
+1075,1585,Corpus Christi,"14843, Leeward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60763436,-97.21003233
+1076,1586,Katy,"27560, Briscoe Park Court, Sagewood, Fort Bend County, Texas, 77494, USA",29.72958796,-95.84794582
+1077,1587,Austin,"15201, Lucian Drive, Chaparral Crossing, Hornsby Bend, Travis County, Texas, 78725, USA",30.23846776,-97.57905334
+1078,1588,Houston,"1967, Summer Street, North Inner Loop, Houston, Harris County, Texas, 77007, USA",29.77292087,-95.37771587
+1079,1589,Kemah,"Marina Way, League City, Galveston County, Texas, 77565, USA",29.55235846,-95.05271734
+1080,1590,Weatherford,"1448, East Lake Drive, Weatherford, Parker County, Texas, 76087, USA",32.78270761,-97.67669529
+1081,1591,Mason,"Ranch to Market Road 2389, Grossville, Mason County, Texas, 76856, USA",30.65217312,-99.25015561
+1082,1592,Dallas,"3005, Bryan Street, Deep Ellum PID, Dallas, Dallas County, Texas, 75206, USA",32.79172946,-96.78770804
+1083,1593,Dallas,"11012, Ridgemeadow Drive, Dallas, Dallas County, Texas, 75218, USA",32.85844775,-96.69412143
+1084,1594,Austin,"327, Ramble Lane, West Congress, Austin, Travis County, Texas, 78745, USA",30.20998708,-97.7760057
+1085,1595,Houston,"732, East 12½ Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.79322427,-95.38923666
+1086,1596,League City,"1003, TX 3, League City, Galveston County, Texas, 77573, USA",29.49930822,-95.08776232
+1087,1597,Rockport,"Mazatlan Drive, Key Allegro, Rockport, Aransas County, Texas, 78382, USA",28.04192654,-97.03155699
+1088,1598,Fredonia,"13799, Oak Grove Road, Fredonia, Mason County, Texas, 76869, USA",30.91110523,-99.07400989
+1089,1599,League City,"377, 3rd Street, League City, Galveston County, Texas, 77573, USA",29.51021112,-95.09515398
+1090,1601,Corpus Christi,"Windward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, USA",27.60091911,-97.21479547
+1091,1602,Corpus Christi,"14944, Leeward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60829042,-97.20939565
+1092,1604,Seabrook,"4499, Kingfish Drive, Seabrook, Harris County, Texas, 77586, USA",29.58356401,-95.01284985
+1093,1605,Fort Worth,"4738, White Oak Lane, River Oaks, Tarrant County, Texas, 76114, USA",32.77215083,-97.39051913
+1094,1606,Denton,"1029, Sierra Drive, Denton, Denton County, Texas, 76209, USA",33.24779702,-97.11713998
+1095,1608,Corpus Christi,"Primavera Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.62413587,-97.23622691
+1096,1609,Fort Worth,"4904, Cedar River Trail, Fort Worth, Tarrant County, Texas, 76137, USA",32.88454154,-97.27686824
+1097,1611,Houston,"653, Nagle Street, Houston, Harris County, Texas, 77003, USA",29.75074813,-95.34822055
+1098,1612,Humble,"698, Lexington Square, Humble, Harris County, Texas, 77338, USA",29.9898613,-95.24716035
+1099,1613,Fort Worth,"2821, Alton Road, Fort Worth, Tarrant County, Texas, 76109, USA",32.71008867,-97.37126331
+1100,1614,Austin,"6034, West Courtyard Drive, Cat Mountain, Austin, Travis County, Texas, 78730, USA",30.35538271,-97.79656303
+1101,1615,Wharton,"Ben and Mary Davis House, East Milam Street, Wharton, Wharton County, Texas, 77488, USA",29.31046729,-96.09840206
+1102,1616,Austin,"800, Tumbleweed Trail North, Austin Lake Hills, Barton Creek, Travis County, Texas, 78733, USA",30.33011945,-97.86375574
+1103,1617,Houston,"3014, Commerce Street, Houston, Harris County, Texas, 77003, USA",29.75335553,-95.34248457
+1104,1620,Port Aransas,"Dunes Drive, Port Aransas, Aransas County, Texas, 78373, USA",27.828148,-97.05673588
+1105,1621,Fort Worth,"7508, Vanessa Drive, Fort Worth, Tarrant County, Texas, 76112, USA",32.75281394,-97.19463661
+1106,1622,Austin,"611, West Monroe Street, Bouldin, Austin, Travis County, Texas, 78704, USA",30.24966895,-97.75594182
+1107,1624,Austin,"5709, Strathern Drive, Loma Vista, Travis County, Texas, 78724, USA",30.284719,-97.63742916
+1108,1625,Dallas,"8822, San Fernando Way, Dallas, Dallas County, Texas, 75218, USA",32.82371775,-96.71004047
+1109,1629,Fredericksburg,"Mund Hill Road, Cherry Spring, Gillespie County, Texas, USA",30.48360015,-99.03855309
+1110,1630,Katy,"Peek Road, Cinco Ranch, Fort Bend County, Texas, 77949, USA",29.729094500000002,-95.76628416
+1111,1631,Houston,"H-E-B, 16811, El Camino Real, Houston, Harris County, Texas, 77058, USA",29.5549873,-95.11757974
+1112,1634,Humble,"17654, Kayla Springs Lane, BlackStone Creek, Moonshine Hill, Harris County, Texas, 77396, USA",29.97605529,-95.2214542
+1113,1636,League City,"League City, Galveston County, Texas, 77573, USA",29.48738204,-95.0842997
+1114,1637,Katy,"23367, Leaf Ridge Drive, Cinco Ranch, Fort Bend County, Texas, 77494, USA",29.75443391,-95.77315946
+1115,1638,Clear Lake Shores,"1346, Marina Bay Drive, League City, Galveston County, Texas, 77565, USA",29.54096035,-95.03919137
+1116,1639,Austin,"6613, Garden Rose Path, Harris Branch, Austin, Travis County, Texas, 78754, USA",30.34602907,-97.61900949
+1117,1640,Dallas,"Robert T. Hill Middle School, 505, Easton Road, Dallas, Dallas County, Texas, 75218, USA",32.85520562,-96.70482289
+1118,1641,Flint,"18165, Marina View Lane, Pine Trail Estates, Smith County, Texas, 75762, USA",32.21673666,-95.46613245
+1119,1642,Santa Fe,"North Morningview Street, Santa Fe, Galveston County, Texas, 77510, USA",29.35115293,-95.05049318
+1120,1643,Murchison,"6752, Murphy Street, Murchison, Henderson County, Texas, 75778, USA",32.27674891,-95.74531108
+1121,1644,New Braunfels,"Blastenhoff, West Lincoln Street, New Braunfels, Comal County, Texas, 78130, USA",29.70392284,-98.11613967
+1122,1646,Katy,"5530, Honey Mesquite Way, Avalon at Seven Meadows, Seven Meadows, Cinco Ranch, Fort Bend County, Texas, 77494, USA",29.71669149,-95.79920266
+1123,1647,Houston,"Heights Hike & Bike Trail, North Inner Loop, Houston, Harris County, Texas, 77007, USA",29.78086855,-95.39136666
+1124,1648,Houston,"2324, Sycamore Grove Drive, Houston, Harris County, Texas, 77062, USA",29.58416789,-95.11080097
+1125,1650,Houston,"Macedonia Missionary Baptist Church, Wilson Street, Houston, Harris County, Texas, 77019, USA",29.75529881,-95.38122237
+1126,1651,Houston,"856, Sue Street, Houston, Harris County, Texas, 77009, USA",29.8070309,-95.36024735
+1127,1653,Euless,"983, South Main Street, Euless, Tarrant County, Texas, 76040, USA",32.82369082,-97.08220891
+1128,1654,Corpus Christi,"15401, Gun Cay Court, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.59728698,-97.23424619
+1129,1655,Bedford,"3212, Rustic Woods Drive, Bedford, Tarrant County, Texas, 76021, USA",32.85485179,-97.10216527
+1130,1656,Aubrey,"1012, Albatross Lane, Navo, Denton County, Texas, 76227, USA",33.2261832,-96.94374593
+1131,1657,Corpus Christi,"Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.62882847,-97.23307874
+1132,1659,Sugar Land,"1155, Knoll Crest Court, Greatwood, Sugar Land, Fort Bend County, Texas, 77479, USA",29.54881325,-95.68876923
+1133,1661,Comfort,"249, State Highway 27, Comfort, Kendall County, Texas, 78013, USA",29.9664553,-98.91472956
+1134,1663,Corpus Christi,"14866, Windward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60789984,-97.20819913
+1135,1664,Houston,"3462, Mc Ashan Street, Houston, Harris County, Texas, 77003, USA",29.75154667,-95.33801792
+1136,1666,Corpus Christi,"15044, Windward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60361599,-97.21006288
+1137,1667,Houston,"301, Overland Park Drive, Cloverleaf, Harris County, Texas, 77049, USA",29.81022873,-95.16967031
+1138,1669,Dallas,"223, West Danieldale Road, DeSoto, Dallas County, Texas, 75232, USA",32.6337909,-96.82547055
+1139,1670,Houston,"2007, West Indies Court, Nassau Bay, Harris County, Texas, 77058, USA",29.53697472,-95.0851601
+1140,1671,Fulton,"398, Laurel Street, Fulton, Aransas County, Texas, 78358, USA",28.06534172,-97.03554896
+1141,1672,Houston,"Absinthe, 609, Richmond Avenue, Houston, Harris County, Texas, 77006, USA",29.73384787,-95.38720844
+1142,1673,Texas City,"293, 17th Avenue North, Texas City, Galveston County, Texas, 77590, USA",29.40089323,-94.89836159
+1143,1674,Galveston,"4107, Las Palmas Street, Palm Beach, Galveston, Galveston County, Texas, 77554, USA",29.20162002,-94.94448479
+1144,1675,Austin,"3113, Long Day Drive, Pioneer Crossing East, Austin, Travis County, Texas, 78754, USA",30.36178856,-97.64508247
+1145,1676,Houston,"70, Drew Street, Houston, Harris County, Texas, 77006, USA",29.74881696,-95.38318865
+1146,1677,Pasadena,"Pansy Street, Pasadena, Harris County, Texas, 77505, USA",29.67716519,-95.16412087
+1147,1678,Houston,"1967, Summer Street, North Inner Loop, Houston, Harris County, Texas, 77007, USA",29.77292087,-95.37771587
+1148,1679,Austin,"204, Nelray Boulevard, North Loop, Austin, Travis County, Texas, 78751, USA",30.32053623,-97.72228815
+1149,1680,City by the Sea,"La Buena Vida Drive, City-by-the Sea, Aransas County, Texas, USA",27.95347095,-97.10582552
+1150,1681,Bellaire,"Shipley's Donuts, Newcastle Street, Holly View, Bellaire, Harris County, Texas, 77401, USA",29.71571125,-95.45172839
+1151,1682,Richmond,"24241, Via Renata Drive, Via Renata, Fort Bend County, Texas, 77406, USA",29.69162691,-95.79557244
+1152,1683,Houston,"2598, Holly Hall Street, Houston, Harris County, Texas, 77054, USA",29.68545737,-95.38832175
+1153,1684,Llano,"Sandy Harbor, Llano County, Texas, USA",30.57480381,-98.47142287
+1154,1685,Rockport,"2182, North Fulton Beach Road, Fulton, Aransas County, Texas, 78382, USA",28.10130024,-97.02869738
+1155,1686,Austin,"3409, Hollywood Avenue, Cherrywood, Austin, Travis County, Texas, 78722, USA",30.29137836,-97.7190728
+1156,1687,Spring,"7740, Danehill Drive, Oak Hills Estates, The Preserve, Harris County, Texas, 77389, USA",30.13381614,-95.54105634
+1157,1688,Dallas,"4616, Capitol Avenue, Lower Greenville, Dallas, Dallas County, Texas, 75204:75206, USA",32.80917513,-96.78449554
+1158,1689,San Antonio,"333, College Boulevard, Alamo Heights, Bexar County, Texas, 78209, USA",29.48757852,-98.47024426
+1159,1691,Houston,"14398, Harvest Ridge Road, Houston, Harris County, Texas, 77062, USA",29.58231925,-95.14513702
+1160,1692,Comfort,"299, State Highway 27, Comfort, Kendall County, Texas, 78013, USA",29.96710253,-98.91400818
+1161,1693,Houston,"2909, Brazos Street, Houston, Harris County, Texas, 77006, USA",29.74589932,-95.37988668
+1162,1694,Rockport,"25, Copano Ridge Road, Rockport, Aransas County, Texas, 78382, USA",28.07796279,-97.08683802
+1163,1695,Smithville,"La Reata Trail, Upton, Bastrop County, Texas, USA",29.98793229,-97.30825841
+1164,1697,Dallas,"801, Cliffdale Avenue, Dallas, Dallas County, Texas, 75211, USA",32.75155321,-96.86665848
+1165,1698,Houston,"1157, Eddington Street, Houston, Harris County, Texas, 77023, USA",29.73764487,-95.32989092
+1166,1699,Grapevine,"1277, South Pine Street, Grapevine, Tarrant County, Texas, 76051, USA",32.92766157,-97.08025814
+1167,1700,Sugar Land,"17179, Crystal Run Drive, Summerfield, Fort Bend County, Texas, 77498, USA",29.63464447,-95.67529461
+1168,1701,Highlands,"8977, Meredith, McNair, Harris County, Texas, 77562, USA",29.82841113,-95.00668923
+1169,1702,Fort Worth,"4024, Locke Avenue, Fort Worth, Tarrant County, Texas, 76107, USA",32.73209141,-97.37797224
+1170,1703,Dallas,"3101, State Street, Uptown PID, Dallas, Dallas County, Texas, 75204, USA",32.79945604,-96.79546359
+1171,1704,Galveston,"2181, Martin Luther King Boulevard - 29th Street, Galveston, Galveston County, Texas, 77550, USA",29.2878711,-94.79547983
+1172,1705,Houston,"Sleep Inn & Suites, Melwood Street, North Inner Loop, Houston, Harris County, Texas, 77009, USA",29.79373637,-95.37337808
+1173,1706,Lago Vista,"18109, Travis Circle, Hudson Bend, Travis County, Texas, 78645, USA",30.4227802,-97.96049702
+1174,1708,Dallas,"101, North Brookside Drive, Lower Greenville, Dallas, Dallas County, Texas, 75214:75243, USA",32.80916646,-96.74738236
+1175,1709,Webster,"Webster, Harris County, Texas, 77058, USA",29.53713057,-95.10590884
+1176,1710,Houston,"Harvard Elementary School, Harvard Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.78580107,-95.39646694
+1177,1712,Lumberton,"Cooks Lake Road, Loeb, Hardin County, Texas, 77657, USA",30.18849095,-94.15920827
+1178,1713,Kemah,"601, 6th Street, Kemah, Galveston County, Texas, 77565, USA",29.54377915,-95.01923149999999
+1179,1714,Frisco,"Rockingham Street, Hackberry, Denton County, Texas, 75036, USA",33.15767831,-96.91467368
+1180,1715,San Antonio,"7530, Glacier Lane, San Antonio, Bexar County, Texas, 78209, USA",29.50318101,-98.46893888
+1181,1716,The Woodlands,"135, South Star Ridge Circle, Star Ridge, Sterling Ridge, The Woodlands, Montgomery County, Texas, 77382, USA",30.18031974,-95.58579144
+1182,1717,Austin,"5707, Dunlap Road North, Chaparral Crossing, Travis County, Texas, 78725, USA",30.24841054,-97.56062175
+1183,1718,Austin,"6921, Scenic Brook Drive, West Oak Hill, Austin, Travis County, Texas, 78736, USA",30.23657821,-97.87995192
+1184,1719,Crosby,"Marek Lane, Crosby, Harris County, Texas, 77532, USA",29.91641707,-95.01800935
+1185,1720,Richmond,"Lantana Reach Drive, Westheimer Lakes, Foster, Fort Bend County, Texas, USA",29.69294474,-95.8206155
+1186,1721,League City,"911, Davis Road, League City, Galveston County, Texas, 77573, USA",29.54107136,-95.07696283
+1187,1722,Houston,"Main Street Theater, 2540, Times Boulevard, West University Place, Harris County, Texas, 77005, USA",29.71701336,-95.41776062
+1188,1723,Fort Worth,"2121, Hollow Hills Street, Fort Worth, Tarrant County, Texas, 76120, USA",32.74741151,-97.17920547
+1189,1724,Sugar Land,"2301, Ralston Branch Way, Telfair, Sugar Land, Fort Bend County, Texas, 77479, USA",29.57748439,-95.66035789
+1190,1725,Austin,"1616, West 9½ Street, Clarksville, Austin, Travis County, Texas, 78703, USA",30.27901621,-97.76121146
+1191,1726,Deer Park,"1030, Wynfield Drive, Deer Park, Harris County, Texas, 77536, USA",29.70366902,-95.10433098
+1192,1727,Colleyville,"3934, Jackson Road, Colleyville, Tarrant County, Texas, 76034, USA",32.86803377,-97.13161922
+1193,1728,Paige,"3194, US 290, Paige, Bastrop County, Texas, 78659, USA",30.22538968,-97.16925997
+1194,1729,Austin,"6912, Drexel Drive, University Hills, Austin, Travis County, Texas, 78723, USA",30.31849323,-97.67491287
+1195,1730,Houston,"18361, Point Lookout Drive, Nassau Bay, Harris County, Texas, 77058, USA",29.54599338,-95.09336574
+1196,1731,Arlington,"2665, River Hills Circle, Arlington, Tarrant County, Texas, 76006, USA",32.77677457,-97.09532859
+1197,1732,Austin,"5034, Steiner Ranch Boulevard, Marshall Ford, Mesa North, Travis County, Texas, 78732, USA",30.38257809,-97.87261929
+1198,1733,Houston,"Granite Mountain Trail, Carpenter's Landing, Cloverleaf, Harris County, Texas, 77049, USA",29.81630595,-95.16245466
+1199,1734,Austin,"1610, Enfield Road, Enfield, Austin, Travis County, Texas, 78703, USA",30.2833113,-97.75886695
+1200,1735,Kemah,"796, 6th Street, Kemah, Galveston County, Texas, 77565, USA",29.54363336,-95.01654592
+1201,1739,Denton,"University of North Texas - Oak Street Annex, Ponder Street, Denton, Denton County, Texas, 76201, USA",33.21678091,-97.14568891
+1202,1740,Fort Worth,"1509, South Henderson Street, Fairmount, Fort Worth, Tarrant County, Texas, 76110, USA",32.72793103,-97.33743686
+1203,1741,Houston,"2256, Rosewood Street, Houston, Harris County, Texas, 77004, USA",29.72678185,-95.37278029
+1204,1742,Fort Worth,"5760, Gleneagles Circle, Fort Worth, Tarrant County, Texas, 76137, USA",32.85147275,-97.29631918
+1205,1747,Bee Cave,"3306, San Benito Court, Spanish Oaks, Travis County, Texas, 78738, USA",30.31254335,-97.93261564
+1206,1749,Austin,"1191, Navasota Street, Central East Austin, Austin, Travis County, Texas, 78702, USA",30.27171706,-97.72734458
+1207,1751,Dallas,"Magnolia Hotel Dallas Downtown, 1401, Commerce Street, West End Historic District, Downtown PID, Dallas, Dallas County, Texas, 75226, USA",32.77985941,-96.79916703
+1208,1752,Jamaica Beach,"16515, Anchor Way, Jamaica Beach, Galveston County, Texas, 77554, USA",29.19825125,-94.98339059
+1209,1755,Fort Worth,"4616, Gila Bend Lane, Fort Worth, Tarrant County, Texas, 76137, USA",32.88833059,-97.28734015
+1210,1756,Fort Worth,"8728, Running River Lane, Fort Worth, Tarrant County, Texas, 76131, USA",32.89695741,-97.34045
+1211,1757,Houston,"11719, Lockwood Road, Dyersdale, Harris County, Texas, 77044, USA",29.89201434,-95.21113121
+1212,1758,La Porte,"8588, Oakhaven Road, Spenwick Place, La Porte, Harris County, Texas, 77571, USA",29.65774064,-95.10726237
+1213,1761,Austin,"Imperial Valley, Travis County, Texas, USA",30.28146965,-97.62268437
+1214,1764,Cedar Creek,"164, River Front Drive, Utley, Bastrop County, Texas, 78612, USA",30.18580157,-97.43993976
+1215,1766,Corpus Christi,"Comfort Inn And Suites, Windward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, USA",27.60455412,-97.21014997
+1216,1770,Houston,"585, West 25th Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.809173200000004,-95.40772036
+1217,1772,Houston,"West Lake Houston Parkway, Houston, Harris County, Texas, 77044, USA",29.92539459,-95.18251848
+1218,1775,Fort Worth,"5801, Paloma Blanca Drive, Fort Worth, Tarrant County, Texas, 76161, USA",32.834287599999996,-97.40958578
+1219,1781,Killeen,"5499, Donegal Bay Court, Killeen, Bell County, Texas, 76549, USA",31.08205155,-97.80998783
+1220,1783,Fredericksburg,"Mund Hill Road, Cherry Spring, Gillespie County, Texas, USA",30.48360015,-99.03855309
+1221,1784,El Lago,"Lake Arbor Drive, El Lago, Harris County, Texas, 77586, USA",29.57766069,-95.04617184
+1222,1785,Houston,"4523, Walker Street, Houston, Harris County, Texas, 77023, USA",29.74156862,-95.33167579999999
+1223,1786,Bryan,"Haswell Park Picnic #1, East William J Bryan Parkway, Bryan, Brazos County, Texas, TX 77802, USA",30.67300325,-96.35845588
+1224,1787,Houston,"Haiti Lane, Highlands, Harris County, Texas, 77562, USA",29.82775097,-95.07784326
+1225,1788,Houston,"1054, Hillstar Street, Avenue Place, Houston, Harris County, Texas, 77009, USA",29.79927438,-95.35797426
+1226,1790,Rockport,"155, Lakeview Road, Copano Village, Aransas County, Texas, 78382, USA",28.06631398,-97.09919629
+1227,1792,Bayside,"719, Copano Bay Drive, Bayside, Refugio County, Texas, 78340, USA",28.09497102,-97.21075869
+1228,1794,Richland Hills,"3032, Mimosa Drive, Richland Hills, Tarrant County, Texas, 76118, USA",32.80355297,-97.2322516
+1229,1795,New Braunfels,"Tubenbach, East Coll Street, New Braunfels, Comal County, Texas, 78130, USA",29.70259097,-98.11910317
+1230,1797,Fort Worth,"4001, Chisos Rim Trail, Fort Worth, Tarrant County, Texas, 76248, USA",32.90082829,-97.30238273
+1231,1798,Arlington,"2300, Balsam Drive, Arlington, Tarrant County, Texas, 76006, USA",32.77186444,-97.06806417
+1232,1799,Austin,"2600, Via Fortuna, Horseshoe Bend, Austin, Travis County, Texas, TX 78745, USA",30.25415747,-97.8002688
+1233,1801,Austin,"West Austin Youth Association, Exposition Boulevard, Westfield, Austin, Travis County, Texas, 78703, USA",30.28963826,-97.77318111
+1234,1803,Austin,"5224, Bantom Woods Bend, The Woodlands, Austin, Travis County, Texas, 78724, USA",30.27437266,-97.63115287
+1235,1804,Houston,"14613, Cobre Valley Drive, Houston, Harris County, Texas, 77062, USA",29.58400686,-95.13627622
+1236,1805,Seabrook,"2825, Carmel Woods Drive, Seabrook, Harris County, Texas, 77586, USA",29.5866974,-95.03908754
+1237,1806,Galveston,"Courtyard Galveston Island, 9550, Seawall Boulevard, Galveston, Galveston County, Texas, 77551, USA",29.24801676,-94.85982598
+1238,1808,Galveston,"By The Sea Condominiums, 7310, Seawall Boulevard, Galveston, Galveston County, Texas, 77551, USA",29.26120053,-94.83747364
+1239,1809,Austin,"2408, Canterbury Street, Holly, Austin, Travis County, Texas, 78702, USA",30.25305176,-97.71784972
+1240,1810,League City,"911, Davis Road, League City, Galveston County, Texas, 77573, USA",29.54107136,-95.07696283
+1241,1811,North Richland Hills,"Woodland Drive, North Richland Hills, Tarrant County, Texas, 76180, USA",32.89449748,-97.20356453
+1242,1812,Corpus Christi,"Saint Augustine Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, USA",27.60749433,-97.2100003
+1243,1813,Austin,"2900, Sunridge Drive, East Riverside - Oltorf, Austin, Travis County, Texas, 78741, USA",30.22083281,-97.72677539
+1244,1814,Kemah,"1461, Bayshore Drive, Kemah, Galveston County, Texas, 77565, USA",29.53471355,-95.01081902
+1245,1816,Arlington,"1898, Fielder Crossing Apartment, Arlington, Tarrant County, Texas, 76013, USA",32.73335421,-97.13485558
+1246,1817,Houston,"3826, Julian Street, North Inner Loop, Houston, Harris County, Texas, 77009, USA",29.791756,-95.38269611
+1247,1818,Austin,"2823, East Martin Luther King Jr Boulevard, Chestnut, Austin, Travis County, Texas, 78702, USA",30.28065194,-97.71072037
+1248,1819,Denton,"3389, Dunes Street, Denton, Denton County, Texas, 76209, USA",33.24464375,-97.10381740000001
+1249,1820,Corpus Christi,"Compass Street, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, USA",27.614186600000004,-97.2232439
+1250,1821,Smithville,"La Reata Trail, Upton, Bastrop County, Texas, USA",29.98623147,-97.30800116
+1251,1822,Irving,"3980, Evergreen Street, Irving, Dallas County, Texas, 75061, USA",32.82650168,-97.00309994
+1252,1823,Bastrop,"Colorado River Bridge at Bastrop, Riverside Grove, Bastrop, Bastrop County, Texas, 78602, USA",30.10818232,-97.32408073
+1253,1824,Irving,"3863, Double Oak Lane, Irving, Dallas County, Texas, 75061, USA",32.8274992,-97.00322209999999
+1254,1825,Matagorda,"56, Beach Front Drive, Matagorda County, Texas, 77457, USA",28.59908989,-95.97455335
+1255,1826,Austin,"1005, Mopac Circle, Austin, Travis County, Texas, 78746, USA",30.26625483,-97.78384934
+1256,1827,Austin,"5115, Maulding Pass, Arbor Trails, Austin, Travis County, Texas, 78749, USA",30.22794606,-97.84811453
+1257,1828,Pasadena,"Pine Avenue, Spencer Highway Gardens, Pasadena, Harris County, Texas, 77503, USA",29.67659752,-95.16422083
+1258,1829,Pflugerville,"13713, Lothian Drive, Northtown Park, Sprinkle Corner, Travis County, Texas, 78660, USA",30.41378511,-97.64864159999999
+1259,1830,Round Rock,"4245, Gattis School Road, Travis County, Texas, 78664, USA",30.49717975,-97.59541524
+1260,1831,Cottonwood Shores,"3750, Lakeview Drive, Cottonwood Shores, Burnet County, Texas, 78657, USA",30.56232748,-98.31896573
+1261,1832,China,"China PeeWee Football Field, Houston Street, China, Jefferson County, Texas, 77613, USA",30.05398599,-94.33900949
+1262,1833,Dallas,"5210, Homer Street, Knox, Dallas, Dallas County, Texas, 75204, USA",32.81768412,-96.78316266
+1263,1834,Houston,"1949, Johnson Street, North Inner Loop, Houston, Harris County, Texas, 77007, USA",29.77481476,-95.37397195
+1264,1835,Houston,"Bell (Southbound), Main Street, Houston, Harris County, Texas, 77002, USA",29.75306003,-95.36827789
+1265,1836,Houston,"1157, Eddington Street, Houston, Harris County, Texas, 77023, USA",29.73764487,-95.32989092
+1266,1837,Houston,"1988, Heights Boulevard, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.80378717,-95.39771691
+1267,1838,Houston,"Nassau Bay, Harris County, Texas, 77058, USA",29.54706887,-95.09048261
+1268,1839,Corpus Christi,"11800, Hearn Road, Calallen, Corpus Christi, Nueces County, Texas, 78410, USA",27.84634701,-97.60321443
+1269,1840,Houston,"2097, Sea Cove Court, Nassau Bay, Harris County, Texas, 77058, USA",29.53819232,-95.08450447
+1270,1841,Fort Worth,"8901, Saranac Trail, Fort Worth, Tarrant County, Texas, 76118, USA",32.79493075,-97.18667099999999
+1271,1842,Houston,"252, Stratford Street, Houston, Harris County, Texas, 77006, USA",29.74608945,-95.38394675
+1272,1843,Galveston,"Gianni's Italian Bistro & Bar, 2412, Seawall Boulevard, Galveston, Galveston County, Texas, 77550, USA",29.28855408,-94.78965704
+1273,1844,Weatherford,"Wright, Parker County, Texas, USA",32.85983208,-97.76093942
+1274,1845,Austin,"2326, Montclaire Street, Barton Hills, Austin, Travis County, Texas, 78704, USA",30.24959742,-97.78238954
+1275,1846,Canton,"Old Mill Marketplace, East Dallas Street, Canton, Van Zandt County, Texas, 75103, USA",32.55596504,-95.85609353
+1276,1847,Rio Frio,"Rio Frio, Real County, Texas, USA",29.63089449,-99.74323536
+1277,1848,Jamaica Beach,"4558, Pelican Road, Jamaica Beach, Galveston County, Texas, 77554, USA",29.191943100000003,-94.98349068
+1278,1849,Canton,"Old Mill Marketplace, East Dallas Street, Canton, Van Zandt County, Texas, 75103, USA",32.55503869,-95.85405145
+1279,1850,Clear Lake Shores,"League City, Galveston County, Texas, 77565, USA",29.53891117,-95.04041697
+1280,1851,Austin,"5913, Key View, Loma Vista, Austin, Travis County, Texas, 78724, USA",30.28873546,-97.64144242
+1281,1852,Bastrop,"McReynolds Road, Jordan, Bastrop County, Texas, 78953, USA",29.92029965,-97.35866603
+1282,1853,Fort Worth,"4020, Bryce Avenue, Fort Worth, Tarrant County, Texas, 76107, USA",32.73990482,-97.37778915
+1283,1854,League City,"4783, Broadmoor Drive, The Lakes at South Shore Harbor, League City, Galveston County, Texas, 77573, USA",29.52651223,-95.04930075
+1284,1855,Galveston,"Cove View Boulevard, Galveston, Galveston County, Texas, 77554, USA",29.24670995,-94.86826172
+1285,1856,Euless,"392, Nita Lane, Euless, Tarrant County, Texas, 76040, USA",32.83314101,-97.10473737
+1286,1857,Spicewood,"20200, Auger Cove, Travis County, Texas, USA",30.35725235,-98.04330925
+1287,1858,Corpus Christi,"14701, Whitecap Boulevard, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.6011523,-97.21591841
+1288,1859,Rockport,"300, East 5th Street, Rockport, Aransas County, Texas, 78382, USA",28.00596047,-97.06518746
+1289,1860,Houston,"Nassau Bay Yacht Club, 18250, Nassau Bay Drive, Nassau Bay, Harris County, Texas, 77058, USA",29.54050235,-95.09751076
+1290,1861,Austin,"1911, Eva Street, South River City, Austin, Travis County, Texas, 78704, USA",30.24461239,-97.75263901
+1291,1862,El Lago,"Lake Arbor Drive, El Lago, Harris County, Texas, 77586, USA",29.57766069,-95.04617184
+1292,1863,White Settlement,"8957, Sun View Drive, White Settlement, Tarrant County, Texas, 76108, USA",32.74464603,-97.47061274
+1293,1864,Dallas,"714, Liberty Street, Dallas, Dallas County, Texas, 75204, USA",32.790709299999996,-96.78809129999999
+1294,1865,Dale,"Ranch View Road, Dale, Caldwell County, Texas, 78616, USA",29.94497199,-97.590186
+1295,1866,Grapevine,"507, Red Bud Drive, Grapevine, Tarrant County, Texas, 76051, USA",32.95589152,-97.06999623
+1296,1867,Sugar Land,"682, Rolling Mill Drive, Sugar Land, Fort Bend County, Texas, 77498, USA",29.628286100000004,-95.62612079
+1297,1868,Tool,"1846, Cherokee Trail, Tool, Henderson County, Texas, 75143, USA",32.27471473,-96.15624215
+1298,1869,Rockport,"North Fulton Beach Road, Copano Village, Aransas County, Texas, 78358, USA",28.103221500000004,-97.02732752
+1299,1870,Euless,"Bear Creek Parkway, Euless, Tarrant County, Texas, 76040, USA",32.85470522,-97.06946409999999
+1300,1871,Austin,"1711, East 32nd Street, Cherrywood, Austin, Travis County, Texas, 78722, USA",30.28583744,-97.71593489
+1301,1872,Austin,"1105, Linden Street, Govalle, Austin, Travis County, Texas, 78702, USA",30.26545608,-97.70430416
+1302,1873,Houston,"16308, Brookford Drive, Houston, Harris County, Texas, 77059, USA",29.59793261,-95.11258563
+1303,1874,Houston,"Fountain View Drive, Houston, Harris County, Texas, TX 77057, USA",29.74307294,-95.48577153
+1304,1875,Galveston,"5598, Avenue O ½, Galveston, Galveston County, Texas, 77551, USA",29.28315667,-94.82730864
+1305,1877,Corpus Christi,"3447, Maui Drive, Flour Bluff, Corpus Christi, Nueces County, Texas, 78418, USA",27.624636199999998,-97.29262553
+1306,1878,Dallas,"906, Allen Street, Dallas, Dallas County, Texas, 75204, USA",32.79089599,-96.78924961
+1307,1879,Euless,"2215, Westpark Court, Euless, Tarrant County, Texas, 76040, USA",32.83469984,-97.11826129
+1308,1880,Irving,"1928, Cloverleaf Lane, Irving, Dallas County, Texas, 75061, USA",32.83296054,-96.98869978
+1309,1881,Dallas,"Baylor University Medical Center, 3500, Gaston Avenue, Dallas, Dallas County, Texas, 75246, USA",32.78953897,-96.77577135
+1310,1883,Houston,"4070, Levonshire Drive, Woodshire, Houston, Harris County, Texas, 77025, USA",29.68437614,-95.44205452
+1311,1884,Austin,"3519, Pinnacle Road, Austin, Travis County, Texas, 78746, USA",30.27048747,-97.81065119
+1312,1885,Houston,"League City, Galveston County, Texas, 77565, USA",29.54065656,-95.05784855
+1313,1886,Lockhart,"Old Colony Line Road, McMahan, Caldwell County, Texas, USA",29.87525983,-97.54049686
+1314,1887,Austin,"8205, Canoga Avenue, Loma Vista, Austin, Travis County, Texas, 78724, USA",30.28502334,-97.63622834
+1315,1888,Rockport,"287, Ridge Harbor Drive, Copano Village, Aransas County, Texas, 78382, USA",28.07683674,-97.09871179
+1316,1889,Irving,"4002, Rome Court, Irving, Dallas County, Texas, 75038, USA",32.86471195,-96.99680325
+1317,1890,Argyle,"Lake Trail, Copper Canyon, Denton County, Texas, 76226, USA",33.11431124,-97.09022085
+1318,1892,Temple,"4438, Box Canyon Drive, Temple, Bell County, Texas, 76502, USA",31.06004225,-97.38053853
+1319,1893,Galveston,"The Victorian Condo-Hotel Resort & Conference Center, Seawall Boulevard, Galveston, Galveston County, Texas, 77551, USA",29.26605773,-94.83012272
+1320,1894,Austin,"3812, Pevetoe Street, Chaparral Crossing, Hornsby Bend, Travis County, Texas, 78725, USA",30.23500266,-97.58571239
+1321,1895,Austin,"1900, Rossetti Drive, Coronado Hills, Austin, Travis County, Texas, 78752, USA",30.32581421,-97.68251534
+1322,1896,Corpus Christi,"14477, Commodore Street, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.61864333,-97.22618713
+1323,1897,Dayton,"1626, County Line Road, Old River Community, Liberty County, Texas, 77535, USA",29.88882428,-94.78889965
+1324,1899,Austin,"3406, Willowrun Cove, St. Edwards, Austin, Travis County, Texas, 78704, USA",30.22556204,-97.75452940000001
+1325,1900,Manchaca,"13864, Carpenter Lane, Elm Grove, Hays County, Texas, 78652, USA",30.13155781,-97.88393839
+1326,1901,Corpus Christi,"14201, Elbow Street, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.59066562,-97.2257923
+1327,1902,Houston,"Chevron, Old Spanish Trail, Houston, Harris County, Texas, 77054-1921, USA",29.69779132,-95.38837693
+1328,1904,Fort Worth,"732, Coates Drive, River Oaks, Tarrant County, Texas, 76114, USA",32.76843724,-97.40386458
+1329,1905,Aubrey,"Benevolent Court, Providence Village, New Hope, Denton County, Texas, 76227, USA",33.2422524,-96.96384331
+1330,1907,Houston,"2008, Sheridan Street, Houston, Harris County, Texas, 77030, USA",29.70808777,-95.40596822
+1331,1908,Flint,"18280, Singing Wood Lane, Pine Trail Estates, Smith County, Texas, 75762, USA",32.21671129,-95.45280839
+1332,1910,Killeen,"1501, Daude Avenue, Killeen, Bell County, Texas, 76542, USA",31.09846258,-97.76222577
+1333,1912,New Braunfels,"Landa Park Golf Course, Golf Course Drive, New Braunfels, Comal County, Texas, 78130, USA",29.70832125,-98.12729069
+1334,1913,Bandera,"803, 13th Street, Bandera, Bandera County, Texas, 78003, USA",29.72981676,-99.07397824
+1335,1915,Bay City,"58, R M Cole Road, Bay City, Matagorda County, Texas, 77414, USA",29.01402294,-95.9780939
+1336,1916,Seabrook,"Kemah, Galveston County, Texas, USA",29.54853507,-95.01785916
+1337,1919,Houston,"Egret Oaks Lane, Webster, Harris County, Texas, USA",29.53793955,-95.09643918
+1338,1920,Galveston,"1695, 24th Street, Galveston, Galveston County, Texas, 77550, USA",29.29459356,-94.79137618
+1339,1921,League City,"Moody Avenue, League City, Galveston County, Texas, 77573, USA",29.52401624,-95.0882233
+1340,1922,Del Valle,"11715, Foley Drive, Stoney Ridge North, Moores Crossing, Travis County, Texas, 78617, USA",30.17130842,-97.6376635
+1341,1924,Galveston,"2018, Travel Air Road, Evia, Galveston, Galveston County, Texas, 77554, USA",29.26629911,-94.87414035
+1342,1925,Bryan,"Old Hearne Road, Sutton, Robertson County, Texas, 07789, USA",30.80685058,-96.52586059
+1343,1926,Richmond,"26355, Mercy Moss Lane, Westheimer Lakes, Foster, Fort Bend County, Texas, 77406, USA",29.69346906,-95.83223866
+1344,1927,Richmond,"San Luca Street, Casa Bella, Cinco Ranch, Fort Bend County, Texas, 77494, USA",29.69595778,-95.78164386
+1345,1933,Houston,"515, East 27th Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.81155309,-95.39325541
+1346,1936,Austin,"2216, Thornton Road, Zilker, Austin, Travis County, Texas, 78704, USA",30.24572699,-97.77191554
+1347,1937,Sugar Land,"16993, Old Richmond Road, Pheasant Creek, Fort Bend County, Texas, 77498, USA",29.64791241,-95.66021442
+1348,1939,Corpus Christi,"15065, Aruba Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60675996,-97.21264403
+1349,1940,Dallas,"1240, Lakeland Drive, Dallas, Dallas County, Texas, 75218, USA",32.82261892,-96.71421902
+1350,1941,Austin,"2703, La Mesa Drive, Dawson, Austin, Travis County, Texas, 78704, USA",30.23670311,-97.76038203
+1351,1943,Austin,"3904, John Simpson Trail, Marshall Ford, Plateau, Travis County, Texas, 78732, USA",30.38069874,-97.893055
+1352,1944,Galveston,"1111, Seawall Boulevard, Galveston, Galveston County, Texas, 77550, USA",29.29897904,-94.77724824
+1353,1945,Houston,"MOD Pizza, 5777, San Felipe Road, Houston, Harris County, Texas, 77057, USA",29.74916546,-95.47828245
+1354,1947,Houston,"4523, Walker Street, Houston, Harris County, Texas, 77023, USA",29.74156862,-95.33167579999999
+1355,1948,Houston,"Irma's Southwest Grill, 1314, Texas Avenue, Houston, Harris County, Texas, 77002, USA",29.75770054,-95.35891589
+1356,1950,Richmond,"399, Waterside Estates Circle, Waterside Estates, Pecan Grove, Fort Bend County, Texas, 77406, USA",29.64864295,-95.7353304
+1357,1952,Fort Worth,"4301, Calmont Avenue, Fort Worth, Tarrant County, Texas, 76107, USA",32.73377587,-97.38257348
+1358,1953,Houston,"3482, Mc Ashan Street, Houston, Harris County, Texas, 77003, USA",29.75152763,-95.33785654
+1359,1954,Dallas,"626, Aqua Drive, Dallas, Dallas County, Texas, 75218, USA",32.84968465,-96.71052944
+1360,1955,Houston,"773, White Street, North Inner Loop, Houston, Harris County, Texas, 77007, USA",29.76596426,-95.37851235
+1361,1956,Fort Worth,"2417, Willing Avenue, Fort Worth, Tarrant County, Texas, 76110, USA",32.71622341,-97.34141368
+1362,1957,Grapevine,"1729, Parkwood Drive, Grapevine, Tarrant County, Texas, 76051, USA",32.91520525,-97.10356257
+1363,1958,Hurst,"Thousand Oaks Drive, Hurst, Tarrant County, Texas, 76054, USA",32.84160796,-97.19085861
+1364,1959,Houston,"Rio Villa Drive, Highlands, Harris County, Texas, 77049, USA",29.82961996,-95.08280845
+1365,1960,Richmond,"5503, Baldwin Elm Street, Grand Mission Estates, Pecan Grove, Fort Bend County, Texas, 77407, USA",29.67206045,-95.72590509
+1366,1961,Denton,"3389, Dunes Street, Denton, Denton County, Texas, 76209, USA",33.24464375,-97.10381740000001
+1367,1962,Houston,"386, Gargan Street, Houston, Harris County, Texas, 77009, USA",29.77584831,-95.3639174
+1368,1963,Bastrop,"1350, Kulua Court, Bastrop, Bastrop County, Texas, 78602, USA",30.08959213,-97.28640109
+1369,1964,Houston,"762, Mathis Street, North Inner Loop, Houston, Harris County, Texas, 77009, USA",29.802010600000003,-95.37438848
+1370,1965,Houston,"4675, Park Drive, Houston, Harris County, Texas, 77023, USA",29.73939242,-95.32974346
+1371,1966,Fort Worth,"301, North Beach Street, Fort Worth, Tarrant County, Texas, 76111, USA",32.76775871,-97.28880132
+1372,1967,Lago Vista,"3404, American Drive, Lago Vista, Travis County, Texas, 78645, USA",30.43962147,-98.02030022
+1373,1968,Denton,"497, Carroll Boulevard, Denton, Denton County, Texas, 76201, USA",33.21146963,-97.13756747
+1374,1969,College Station,"The District on Luther, College Station, Brazos County, Texas, 77862, USA",30.59150732,-96.34119957
+1375,1970,Grapevine,"2713, Kimberly Drive, Grapevine, Tarrant County, Texas, 76051, USA",32.96725846,-97.10704008
+1376,1971,Corpus Christi,"Hawthorn Suites, Windward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, USA",27.60574676,-97.2098105
+1377,1972,Richmond,"901, Opal Chase Drive, Crabb, Fort Bend County, Texas, 77469, USA",29.54866753,-95.70929801
+1378,1973,Seabrook,"Suzanne, Seabrook, Harris County, Texas, 77586, USA",29.56585506,-95.04273069
+1379,1974,Galveston,"711, 17th Street, Galveston, Galveston County, Texas, 77550, USA",29.30413453,-94.78602989
+1380,1975,Houston,"1571, Blair Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.79920108,-95.40721043
+1381,1976,Richmond,"1240, Plantation Meadows Drive, Pecan Grove, Fort Bend County, Texas, 77406, USA",29.60852808,-95.72794177
+1382,1977,Bryan,"2143, Pantera Drive, Bryan, Brazos County, Texas, 77807, USA",30.62490054,-96.38222363
+1383,1978,Corpus Christi,"Windward Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, USA",27.59934583,-97.21686491
+1384,1980,Seabrook,"Kemah, Galveston County, Texas, USA",29.54853507,-95.01785916
+1385,1981,Fort Worth,"1517, 8th Avenue, Fairmount, Fort Worth, Tarrant County, Texas, 76110, USA",32.72766481,-97.34351576
+1386,1982,Arlington,"Ridge Haven Drive, Arlington, Tarrant County, Texas, 76011, USA",32.76237644,-97.08564027
+1387,1983,Dallas,"3030, North Buckner Boulevard, Dallas, Dallas County, Texas, 75228, USA",32.80864727,-96.68075602
+1388,1984,Baytown,"8632, Briar Oaks Lane, Cove, Chambers County, Texas, 77523, USA",29.82052157,-94.84326313
+1389,1985,Bastrop,"296, Pine View Loop, Bastrop, Bastrop County, Texas, 78602, USA",30.12892533,-97.27241145
+1390,1986,Houston,"Houston, Harris County, Texas, 77056, USA",29.73473803,-95.46734369
+1391,1987,Houston,"2500, Arbor Street, Houston, Harris County, Texas, 77004, USA",29.72304012,-95.37275846
+1392,1988,Baytown,"8048, Blue Jay Street, Chambers County, Texas, 77523, USA",29.80892974,-94.89791899
+1393,1989,Kemah,"Marina Bay Drive, League City, Galveston County, Texas, 77565, USA",29.54092985,-95.04322454
+1394,1990,Corpus Christi,"14874, Granada Drive, Mustang-Padre Island, Corpus Christi, Nueces County, Texas, 78418, USA",27.60997293,-97.21076292
+1395,1991,Bastrop,"215, Riverwood Drive, Riverside Grove, Bastrop, Bastrop County, Texas, 78602, USA",30.12249095,-97.33766583
+1396,1992,Dayton,"12725, Cherry Point Road, Mont Belvieu, Chambers County, Texas, 77580, USA",29.88080399,-94.87056706
+1397,1993,League City,"Tobarra Lane, Mar Bella, League City, Galveston County, Texas, 77518, USA",29.51828336,-95.01143883
+1398,1994,Houston,"1189, West 23rd Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.8070614,-95.42017515
+1399,1995,Palacios,"Palacios, Matagorda County, Texas, 77428, USA",28.70225135,-96.21568514
+1400,1996,Houston,"1567, Castle Court, Houston, Harris County, Texas, 77006, USA",29.73202906,-95.39857579999999
+1401,1997,Bandera,"1198, English Hollow Drive, Highland Waters, Bandera County, Texas, 78003, USA",29.77237744,-99.13132732
+1402,1998,Houston,"939, Waverly Street, North Inner Loop, Houston, Harris County, Texas, 77008, USA",29.78764519,-95.40460788
+1403,1999,Fort Worth,"525, Riverflat Drive, Fort Worth, Tarrant County, Texas, 76131, USA",32.83906006,-97.37005639
+1404,2000,Fort Worth,"4912, Boat Club Road, Lake Worth, Tarrant County, Texas, 76161, USA",32.82690015,-97.41889846
