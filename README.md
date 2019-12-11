@@ -23,9 +23,9 @@ Project is created with:
 
 ## Authors
 * Nisa Bukhari
-* Nick
-* Todd
-* Nader
+* Nickolas SMi
+* Todd Grubbs
+* Nader Elkhatib
 
 
 ## Sources
