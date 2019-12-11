@@ -3,10 +3,6 @@ Running the numbers on the best short term rental properties via Airbnb. This pr
 
 ![abnb](https://user-images.githubusercontent.com/49736893/70658596-e9ca3e00-1c23-11ea-8c08-d61012d5ee1a.png)
 
-![map](https://user-images.githubusercontent.com/49736893/70658597-e9ca3e00-1c23-11ea-9fd8-dd47ee6c9ad7.jpg)
-
-![yelp](https://user-images.githubusercontent.com/49736893/70658598-e9ca3e00-1c23-11ea-860e-351f13eacca5.png)
-
 ## Compared items include:
 
 * Over all population
@@ -14,10 +10,15 @@ Running the numbers on the best short term rental properties via Airbnb. This pr
 * Yelp reviews of resturaunts in the areas
 * Walkscore and it's impact on price
 
+
+![map](https://user-images.githubusercontent.com/49736893/70658597-e9ca3e00-1c23-11ea-9fd8-dd47ee6c9ad7.jpg)
+
 ## Table of contents
 * [Technologies](#technologies)
 * [Authors](#authors)
 * [Sources](#sources)
+
+![yelp](https://user-images.githubusercontent.com/49736893/70658598-e9ca3e00-1c23-11ea-860e-351f13eacca5.png)
 
 
 ## Technologies
