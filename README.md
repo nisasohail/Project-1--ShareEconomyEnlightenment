@@ -1,12 +1,10 @@
 # Share Economy Enlightenment
-running the numbers on the best short term rental properties via Airbnb
+Running the numbers on the best short term rental properties via Airbnb. This project looks at some of the factors affecting price and popularity of Airbnb rentals in Texas over the last 5 years. 
 
-this project looks at some of the factors affecting price and popularity of Airbnb rentals in Texas over the last 5 years. 
+## Compared items include:
 
-Compared items include:
-
-* over all population
-* price per zipcode
+* Over all population
+* Price per zipcode
 * Yelp reviews of resturaunts in the areas
 * Walkscore and it's impact on price
 
