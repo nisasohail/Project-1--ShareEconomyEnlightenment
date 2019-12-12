@@ -30,7 +30,7 @@ Project is created with:
 
 ## Authors
 * Nisa Bukhari
-* Nickolas SMi
+* Nickolas Smith
 * Todd Grubbs
 * Nader Elkhatib
 
