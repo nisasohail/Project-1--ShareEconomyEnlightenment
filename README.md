@@ -22,7 +22,6 @@ Running the numbers on the best short term rental properties via Airbnb. This pr
 
 
 ## Technologies
-Project is created with:
 * Python
 * Pandas
 * YELP API
